@@ -97,5 +97,93 @@
   "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v8-henri-v1.json",
   "duree_ms": 12864,
   "date": "2026-11-25T23:21:07.299053+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01",
+  "segment": "v1",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v1-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v1-vivienne-v1.json",
+  "duree_ms": 4848,
+  "date": "2026-11-25T23:26:50.391124+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01",
+  "segment": "v2",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v2-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v2-vivienne-v1.json",
+  "duree_ms": 2424,
+  "date": "2026-11-25T23:26:53.212731+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01",
+  "segment": "v3",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v3-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v3-vivienne-v1.json",
+  "duree_ms": 6864,
+  "date": "2026-11-25T23:26:59.760389+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01",
+  "segment": "v4",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v4-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v4-vivienne-v1.json",
+  "duree_ms": 3432,
+  "date": "2026-11-25T23:27:03.840092+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01",
+  "segment": "v5",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v5-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v5-vivienne-v1.json",
+  "duree_ms": 6456,
+  "date": "2026-11-25T23:27:12.094807+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01",
+  "segment": "v6",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v6-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v6-vivienne-v1.json",
+  "duree_ms": 5712,
+  "date": "2026-11-25T23:27:23.050942+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01",
+  "segment": "v7",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v7-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v7-vivienne-v1.json",
+  "duree_ms": 6288,
+  "date": "2026-11-25T23:27:28.375151+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01",
+  "segment": "v8",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v8-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01/poulet-chair-scene-01-v8-vivienne-v1.json",
+  "duree_ms": 10512,
+  "date": "2026-11-25T23:27:36.516725+00:00"
  }
 ]

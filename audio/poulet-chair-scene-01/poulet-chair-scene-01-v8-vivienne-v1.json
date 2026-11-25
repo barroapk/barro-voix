@@ -1,0 +1,167 @@
+{
+ "scene": "poulet-chair-scene-01",
+ "segment": "v8",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Une dernière chose. Les poulets élevés ensemble forment une bande. Alors, une question pour toi : combien de bandes pourrais-tu faire en une année ? Garde-la en tête, nous y répondrons plus tard.",
+ "texte_prononce": "Une dernière chose. Les poulets élevés ensemble forment une bande. Alors, une question pour toi : combien de bandes pourrais-tu faire en une année ? Garde-la en tête, nous y répondrons plus tard.",
+ "substitutions": [],
+ "duree_ms": 10512,
+ "reperes": [
+  {
+   "texte": "Une",
+   "debut_ms": 50,
+   "duree_ms": 175
+  },
+  {
+   "texte": "dernière",
+   "debut_ms": 225,
+   "duree_ms": 350
+  },
+  {
+   "texte": "chose",
+   "debut_ms": 575,
+   "duree_ms": 488
+  },
+  {
+   "texte": "Les",
+   "debut_ms": 1400,
+   "duree_ms": 188
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 1588,
+   "duree_ms": 225
+  },
+  {
+   "texte": "élevés",
+   "debut_ms": 1812,
+   "duree_ms": 388
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 2200,
+   "duree_ms": 500
+  },
+  {
+   "texte": "forment",
+   "debut_ms": 2700,
+   "duree_ms": 250
+  },
+  {
+   "texte": "une",
+   "debut_ms": 2950,
+   "duree_ms": 138
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 3088,
+   "duree_ms": 438
+  },
+  {
+   "texte": "Alors",
+   "debut_ms": 3912,
+   "duree_ms": 350
+  },
+  {
+   "texte": "une",
+   "debut_ms": 4462,
+   "duree_ms": 75
+  },
+  {
+   "texte": "question",
+   "debut_ms": 4538,
+   "duree_ms": 338
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 4875,
+   "duree_ms": 175
+  },
+  {
+   "texte": "toi",
+   "debut_ms": 5050,
+   "duree_ms": 325
+  },
+  {
+   "texte": "combien",
+   "debut_ms": 5650,
+   "duree_ms": 300
+  },
+  {
+   "texte": "de",
+   "debut_ms": 5950,
+   "duree_ms": 112
+  },
+  {
+   "texte": "bandes",
+   "debut_ms": 6062,
+   "duree_ms": 250
+  },
+  {
+   "texte": "pourrais-tu",
+   "debut_ms": 6312,
+   "duree_ms": 338
+  },
+  {
+   "texte": "faire",
+   "debut_ms": 6650,
+   "duree_ms": 238
+  },
+  {
+   "texte": "en",
+   "debut_ms": 6888,
+   "duree_ms": 38
+  },
+  {
+   "texte": "une",
+   "debut_ms": 6925,
+   "duree_ms": 150
+  },
+  {
+   "texte": "année",
+   "debut_ms": 7075,
+   "duree_ms": 338
+  },
+  {
+   "texte": "Garde-la",
+   "debut_ms": 7750,
+   "duree_ms": 475
+  },
+  {
+   "texte": "en",
+   "debut_ms": 8225,
+   "duree_ms": 100
+  },
+  {
+   "texte": "tête",
+   "debut_ms": 8325,
+   "duree_ms": 400
+  },
+  {
+   "texte": "nous",
+   "debut_ms": 8988,
+   "duree_ms": 75
+  },
+  {
+   "texte": "y",
+   "debut_ms": 9062,
+   "duree_ms": 125
+  },
+  {
+   "texte": "répondrons",
+   "debut_ms": 9188,
+   "duree_ms": 412
+  },
+  {
+   "texte": "plus",
+   "debut_ms": 9600,
+   "duree_ms": 150
+  },
+  {
+   "texte": "tard",
+   "debut_ms": 9750,
+   "duree_ms": 412
+  }
+ ]
+}

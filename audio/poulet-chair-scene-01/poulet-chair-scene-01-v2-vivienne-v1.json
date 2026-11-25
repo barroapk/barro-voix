@@ -1,0 +1,52 @@
+{
+ "scene": "poulet-chair-scene-01",
+ "segment": "v2",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Mais au fait, qu'est-ce qu'un poulet de chair ?",
+ "texte_prononce": "Mais au fait, qu'est-ce qu'un poulet de chair ?",
+ "substitutions": [],
+ "duree_ms": 2424,
+ "reperes": [
+  {
+   "texte": "Mais",
+   "debut_ms": 62,
+   "duree_ms": 162
+  },
+  {
+   "texte": "au",
+   "debut_ms": 225,
+   "duree_ms": 75
+  },
+  {
+   "texte": "fait",
+   "debut_ms": 300,
+   "duree_ms": 450
+  },
+  {
+   "texte": "qu'est-ce",
+   "debut_ms": 962,
+   "duree_ms": 188
+  },
+  {
+   "texte": "qu'un",
+   "debut_ms": 1150,
+   "duree_ms": 125
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 1275,
+   "duree_ms": 225
+  },
+  {
+   "texte": "de",
+   "debut_ms": 1500,
+   "duree_ms": 112
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 1612,
+   "duree_ms": 462
+  }
+ ]
+}

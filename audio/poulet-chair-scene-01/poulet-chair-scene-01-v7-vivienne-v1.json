@@ -1,0 +1,122 @@
+{
+ "scene": "poulet-chair-scene-01",
+ "segment": "v7",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Tu comprends maintenant pourquoi c'est important en élevage : on choisit un poulet qui grandit vite, pour pouvoir le vendre vers six semaines.",
+ "texte_prononce": "Tu comprends maintenant pourquoi c'est important en élevage : on choisit un poulet qui grandit vite, pour pouvoir le vendre vers six semaines.",
+ "substitutions": [],
+ "duree_ms": 6288,
+ "reperes": [
+  {
+   "texte": "Tu",
+   "debut_ms": 50,
+   "duree_ms": 125
+  },
+  {
+   "texte": "comprends",
+   "debut_ms": 175,
+   "duree_ms": 312
+  },
+  {
+   "texte": "maintenant",
+   "debut_ms": 488,
+   "duree_ms": 300
+  },
+  {
+   "texte": "pourquoi",
+   "debut_ms": 788,
+   "duree_ms": 325
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 1112,
+   "duree_ms": 112
+  },
+  {
+   "texte": "important",
+   "debut_ms": 1225,
+   "duree_ms": 438
+  },
+  {
+   "texte": "en",
+   "debut_ms": 1662,
+   "duree_ms": 38
+  },
+  {
+   "texte": "élevage",
+   "debut_ms": 1700,
+   "duree_ms": 488
+  },
+  {
+   "texte": "on",
+   "debut_ms": 2638,
+   "duree_ms": 25
+  },
+  {
+   "texte": "choisit",
+   "debut_ms": 2662,
+   "duree_ms": 338
+  },
+  {
+   "texte": "un",
+   "debut_ms": 3000,
+   "duree_ms": 50
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 3050,
+   "duree_ms": 250
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 3300,
+   "duree_ms": 125
+  },
+  {
+   "texte": "grandit",
+   "debut_ms": 3425,
+   "duree_ms": 312
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 3738,
+   "duree_ms": 362
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 4338,
+   "duree_ms": 125
+  },
+  {
+   "texte": "pouvoir",
+   "debut_ms": 4462,
+   "duree_ms": 275
+  },
+  {
+   "texte": "le",
+   "debut_ms": 4738,
+   "duree_ms": 75
+  },
+  {
+   "texte": "vendre",
+   "debut_ms": 4812,
+   "duree_ms": 312
+  },
+  {
+   "texte": "vers",
+   "debut_ms": 5125,
+   "duree_ms": 150
+  },
+  {
+   "texte": "six",
+   "debut_ms": 5275,
+   "duree_ms": 138
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 5412,
+   "duree_ms": 538
+  }
+ ]
+}

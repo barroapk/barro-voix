@@ -1,0 +1,87 @@
+{
+ "scene": "poulet-chair-scene-01",
+ "segment": "v6",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Retiens bien ce petit mot : environ. Six semaines, c'est un repère, pas une règle fixe.",
+ "texte_prononce": "Retiens bien ce petit mot : environ. Six semaines, c'est un repère, pas une règle fixe.",
+ "substitutions": [],
+ "duree_ms": 5712,
+ "reperes": [
+  {
+   "texte": "Retiens",
+   "debut_ms": 50,
+   "duree_ms": 362
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 412,
+   "duree_ms": 200
+  },
+  {
+   "texte": "ce",
+   "debut_ms": 612,
+   "duree_ms": 125
+  },
+  {
+   "texte": "petit",
+   "debut_ms": 738,
+   "duree_ms": 300
+  },
+  {
+   "texte": "mot",
+   "debut_ms": 1038,
+   "duree_ms": 250
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 1588,
+   "duree_ms": 450
+  },
+  {
+   "texte": "Six",
+   "debut_ms": 2400,
+   "duree_ms": 212
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 2612,
+   "duree_ms": 462
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 3362,
+   "duree_ms": 125
+  },
+  {
+   "texte": "un",
+   "debut_ms": 3488,
+   "duree_ms": 138
+  },
+  {
+   "texte": "repère",
+   "debut_ms": 3625,
+   "duree_ms": 500
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 4375,
+   "duree_ms": 88
+  },
+  {
+   "texte": "une",
+   "debut_ms": 4462,
+   "duree_ms": 125
+  },
+  {
+   "texte": "règle",
+   "debut_ms": 4588,
+   "duree_ms": 262
+  },
+  {
+   "texte": "fixe",
+   "debut_ms": 4850,
+   "duree_ms": 512
+  }
+ ]
+}

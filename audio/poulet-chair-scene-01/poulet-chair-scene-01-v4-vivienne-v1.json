@@ -1,0 +1,67 @@
+{
+ "scene": "poulet-chair-scene-01",
+ "segment": "v4",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Grandir vite, c'est vraiment ce qui distingue le poulet de chair.",
+ "texte_prononce": "Grandir vite, c'est vraiment ce qui distingue le poulet de chair.",
+ "substitutions": [],
+ "duree_ms": 3432,
+ "reperes": [
+  {
+   "texte": "Grandir",
+   "debut_ms": 62,
+   "duree_ms": 438
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 500,
+   "duree_ms": 375
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 1125,
+   "duree_ms": 138
+  },
+  {
+   "texte": "vraiment",
+   "debut_ms": 1262,
+   "duree_ms": 300
+  },
+  {
+   "texte": "ce",
+   "debut_ms": 1562,
+   "duree_ms": 112
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 1675,
+   "duree_ms": 125
+  },
+  {
+   "texte": "distingue",
+   "debut_ms": 1800,
+   "duree_ms": 425
+  },
+  {
+   "texte": "le",
+   "debut_ms": 2225,
+   "duree_ms": 75
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 2300,
+   "duree_ms": 225
+  },
+  {
+   "texte": "de",
+   "debut_ms": 2525,
+   "duree_ms": 112
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 2638,
+   "duree_ms": 438
+  }
+ ]
+}
