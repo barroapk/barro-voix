@@ -1,0 +1,72 @@
+{
+ "scene": "poulet-chair-scene-01",
+ "segment": "v1",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Bonjour et bienvenue ! Aujourd'hui, nous allons découvrir ensemble le poulet de chair.",
+ "texte_prononce": "Bonjour et bienvenue ! Aujourd'hui, nous allons découvrir ensemble le poulet de chair.",
+ "substitutions": [],
+ "duree_ms": 6000,
+ "reperes": [
+  {
+   "texte": "Bonjour",
+   "debut_ms": 100,
+   "duree_ms": 450
+  },
+  {
+   "texte": "et",
+   "debut_ms": 562,
+   "duree_ms": 38
+  },
+  {
+   "texte": "bienvenue",
+   "debut_ms": 612,
+   "duree_ms": 525
+  },
+  {
+   "texte": "Aujourd'hui",
+   "debut_ms": 2012,
+   "duree_ms": 588
+  },
+  {
+   "texte": "nous",
+   "debut_ms": 2912,
+   "duree_ms": 125
+  },
+  {
+   "texte": "allons",
+   "debut_ms": 3050,
+   "duree_ms": 225
+  },
+  {
+   "texte": "découvrir",
+   "debut_ms": 3288,
+   "duree_ms": 488
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 3788,
+   "duree_ms": 375
+  },
+  {
+   "texte": "le",
+   "debut_ms": 4175,
+   "duree_ms": 112
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 4300,
+   "duree_ms": 225
+  },
+  {
+   "texte": "de",
+   "debut_ms": 4538,
+   "duree_ms": 138
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 4688,
+   "duree_ms": 438
+  }
+ ]
+}
