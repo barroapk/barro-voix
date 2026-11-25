@@ -1,0 +1,132 @@
+{
+ "scene": "test-voix",
+ "segment": "s1",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "En six semaines, le poussin devient un poulet de deux kilos. Impressionnant, non ? Mais attention : il faut vacciner contre Newcastle et Gumboro.",
+ "texte_prononce": "En six semaines, le poussin devient un poulet de deux kilos. C'est impressionnant, non ? Mais attention : il faut vacciner contre Newcastle et Gumboro.",
+ "substitutions": [
+  {
+   "affiche": "Impressionnant, non ?",
+   "prononce": "C'est impressionnant, non ?"
+  }
+ ],
+ "duree_ms": 8400,
+ "reperes": [
+  {
+   "texte": "En",
+   "debut_ms": 50,
+   "duree_ms": 125
+  },
+  {
+   "texte": "six",
+   "debut_ms": 175,
+   "duree_ms": 175
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 350,
+   "duree_ms": 462
+  },
+  {
+   "texte": "le",
+   "debut_ms": 1138,
+   "duree_ms": 62
+  },
+  {
+   "texte": "poussin",
+   "debut_ms": 1200,
+   "duree_ms": 338
+  },
+  {
+   "texte": "devient",
+   "debut_ms": 1538,
+   "duree_ms": 250
+  },
+  {
+   "texte": "un",
+   "debut_ms": 1788,
+   "duree_ms": 38
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 1825,
+   "duree_ms": 262
+  },
+  {
+   "texte": "de",
+   "debut_ms": 2088,
+   "duree_ms": 125
+  },
+  {
+   "texte": "deux",
+   "debut_ms": 2212,
+   "duree_ms": 125
+  },
+  {
+   "texte": "kilos",
+   "debut_ms": 2338,
+   "duree_ms": 412
+  },
+  {
+   "texte": "C'est",
+   "debut_ms": 3088,
+   "duree_ms": 175
+  },
+  {
+   "texte": "impressionnant",
+   "debut_ms": 3262,
+   "duree_ms": 700
+  },
+  {
+   "texte": "non",
+   "debut_ms": 4200,
+   "duree_ms": 250
+  },
+  {
+   "texte": "Mais",
+   "debut_ms": 4800,
+   "duree_ms": 125
+  },
+  {
+   "texte": "attention",
+   "debut_ms": 4925,
+   "duree_ms": 575
+  },
+  {
+   "texte": "il",
+   "debut_ms": 5875,
+   "duree_ms": 75
+  },
+  {
+   "texte": "faut",
+   "debut_ms": 5950,
+   "duree_ms": 100
+  },
+  {
+   "texte": "vacciner",
+   "debut_ms": 6050,
+   "duree_ms": 412
+  },
+  {
+   "texte": "contre",
+   "debut_ms": 6462,
+   "duree_ms": 300
+  },
+  {
+   "texte": "Newcastle",
+   "debut_ms": 6762,
+   "duree_ms": 662
+  },
+  {
+   "texte": "et",
+   "debut_ms": 7425,
+   "duree_ms": 50
+  },
+  {
+   "texte": "Gumboro",
+   "debut_ms": 7475,
+   "duree_ms": 588
+  }
+ ]
+}

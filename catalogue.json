@@ -1,1 +1,13 @@
-[]
+[
+ {
+  "scene": "test-voix",
+  "segment": "s1",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/test-voix/test-voix-s1-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/test-voix/test-voix-s1-vivienne-v1.json",
+  "duree_ms": 8400,
+  "date": "2026-11-25T23:06:36.210734+00:00"
+ }
+]
