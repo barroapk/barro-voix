@@ -1,0 +1,32 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "r1",
+ "voix": "vivienne",
+ "version": 3,
+ "texte_affiche": "Pas tout à fait.",
+ "texte_prononce": "Pas tout à fait.",
+ "substitutions": [],
+ "duree_ms": 1872,
+ "reperes": [
+  {
+   "texte": "Pas",
+   "debut_ms": 50,
+   "duree_ms": 138
+  },
+  {
+   "texte": "tout",
+   "debut_ms": 188,
+   "duree_ms": 112
+  },
+  {
+   "texte": "à",
+   "debut_ms": 300,
+   "duree_ms": 150
+  },
+  {
+   "texte": "fait",
+   "debut_ms": 450,
+   "duree_ms": 325
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q2-n2",
+ "voix": "vivienne",
+ "version": 2,
+ "texte_affiche": "Tu as pensé à une longue vie. En fait, c'est presque l'inverse : on veut un poulet qui grandit si vite qu'il est prêt en quelques semaines.",
+ "texte_prononce": "Tu as pensé à une longue vie. En fait, c'est presque l'inverse : on veut un poulet qui grandit si vite qu'il est prêt en quelques semaines.",
+ "substitutions": [],
+ "duree_ms": 7368,
+ "reperes": [
+  {
+   "texte": "Tu",
+   "debut_ms": 95,
+   "duree_ms": 95
+  },
+  {
+   "texte": "as",
+   "debut_ms": 190,
+   "duree_ms": 54
+  },
+  {
+   "texte": "pensé",
+   "debut_ms": 245,
+   "duree_ms": 408
+  },
+  {
+   "texte": "à",
+   "debut_ms": 652,
+   "duree_ms": 68
+  },
+  {
+   "texte": "une",
+   "debut_ms": 720,
+   "duree_ms": 122
+  },
+  {
+   "texte": "longue",
+   "debut_ms": 842,
+   "duree_ms": 258
+  },
+  {
+   "texte": "vie",
+   "debut_ms": 1101,
+   "duree_ms": 326
+  },
+  {
+   "texte": "En",
+   "debut_ms": 1790,
+   "duree_ms": 177
+  },
+  {
+   "texte": "fait",
+   "debut_ms": 1967,
+   "duree_ms": 421
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 2605,
+   "duree_ms": 122
+  },
+  {
+   "texte": "presque",
+   "debut_ms": 2728,
+   "duree_ms": 326
+  },
+  {
+   "texte": "l'inverse",
+   "debut_ms": 3054,
+   "duree_ms": 666
+  },
+  {
+   "texte": "on",
+   "debut_ms": 4195,
+   "duree_ms": 41
+  },
+  {
+   "texte": "veut",
+   "debut_ms": 4236,
+   "duree_ms": 122
+  },
+  {
+   "texte": "un",
+   "debut_ms": 4358,
+   "duree_ms": 82
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 4440,
+   "duree_ms": 258
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 4698,
+   "duree_ms": 136
+  },
+  {
+   "texte": "grandit",
+   "debut_ms": 4834,
+   "duree_ms": 340
+  },
+  {
+   "texte": "si",
+   "debut_ms": 5173,
+   "duree_ms": 204
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 5377,
+   "duree_ms": 231
+  },
+  {
+   "texte": "qu'il",
+   "debut_ms": 5608,
+   "duree_ms": 163
+  },
+  {
+   "texte": "est",
+   "debut_ms": 5771,
+   "duree_ms": 41
+  },
+  {
+   "texte": "prêt",
+   "debut_ms": 5812,
+   "duree_ms": 190
+  },
+  {
+   "texte": "en",
+   "debut_ms": 6002,
+   "duree_ms": 82
+  },
+  {
+   "texte": "quelques",
+   "debut_ms": 6084,
+   "duree_ms": 326
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 6410,
+   "duree_ms": 571
+  }
+ ]
+}

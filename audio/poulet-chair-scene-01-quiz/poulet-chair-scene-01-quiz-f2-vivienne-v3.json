@@ -1,0 +1,42 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "f2",
+ "voix": "vivienne",
+ "version": 3,
+ "texte_affiche": "Très bien ! Tu as bien retenu.",
+ "texte_prononce": "Très bien ! Tu as bien retenu.",
+ "substitutions": [],
+ "duree_ms": 2232,
+ "reperes": [
+  {
+   "texte": "Très",
+   "debut_ms": 62,
+   "duree_ms": 200
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 262,
+   "duree_ms": 350
+  },
+  {
+   "texte": "Tu",
+   "debut_ms": 1000,
+   "duree_ms": 100
+  },
+  {
+   "texte": "as",
+   "debut_ms": 1100,
+   "duree_ms": 50
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 1150,
+   "duree_ms": 200
+  },
+  {
+   "texte": "retenu",
+   "debut_ms": 1350,
+   "duree_ms": 512
+  }
+ ]
+}

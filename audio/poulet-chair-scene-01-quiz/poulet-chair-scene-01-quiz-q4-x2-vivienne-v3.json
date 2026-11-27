@@ -1,0 +1,232 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q4-x2",
+ "voix": "vivienne",
+ "version": 3,
+ "texte_affiche": "Dans la réalité, tout dépend de l'élevage. Avec une bonne alimentation, certains poulets sont prêts en cinq semaines. Quand il fait très chaud, ils mangent moins, et grandissent un peu moins vite : il faut parfois sept semaines. Six semaines reste le repère, au milieu.",
+ "texte_prononce": "Dans la réalité, tout dépend de l'élevage. Avec une bonne alimentation, certains poulets sont prêts en cinq semaines. Quand il fait très chaud, ils mangent moins, et grandissent un peu moins vite : il faut parfois sept semaines. Six semaines reste le repère, au milieu.",
+ "substitutions": [],
+ "duree_ms": 15120,
+ "reperes": [
+  {
+   "texte": "Dans",
+   "debut_ms": 51,
+   "duree_ms": 217
+  },
+  {
+   "texte": "la",
+   "debut_ms": 268,
+   "duree_ms": 95
+  },
+  {
+   "texte": "réalité",
+   "debut_ms": 364,
+   "duree_ms": 679
+  },
+  {
+   "texte": "tout",
+   "debut_ms": 1342,
+   "duree_ms": 109
+  },
+  {
+   "texte": "dépend",
+   "debut_ms": 1451,
+   "duree_ms": 299
+  },
+  {
+   "texte": "de",
+   "debut_ms": 1749,
+   "duree_ms": 109
+  },
+  {
+   "texte": "l'élevage",
+   "debut_ms": 1858,
+   "duree_ms": 693
+  },
+  {
+   "texte": "Avec",
+   "debut_ms": 2917,
+   "duree_ms": 353
+  },
+  {
+   "texte": "une",
+   "debut_ms": 3270,
+   "duree_ms": 122
+  },
+  {
+   "texte": "bonne",
+   "debut_ms": 3392,
+   "duree_ms": 190
+  },
+  {
+   "texte": "alimentation",
+   "debut_ms": 3583,
+   "duree_ms": 788
+  },
+  {
+   "texte": "certains",
+   "debut_ms": 4724,
+   "duree_ms": 353
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 5077,
+   "duree_ms": 217
+  },
+  {
+   "texte": "sont",
+   "debut_ms": 5295,
+   "duree_ms": 163
+  },
+  {
+   "texte": "prêts",
+   "debut_ms": 5458,
+   "duree_ms": 217
+  },
+  {
+   "texte": "en",
+   "debut_ms": 5675,
+   "duree_ms": 82
+  },
+  {
+   "texte": "cinq",
+   "debut_ms": 5757,
+   "duree_ms": 231
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 5988,
+   "duree_ms": 543
+  },
+  {
+   "texte": "Quand",
+   "debut_ms": 6929,
+   "duree_ms": 136
+  },
+  {
+   "texte": "il",
+   "debut_ms": 7065,
+   "duree_ms": 177
+  },
+  {
+   "texte": "fait",
+   "debut_ms": 7242,
+   "duree_ms": 109
+  },
+  {
+   "texte": "très",
+   "debut_ms": 7351,
+   "duree_ms": 204
+  },
+  {
+   "texte": "chaud",
+   "debut_ms": 7554,
+   "duree_ms": 367
+  },
+  {
+   "texte": "ils",
+   "debut_ms": 8152,
+   "duree_ms": 82
+  },
+  {
+   "texte": "mangent",
+   "debut_ms": 8234,
+   "duree_ms": 245
+  },
+  {
+   "texte": "moins",
+   "debut_ms": 8478,
+   "duree_ms": 285
+  },
+  {
+   "texte": "et",
+   "debut_ms": 9103,
+   "duree_ms": 41
+  },
+  {
+   "texte": "grandissent",
+   "debut_ms": 9144,
+   "duree_ms": 394
+  },
+  {
+   "texte": "un",
+   "debut_ms": 9538,
+   "duree_ms": 54
+  },
+  {
+   "texte": "peu",
+   "debut_ms": 9592,
+   "duree_ms": 136
+  },
+  {
+   "texte": "moins",
+   "debut_ms": 9728,
+   "duree_ms": 177
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 9905,
+   "duree_ms": 340
+  },
+  {
+   "texte": "il",
+   "debut_ms": 10611,
+   "duree_ms": 82
+  },
+  {
+   "texte": "faut",
+   "debut_ms": 10693,
+   "duree_ms": 109
+  },
+  {
+   "texte": "parfois",
+   "debut_ms": 10802,
+   "duree_ms": 340
+  },
+  {
+   "texte": "sept",
+   "debut_ms": 11141,
+   "duree_ms": 204
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 11345,
+   "duree_ms": 543
+  },
+  {
+   "texte": "Six",
+   "debut_ms": 12267,
+   "duree_ms": 272
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 12539,
+   "duree_ms": 394
+  },
+  {
+   "texte": "reste",
+   "debut_ms": 12933,
+   "duree_ms": 285
+  },
+  {
+   "texte": "le",
+   "debut_ms": 13218,
+   "duree_ms": 122
+  },
+  {
+   "texte": "repère",
+   "debut_ms": 13340,
+   "duree_ms": 530
+  },
+  {
+   "texte": "au",
+   "debut_ms": 14223,
+   "duree_ms": 41
+  },
+  {
+   "texte": "milieu",
+   "debut_ms": 14264,
+   "duree_ms": 489
+  }
+ ]
+}

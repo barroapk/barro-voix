@@ -1,0 +1,57 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "z2",
+ "voix": "vivienne",
+ "version": 3,
+ "texte_affiche": "C'est fini pour ce quiz. Tu as bien travaillé !",
+ "texte_prononce": "C'est fini pour ce quiz. Tu as bien travaillé !",
+ "substitutions": [],
+ "duree_ms": 2976,
+ "reperes": [
+  {
+   "texte": "C'est",
+   "debut_ms": 50,
+   "duree_ms": 225
+  },
+  {
+   "texte": "fini",
+   "debut_ms": 275,
+   "duree_ms": 275
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 550,
+   "duree_ms": 162
+  },
+  {
+   "texte": "ce",
+   "debut_ms": 712,
+   "duree_ms": 100
+  },
+  {
+   "texte": "quiz",
+   "debut_ms": 812,
+   "duree_ms": 512
+  },
+  {
+   "texte": "Tu",
+   "debut_ms": 1700,
+   "duree_ms": 100
+  },
+  {
+   "texte": "as",
+   "debut_ms": 1800,
+   "duree_ms": 38
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 1838,
+   "duree_ms": 175
+  },
+  {
+   "texte": "travaillé",
+   "debut_ms": 2012,
+   "duree_ms": 612
+  }
+ ]
+}

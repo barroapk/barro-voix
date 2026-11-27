@@ -1,0 +1,162 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q2-n1",
+ "voix": "vivienne",
+ "version": 2,
+ "texte_affiche": "Tu as pensé aux œufs. Mais les poules qui pondent beaucoup sont d'un autre type : on les appelle les pondeuses. Le poulet de chair, lui, est choisi pour sa viande.",
+ "texte_prononce": "Tu as pensé aux œufs. Mais les poules qui pondent beaucoup sont d'un autre type : on les appelle les pondeuses. Le poulet de chair, lui, est choisi pour sa viande.",
+ "substitutions": [],
+ "duree_ms": 9408,
+ "reperes": [
+  {
+   "texte": "Tu",
+   "debut_ms": 95,
+   "duree_ms": 109
+  },
+  {
+   "texte": "as",
+   "debut_ms": 204,
+   "duree_ms": 54
+  },
+  {
+   "texte": "pensé",
+   "debut_ms": 258,
+   "duree_ms": 353
+  },
+  {
+   "texte": "aux",
+   "debut_ms": 611,
+   "duree_ms": 82
+  },
+  {
+   "texte": "œufs",
+   "debut_ms": 693,
+   "duree_ms": 353
+  },
+  {
+   "texte": "Mais",
+   "debut_ms": 1410,
+   "duree_ms": 177
+  },
+  {
+   "texte": "les",
+   "debut_ms": 1586,
+   "duree_ms": 95
+  },
+  {
+   "texte": "poules",
+   "debut_ms": 1682,
+   "duree_ms": 245
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 1926,
+   "duree_ms": 149
+  },
+  {
+   "texte": "pondent",
+   "debut_ms": 2076,
+   "duree_ms": 299
+  },
+  {
+   "texte": "beaucoup",
+   "debut_ms": 2374,
+   "duree_ms": 340
+  },
+  {
+   "texte": "sont",
+   "debut_ms": 2714,
+   "duree_ms": 136
+  },
+  {
+   "texte": "d'un",
+   "debut_ms": 2850,
+   "duree_ms": 122
+  },
+  {
+   "texte": "autre",
+   "debut_ms": 2972,
+   "duree_ms": 312
+  },
+  {
+   "texte": "type",
+   "debut_ms": 3285,
+   "duree_ms": 380
+  },
+  {
+   "texte": "on",
+   "debut_ms": 4086,
+   "duree_ms": 27
+  },
+  {
+   "texte": "les",
+   "debut_ms": 4114,
+   "duree_ms": 95
+  },
+  {
+   "texte": "appelle",
+   "debut_ms": 4209,
+   "duree_ms": 340
+  },
+  {
+   "texte": "les",
+   "debut_ms": 4548,
+   "duree_ms": 95
+  },
+  {
+   "texte": "pondeuses",
+   "debut_ms": 4643,
+   "duree_ms": 666
+  },
+  {
+   "texte": "Le",
+   "debut_ms": 5691,
+   "duree_ms": 190
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 5881,
+   "duree_ms": 245
+  },
+  {
+   "texte": "de",
+   "debut_ms": 6126,
+   "duree_ms": 122
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 6248,
+   "duree_ms": 462
+  },
+  {
+   "texte": "lui",
+   "debut_ms": 7104,
+   "duree_ms": 312
+  },
+  {
+   "texte": "est",
+   "debut_ms": 7729,
+   "duree_ms": 95
+  },
+  {
+   "texte": "choisi",
+   "debut_ms": 7824,
+   "duree_ms": 380
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 8204,
+   "duree_ms": 177
+  },
+  {
+   "texte": "sa",
+   "debut_ms": 8381,
+   "duree_ms": 122
+  },
+  {
+   "texte": "viande",
+   "debut_ms": 8503,
+   "duree_ms": 516
+  }
+ ]
+}

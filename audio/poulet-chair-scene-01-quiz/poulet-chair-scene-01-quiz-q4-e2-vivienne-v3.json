@@ -1,0 +1,62 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q4-e2",
+ "voix": "vivienne",
+ "version": 3,
+ "texte_affiche": "Quand on dit environ six semaines, qu'est-ce que cela signifie ?",
+ "texte_prononce": "Quand on dit environ six semaines, qu'est-ce que cela signifie ?",
+ "substitutions": [],
+ "duree_ms": 3216,
+ "reperes": [
+  {
+   "texte": "Quand",
+   "debut_ms": 50,
+   "duree_ms": 162
+  },
+  {
+   "texte": "on",
+   "debut_ms": 212,
+   "duree_ms": 138
+  },
+  {
+   "texte": "dit",
+   "debut_ms": 350,
+   "duree_ms": 175
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 525,
+   "duree_ms": 338
+  },
+  {
+   "texte": "six",
+   "debut_ms": 862,
+   "duree_ms": 175
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 1038,
+   "duree_ms": 475
+  },
+  {
+   "texte": "qu'est-ce",
+   "debut_ms": 1800,
+   "duree_ms": 162
+  },
+  {
+   "texte": "que",
+   "debut_ms": 1962,
+   "duree_ms": 112
+  },
+  {
+   "texte": "cela",
+   "debut_ms": 2075,
+   "duree_ms": 212
+  },
+  {
+   "texte": "signifie",
+   "debut_ms": 2288,
+   "duree_ms": 588
+  }
+ ]
+}
