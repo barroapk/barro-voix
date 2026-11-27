@@ -1,0 +1,92 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q4-x3",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Retiens le petit signe du tableau, celui qui ressemble à deux vagues : il veut dire environ.",
+ "texte_prononce": "Retiens le petit signe du tableau, celui qui ressemble à deux vagues : il veut dire environ.",
+ "substitutions": [],
+ "duree_ms": 4848,
+ "reperes": [
+  {
+   "texte": "Retiens",
+   "debut_ms": 75,
+   "duree_ms": 400
+  },
+  {
+   "texte": "le",
+   "debut_ms": 475,
+   "duree_ms": 75
+  },
+  {
+   "texte": "petit",
+   "debut_ms": 550,
+   "duree_ms": 250
+  },
+  {
+   "texte": "signe",
+   "debut_ms": 812,
+   "duree_ms": 275
+  },
+  {
+   "texte": "du",
+   "debut_ms": 1088,
+   "duree_ms": 100
+  },
+  {
+   "texte": "tableau",
+   "debut_ms": 1188,
+   "duree_ms": 425
+  },
+  {
+   "texte": "celui",
+   "debut_ms": 2012,
+   "duree_ms": 225
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 2238,
+   "duree_ms": 125
+  },
+  {
+   "texte": "ressemble",
+   "debut_ms": 2362,
+   "duree_ms": 362
+  },
+  {
+   "texte": "à",
+   "debut_ms": 2725,
+   "duree_ms": 38
+  },
+  {
+   "texte": "deux",
+   "debut_ms": 2762,
+   "duree_ms": 175
+  },
+  {
+   "texte": "vagues",
+   "debut_ms": 2938,
+   "duree_ms": 325
+  },
+  {
+   "texte": "il",
+   "debut_ms": 3650,
+   "duree_ms": 62
+  },
+  {
+   "texte": "veut",
+   "debut_ms": 3712,
+   "duree_ms": 100
+  },
+  {
+   "texte": "dire",
+   "debut_ms": 3812,
+   "duree_ms": 212
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 4025,
+   "duree_ms": 475
+  }
+ ]
+}

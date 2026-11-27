@@ -1,0 +1,167 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q1-x2",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Prenons un exemple. Un éleveur reçoit cinq cents poussins le même jour. Il les élève ensemble pendant environ six semaines, puis il les vend. Ces cinq cents poulets forment une bande.",
+ "texte_prononce": "Prenons un exemple. Un éleveur reçoit cinq cents poussins le même jour. Il les élève ensemble pendant environ six semaines, puis il les vend. Ces cinq cents poulets forment une bande.",
+ "substitutions": [],
+ "duree_ms": 9576,
+ "reperes": [
+  {
+   "texte": "Prenons",
+   "debut_ms": 75,
+   "duree_ms": 325
+  },
+  {
+   "texte": "un",
+   "debut_ms": 400,
+   "duree_ms": 50
+  },
+  {
+   "texte": "exemple",
+   "debut_ms": 450,
+   "duree_ms": 638
+  },
+  {
+   "texte": "Un",
+   "debut_ms": 1425,
+   "duree_ms": 162
+  },
+  {
+   "texte": "éleveur",
+   "debut_ms": 1588,
+   "duree_ms": 400
+  },
+  {
+   "texte": "reçoit",
+   "debut_ms": 1988,
+   "duree_ms": 338
+  },
+  {
+   "texte": "cinq",
+   "debut_ms": 2325,
+   "duree_ms": 175
+  },
+  {
+   "texte": "cents",
+   "debut_ms": 2500,
+   "duree_ms": 138
+  },
+  {
+   "texte": "poussins",
+   "debut_ms": 2638,
+   "duree_ms": 338
+  },
+  {
+   "texte": "le",
+   "debut_ms": 2975,
+   "duree_ms": 75
+  },
+  {
+   "texte": "même",
+   "debut_ms": 3050,
+   "duree_ms": 162
+  },
+  {
+   "texte": "jour",
+   "debut_ms": 3212,
+   "duree_ms": 412
+  },
+  {
+   "texte": "Il",
+   "debut_ms": 3975,
+   "duree_ms": 175
+  },
+  {
+   "texte": "les",
+   "debut_ms": 4150,
+   "duree_ms": 88
+  },
+  {
+   "texte": "élève",
+   "debut_ms": 4238,
+   "duree_ms": 275
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 4512,
+   "duree_ms": 512
+  },
+  {
+   "texte": "pendant",
+   "debut_ms": 5025,
+   "duree_ms": 225
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 5250,
+   "duree_ms": 388
+  },
+  {
+   "texte": "six",
+   "debut_ms": 5638,
+   "duree_ms": 175
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 5812,
+   "duree_ms": 488
+  },
+  {
+   "texte": "puis",
+   "debut_ms": 6575,
+   "duree_ms": 175
+  },
+  {
+   "texte": "il",
+   "debut_ms": 6750,
+   "duree_ms": 75
+  },
+  {
+   "texte": "les",
+   "debut_ms": 6825,
+   "duree_ms": 100
+  },
+  {
+   "texte": "vend",
+   "debut_ms": 6925,
+   "duree_ms": 275
+  },
+  {
+   "texte": "Ces",
+   "debut_ms": 7550,
+   "duree_ms": 212
+  },
+  {
+   "texte": "cinq",
+   "debut_ms": 7762,
+   "duree_ms": 200
+  },
+  {
+   "texte": "cents",
+   "debut_ms": 7962,
+   "duree_ms": 188
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 8150,
+   "duree_ms": 262
+  },
+  {
+   "texte": "forment",
+   "debut_ms": 8412,
+   "duree_ms": 250
+  },
+  {
+   "texte": "une",
+   "debut_ms": 8662,
+   "duree_ms": 112
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 8775,
+   "duree_ms": 450
+  }
+ ]
+}

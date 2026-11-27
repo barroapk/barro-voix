@@ -1,0 +1,57 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q1-e2",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Dans un élevage, que veut dire le mot bande ?",
+ "texte_prononce": "Dans un élevage, que veut dire le mot bande ?",
+ "substitutions": [],
+ "duree_ms": 2496,
+ "reperes": [
+  {
+   "texte": "Dans",
+   "debut_ms": 62,
+   "duree_ms": 138
+  },
+  {
+   "texte": "un",
+   "debut_ms": 200,
+   "duree_ms": 100
+  },
+  {
+   "texte": "élevage",
+   "debut_ms": 300,
+   "duree_ms": 612
+  },
+  {
+   "texte": "que",
+   "debut_ms": 1125,
+   "duree_ms": 100
+  },
+  {
+   "texte": "veut",
+   "debut_ms": 1225,
+   "duree_ms": 88
+  },
+  {
+   "texte": "dire",
+   "debut_ms": 1312,
+   "duree_ms": 175
+  },
+  {
+   "texte": "le",
+   "debut_ms": 1488,
+   "duree_ms": 88
+  },
+  {
+   "texte": "mot",
+   "debut_ms": 1575,
+   "duree_ms": 138
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 1712,
+   "duree_ms": 412
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "r4",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Hmm, pas cette fois. Je vais t'aider.",
+ "texte_prononce": "Hmm, pas cette fois. Je vais t'aider.",
+ "substitutions": [],
+ "duree_ms": 2832,
+ "reperes": [
+  {
+   "texte": "Hmm",
+   "debut_ms": 50,
+   "duree_ms": 412
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 700,
+   "duree_ms": 112
+  },
+  {
+   "texte": "cette",
+   "debut_ms": 812,
+   "duree_ms": 188
+  },
+  {
+   "texte": "fois",
+   "debut_ms": 1000,
+   "duree_ms": 350
+  },
+  {
+   "texte": "Je",
+   "debut_ms": 1700,
+   "duree_ms": 200
+  },
+  {
+   "texte": "vais",
+   "debut_ms": 1900,
+   "duree_ms": 112
+  },
+  {
+   "texte": "t'aider",
+   "debut_ms": 2012,
+   "duree_ms": 462
+  }
+ ]
+}

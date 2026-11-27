@@ -1,0 +1,127 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q3-x2",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Prenons un exemple. Si tes poussins arrivent au début de janvier, ils seront prêts vers la mi-février, soit environ six semaines plus tard.",
+ "texte_prononce": "Prenons un exemple. Si tes poussins arrivent au début de janvier, ils seront prêts vers la mi-février, soit environ six semaines plus tard.",
+ "substitutions": [],
+ "duree_ms": 6888,
+ "reperes": [
+  {
+   "texte": "Prenons",
+   "debut_ms": 62,
+   "duree_ms": 338
+  },
+  {
+   "texte": "un",
+   "debut_ms": 400,
+   "duree_ms": 50
+  },
+  {
+   "texte": "exemple",
+   "debut_ms": 450,
+   "duree_ms": 638
+  },
+  {
+   "texte": "Si",
+   "debut_ms": 1425,
+   "duree_ms": 200
+  },
+  {
+   "texte": "tes",
+   "debut_ms": 1625,
+   "duree_ms": 100
+  },
+  {
+   "texte": "poussins",
+   "debut_ms": 1725,
+   "duree_ms": 338
+  },
+  {
+   "texte": "arrivent",
+   "debut_ms": 2062,
+   "duree_ms": 275
+  },
+  {
+   "texte": "au",
+   "debut_ms": 2338,
+   "duree_ms": 38
+  },
+  {
+   "texte": "début",
+   "debut_ms": 2375,
+   "duree_ms": 212
+  },
+  {
+   "texte": "de",
+   "debut_ms": 2588,
+   "duree_ms": 100
+  },
+  {
+   "texte": "janvier",
+   "debut_ms": 2688,
+   "duree_ms": 488
+  },
+  {
+   "texte": "ils",
+   "debut_ms": 3512,
+   "duree_ms": 88
+  },
+  {
+   "texte": "seront",
+   "debut_ms": 3600,
+   "duree_ms": 238
+  },
+  {
+   "texte": "prêts",
+   "debut_ms": 3838,
+   "duree_ms": 175
+  },
+  {
+   "texte": "vers",
+   "debut_ms": 4012,
+   "duree_ms": 125
+  },
+  {
+   "texte": "la",
+   "debut_ms": 4138,
+   "duree_ms": 62
+  },
+  {
+   "texte": "mi-février",
+   "debut_ms": 4200,
+   "duree_ms": 650
+  },
+  {
+   "texte": "soit",
+   "debut_ms": 5138,
+   "duree_ms": 138
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 5275,
+   "duree_ms": 338
+  },
+  {
+   "texte": "six",
+   "debut_ms": 5612,
+   "duree_ms": 175
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 5788,
+   "duree_ms": 238
+  },
+  {
+   "texte": "plus",
+   "debut_ms": 6025,
+   "duree_ms": 112
+  },
+  {
+   "texte": "tard",
+   "debut_ms": 6138,
+   "duree_ms": 412
+  }
+ ]
+}

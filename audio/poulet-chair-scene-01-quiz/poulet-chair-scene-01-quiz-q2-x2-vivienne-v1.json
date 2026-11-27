@@ -1,0 +1,152 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q2-x2",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Prenons un exemple concret. Un poulet de chair peut être vendu vers six semaines, alors qu'un poulet local met souvent plusieurs mois. Cette différence vient de la souche.",
+ "texte_prononce": "Prenons un exemple concret. Un poulet de chair peut être vendu vers six semaines, alors qu'un poulet local met souvent plusieurs mois. Cette différence vient de la souche.",
+ "substitutions": [],
+ "duree_ms": 8616,
+ "reperes": [
+  {
+   "texte": "Prenons",
+   "debut_ms": 75,
+   "duree_ms": 325
+  },
+  {
+   "texte": "un",
+   "debut_ms": 400,
+   "duree_ms": 38
+  },
+  {
+   "texte": "exemple",
+   "debut_ms": 438,
+   "duree_ms": 462
+  },
+  {
+   "texte": "concret",
+   "debut_ms": 900,
+   "duree_ms": 525
+  },
+  {
+   "texte": "Un",
+   "debut_ms": 1762,
+   "duree_ms": 162
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 1925,
+   "duree_ms": 238
+  },
+  {
+   "texte": "de",
+   "debut_ms": 2162,
+   "duree_ms": 112
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 2275,
+   "duree_ms": 250
+  },
+  {
+   "texte": "peut",
+   "debut_ms": 2525,
+   "duree_ms": 100
+  },
+  {
+   "texte": "être",
+   "debut_ms": 2625,
+   "duree_ms": 262
+  },
+  {
+   "texte": "vendu",
+   "debut_ms": 2888,
+   "duree_ms": 325
+  },
+  {
+   "texte": "vers",
+   "debut_ms": 3212,
+   "duree_ms": 162
+  },
+  {
+   "texte": "six",
+   "debut_ms": 3375,
+   "duree_ms": 150
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 3525,
+   "duree_ms": 425
+  },
+  {
+   "texte": "alors",
+   "debut_ms": 4262,
+   "duree_ms": 162
+  },
+  {
+   "texte": "qu'un",
+   "debut_ms": 4425,
+   "duree_ms": 125
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 4550,
+   "duree_ms": 225
+  },
+  {
+   "texte": "local",
+   "debut_ms": 4775,
+   "duree_ms": 425
+  },
+  {
+   "texte": "met",
+   "debut_ms": 5200,
+   "duree_ms": 100
+  },
+  {
+   "texte": "souvent",
+   "debut_ms": 5300,
+   "duree_ms": 288
+  },
+  {
+   "texte": "plusieurs",
+   "debut_ms": 5588,
+   "duree_ms": 362
+  },
+  {
+   "texte": "mois",
+   "debut_ms": 5950,
+   "duree_ms": 312
+  },
+  {
+   "texte": "Cette",
+   "debut_ms": 6638,
+   "duree_ms": 225
+  },
+  {
+   "texte": "différence",
+   "debut_ms": 6862,
+   "duree_ms": 612
+  },
+  {
+   "texte": "vient",
+   "debut_ms": 7475,
+   "duree_ms": 150
+  },
+  {
+   "texte": "de",
+   "debut_ms": 7625,
+   "duree_ms": 62
+  },
+  {
+   "texte": "la",
+   "debut_ms": 7688,
+   "duree_ms": 100
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 7788,
+   "duree_ms": 475
+  }
+ ]
+}

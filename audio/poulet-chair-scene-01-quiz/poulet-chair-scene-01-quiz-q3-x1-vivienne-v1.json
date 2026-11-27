@@ -1,0 +1,137 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q3-x1",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Je t'explique autrement. Six semaines, c'est environ un mois et demi. C'est très court pour un animal qui commence comme un petit poussin d'un jour.",
+ "texte_prononce": "Je t'explique autrement. Six semaines, c'est environ un mois et demi. C'est très court pour un animal qui commence comme un petit poussin d'un jour.",
+ "substitutions": [],
+ "duree_ms": 7632,
+ "reperes": [
+  {
+   "texte": "Je",
+   "debut_ms": 50,
+   "duree_ms": 212
+  },
+  {
+   "texte": "t'explique",
+   "debut_ms": 262,
+   "duree_ms": 438
+  },
+  {
+   "texte": "autrement",
+   "debut_ms": 700,
+   "duree_ms": 512
+  },
+  {
+   "texte": "Six",
+   "debut_ms": 1575,
+   "duree_ms": 212
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 1788,
+   "duree_ms": 488
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 2525,
+   "duree_ms": 112
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 2638,
+   "duree_ms": 438
+  },
+  {
+   "texte": "un",
+   "debut_ms": 3075,
+   "duree_ms": 112
+  },
+  {
+   "texte": "mois",
+   "debut_ms": 3188,
+   "duree_ms": 188
+  },
+  {
+   "texte": "et",
+   "debut_ms": 3375,
+   "duree_ms": 38
+  },
+  {
+   "texte": "demi",
+   "debut_ms": 3412,
+   "duree_ms": 400
+  },
+  {
+   "texte": "C'est",
+   "debut_ms": 4162,
+   "duree_ms": 188
+  },
+  {
+   "texte": "très",
+   "debut_ms": 4350,
+   "duree_ms": 162
+  },
+  {
+   "texte": "court",
+   "debut_ms": 4512,
+   "duree_ms": 262
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 4775,
+   "duree_ms": 175
+  },
+  {
+   "texte": "un",
+   "debut_ms": 4950,
+   "duree_ms": 25
+  },
+  {
+   "texte": "animal",
+   "debut_ms": 4975,
+   "duree_ms": 488
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 5462,
+   "duree_ms": 125
+  },
+  {
+   "texte": "commence",
+   "debut_ms": 5588,
+   "duree_ms": 350
+  },
+  {
+   "texte": "comme",
+   "debut_ms": 5938,
+   "duree_ms": 162
+  },
+  {
+   "texte": "un",
+   "debut_ms": 6100,
+   "duree_ms": 38
+  },
+  {
+   "texte": "petit",
+   "debut_ms": 6138,
+   "duree_ms": 250
+  },
+  {
+   "texte": "poussin",
+   "debut_ms": 6388,
+   "duree_ms": 312
+  },
+  {
+   "texte": "d'un",
+   "debut_ms": 6700,
+   "duree_ms": 162
+  },
+  {
+   "texte": "jour",
+   "debut_ms": 6862,
+   "duree_ms": 412
+  }
+ ]
+}

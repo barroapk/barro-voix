@@ -1,0 +1,67 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "r3",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Ce n'est pas la bonne réponse, mais ce n'est pas grave.",
+ "texte_prononce": "Ce n'est pas la bonne réponse, mais ce n'est pas grave.",
+ "substitutions": [],
+ "duree_ms": 2736,
+ "reperes": [
+  {
+   "texte": "Ce",
+   "debut_ms": 50,
+   "duree_ms": 200
+  },
+  {
+   "texte": "n'est",
+   "debut_ms": 250,
+   "duree_ms": 100
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 350,
+   "duree_ms": 125
+  },
+  {
+   "texte": "la",
+   "debut_ms": 475,
+   "duree_ms": 88
+  },
+  {
+   "texte": "bonne",
+   "debut_ms": 562,
+   "duree_ms": 162
+  },
+  {
+   "texte": "réponse",
+   "debut_ms": 725,
+   "duree_ms": 588
+  },
+  {
+   "texte": "mais",
+   "debut_ms": 1562,
+   "duree_ms": 75
+  },
+  {
+   "texte": "ce",
+   "debut_ms": 1638,
+   "duree_ms": 100
+  },
+  {
+   "texte": "n'est",
+   "debut_ms": 1738,
+   "duree_ms": 75
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 1812,
+   "duree_ms": 125
+  },
+  {
+   "texte": "grave",
+   "debut_ms": 1938,
+   "duree_ms": 462
+  }
+ ]
+}
