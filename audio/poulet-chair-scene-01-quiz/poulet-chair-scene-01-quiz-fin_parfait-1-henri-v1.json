@@ -1,0 +1,42 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "fin_parfait-1",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Parfait ! Tu as tout juste. Bravo !",
+ "texte_prononce": "Parfait ! Tu as tout juste. Bravo !",
+ "substitutions": [],
+ "duree_ms": 4728,
+ "reperes": [
+  {
+   "texte": "Parfait",
+   "debut_ms": 100,
+   "duree_ms": 500
+  },
+  {
+   "texte": "Tu",
+   "debut_ms": 1462,
+   "duree_ms": 188
+  },
+  {
+   "texte": "as",
+   "debut_ms": 1662,
+   "duree_ms": 75
+  },
+  {
+   "texte": "tout",
+   "debut_ms": 1750,
+   "duree_ms": 162
+  },
+  {
+   "texte": "juste",
+   "debut_ms": 1925,
+   "duree_ms": 475
+  },
+  {
+   "texte": "Bravo",
+   "debut_ms": 3262,
+   "duree_ms": 588
+  }
+ ]
+}

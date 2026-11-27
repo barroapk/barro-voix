@@ -1,0 +1,247 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q1-x1",
+ "voix": "henri",
+ "version": 3,
+ "texte_affiche": "Regarde une classe d'école. Les élèves arrivent le même jour, apprennent ensemble, et terminent l'année ensemble. Personne ne dirait que la classe, c'est le bâtiment. La classe, ce sont les élèves. Une bande, c'est pareil : ce sont les poulets élevés ensemble, du premier jour jusqu'à la vente.",
+ "texte_prononce": "Regarde une classe d'école. Les élèves arrivent le même jour, apprennent ensemble, et terminent l'année ensemble. Personne ne dirait que la classe, c'est le bâtiment. La classe, ce sont les élèves. Une bande, c'est pareil : ce sont les poulets élevés ensemble, du premier jour jusqu'à la vente.",
+ "substitutions": [],
+ "duree_ms": 21000,
+ "reperes": [
+  {
+   "texte": "Regarde",
+   "debut_ms": 104,
+   "duree_ms": 557
+  },
+  {
+   "texte": "une",
+   "debut_ms": 675,
+   "duree_ms": 122
+  },
+  {
+   "texte": "classe",
+   "debut_ms": 811,
+   "duree_ms": 272
+  },
+  {
+   "texte": "d'école",
+   "debut_ms": 1096,
+   "duree_ms": 666
+  },
+  {
+   "texte": "Les",
+   "debut_ms": 2704,
+   "duree_ms": 204
+  },
+  {
+   "texte": "élèves",
+   "debut_ms": 2921,
+   "duree_ms": 340
+  },
+  {
+   "texte": "arrivent",
+   "debut_ms": 3274,
+   "duree_ms": 245
+  },
+  {
+   "texte": "le",
+   "debut_ms": 3533,
+   "duree_ms": 122
+  },
+  {
+   "texte": "même",
+   "debut_ms": 3668,
+   "duree_ms": 231
+  },
+  {
+   "texte": "jour",
+   "debut_ms": 3913,
+   "duree_ms": 340
+  },
+  {
+   "texte": "apprennent",
+   "debut_ms": 4592,
+   "duree_ms": 326
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 4932,
+   "duree_ms": 476
+  },
+  {
+   "texte": "et",
+   "debut_ms": 5747,
+   "duree_ms": 54
+  },
+  {
+   "texte": "terminent",
+   "debut_ms": 5815,
+   "duree_ms": 380
+  },
+  {
+   "texte": "l'année",
+   "debut_ms": 6209,
+   "duree_ms": 258
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 6481,
+   "duree_ms": 584
+  },
+  {
+   "texte": "Personne",
+   "debut_ms": 8003,
+   "duree_ms": 435
+  },
+  {
+   "texte": "ne",
+   "debut_ms": 8451,
+   "duree_ms": 109
+  },
+  {
+   "texte": "dirait",
+   "debut_ms": 8573,
+   "duree_ms": 299
+  },
+  {
+   "texte": "que",
+   "debut_ms": 8886,
+   "duree_ms": 109
+  },
+  {
+   "texte": "la",
+   "debut_ms": 9008,
+   "duree_ms": 109
+  },
+  {
+   "texte": "classe",
+   "debut_ms": 9130,
+   "duree_ms": 530
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 9918,
+   "duree_ms": 177
+  },
+  {
+   "texte": "le",
+   "debut_ms": 10109,
+   "duree_ms": 95
+  },
+  {
+   "texte": "bâtiment",
+   "debut_ms": 10217,
+   "duree_ms": 557
+  },
+  {
+   "texte": "La",
+   "debut_ms": 11712,
+   "duree_ms": 231
+  },
+  {
+   "texte": "classe",
+   "debut_ms": 11957,
+   "duree_ms": 530
+  },
+  {
+   "texte": "ce",
+   "debut_ms": 12745,
+   "duree_ms": 177
+  },
+  {
+   "texte": "sont",
+   "debut_ms": 12935,
+   "duree_ms": 149
+  },
+  {
+   "texte": "les",
+   "debut_ms": 13098,
+   "duree_ms": 109
+  },
+  {
+   "texte": "élèves",
+   "debut_ms": 13220,
+   "duree_ms": 598
+  },
+  {
+   "texte": "Une",
+   "debut_ms": 14769,
+   "duree_ms": 217
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 15000,
+   "duree_ms": 340
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 15679,
+   "duree_ms": 163
+  },
+  {
+   "texte": "pareil",
+   "debut_ms": 15856,
+   "duree_ms": 448
+  },
+  {
+   "texte": "ce",
+   "debut_ms": 16522,
+   "duree_ms": 163
+  },
+  {
+   "texte": "sont",
+   "debut_ms": 16698,
+   "duree_ms": 149
+  },
+  {
+   "texte": "les",
+   "debut_ms": 16861,
+   "duree_ms": 122
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 16997,
+   "duree_ms": 258
+  },
+  {
+   "texte": "élevés",
+   "debut_ms": 17269,
+   "duree_ms": 312
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 17595,
+   "duree_ms": 489
+  },
+  {
+   "texte": "du",
+   "debut_ms": 18383,
+   "duree_ms": 136
+  },
+  {
+   "texte": "premier",
+   "debut_ms": 18533,
+   "duree_ms": 340
+  },
+  {
+   "texte": "jour",
+   "debut_ms": 18886,
+   "duree_ms": 217
+  },
+  {
+   "texte": "jusqu'à",
+   "debut_ms": 19117,
+   "duree_ms": 340
+  },
+  {
+   "texte": "la",
+   "debut_ms": 19470,
+   "duree_ms": 95
+  },
+  {
+   "texte": "vente",
+   "debut_ms": 19579,
+   "duree_ms": 476
+  }
+ ]
+}

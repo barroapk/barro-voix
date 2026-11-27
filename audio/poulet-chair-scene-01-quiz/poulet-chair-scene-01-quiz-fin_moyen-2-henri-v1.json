@@ -1,0 +1,42 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "fin_moyen-2",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Bon travail ! Voyons la correction ensemble.",
+ "texte_prononce": "Bon travail ! Voyons la correction ensemble.",
+ "substitutions": [],
+ "duree_ms": 4200,
+ "reperes": [
+  {
+   "texte": "Bon",
+   "debut_ms": 100,
+   "duree_ms": 225
+  },
+  {
+   "texte": "travail",
+   "debut_ms": 338,
+   "duree_ms": 575
+  },
+  {
+   "texte": "Voyons",
+   "debut_ms": 1788,
+   "duree_ms": 388
+  },
+  {
+   "texte": "la",
+   "debut_ms": 2188,
+   "duree_ms": 112
+  },
+  {
+   "texte": "correction",
+   "debut_ms": 2312,
+   "duree_ms": 462
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 2788,
+   "duree_ms": 550
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q3-x3",
+ "voix": "henri",
+ "version": 3,
+ "texte_affiche": "Rappelle-toi la flèche du tableau : jour un, environ six semaines, puis la vente. Trois étapes, et c'est tout. Le chemin est court, et c'est ce qui fait la force du poulet de chair.",
+ "texte_prononce": "Rappelle-toi la flèche du tableau : jour un, environ six semaines, puis la vente. Trois étapes, et c'est tout. Le chemin est court, et c'est ce qui fait la force du poulet de chair.",
+ "substitutions": [],
+ "duree_ms": 12697,
+ "reperes": [
+  {
+   "texte": "Rappelle-toi",
+   "debut_ms": 104,
+   "duree_ms": 652
+  },
+  {
+   "texte": "la",
+   "debut_ms": 770,
+   "duree_ms": 95
+  },
+  {
+   "texte": "flèche",
+   "debut_ms": 879,
+   "duree_ms": 299
+  },
+  {
+   "texte": "du",
+   "debut_ms": 1191,
+   "duree_ms": 136
+  },
+  {
+   "texte": "tableau",
+   "debut_ms": 1341,
+   "duree_ms": 421
+  },
+  {
+   "texte": "jour",
+   "debut_ms": 1939,
+   "duree_ms": 217
+  },
+  {
+   "texte": "un",
+   "debut_ms": 2170,
+   "duree_ms": 95
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 2591,
+   "duree_ms": 353
+  },
+  {
+   "texte": "six",
+   "debut_ms": 2958,
+   "duree_ms": 190
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 3161,
+   "duree_ms": 462
+  },
+  {
+   "texte": "puis",
+   "debut_ms": 3936,
+   "duree_ms": 136
+  },
+  {
+   "texte": "la",
+   "debut_ms": 4085,
+   "duree_ms": 109
+  },
+  {
+   "texte": "vente",
+   "debut_ms": 4208,
+   "duree_ms": 489
+  },
+  {
+   "texte": "Trois",
+   "debut_ms": 5652,
+   "duree_ms": 258
+  },
+  {
+   "texte": "étapes",
+   "debut_ms": 5924,
+   "duree_ms": 462
+  },
+  {
+   "texte": "et",
+   "debut_ms": 6698,
+   "duree_ms": 68
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 6780,
+   "duree_ms": 149
+  },
+  {
+   "texte": "tout",
+   "debut_ms": 6943,
+   "duree_ms": 299
+  },
+  {
+   "texte": "Le",
+   "debut_ms": 8179,
+   "duree_ms": 258
+  },
+  {
+   "texte": "chemin",
+   "debut_ms": 8451,
+   "duree_ms": 285
+  },
+  {
+   "texte": "est",
+   "debut_ms": 8750,
+   "duree_ms": 68
+  },
+  {
+   "texte": "court",
+   "debut_ms": 8832,
+   "duree_ms": 394
+  },
+  {
+   "texte": "et",
+   "debut_ms": 9606,
+   "duree_ms": 54
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 9674,
+   "duree_ms": 163
+  },
+  {
+   "texte": "ce",
+   "debut_ms": 9851,
+   "duree_ms": 136
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 10000,
+   "duree_ms": 163
+  },
+  {
+   "texte": "fait",
+   "debut_ms": 10177,
+   "duree_ms": 122
+  },
+  {
+   "texte": "la",
+   "debut_ms": 10312,
+   "duree_ms": 109
+  },
+  {
+   "texte": "force",
+   "debut_ms": 10435,
+   "duree_ms": 272
+  },
+  {
+   "texte": "du",
+   "debut_ms": 10720,
+   "duree_ms": 122
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 10856,
+   "duree_ms": 245
+  },
+  {
+   "texte": "de",
+   "debut_ms": 11114,
+   "duree_ms": 149
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 11277,
+   "duree_ms": 462
+  }
+ ]
+}

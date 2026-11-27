@@ -1,0 +1,242 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q1-x3",
+ "voix": "henri",
+ "version": 3,
+ "texte_affiche": "Pense à une équipe de football. Les joueurs entrent sur le terrain ensemble, et ils sortent ensemble à la fin du match. Une bande de poulets fonctionne comme cette équipe : ils entrent ensemble dans l'élevage, et ils en sortent ensemble. Donc, une bande, c'est un groupe.",
+ "texte_prononce": "Pense à une équipe de football. Les joueurs entrent sur le terrain ensemble, et ils sortent ensemble à la fin du match. Une bande de poulets fonctionne comme cette équipe : ils entrent ensemble dans l'élevage, et ils en sortent ensemble. Donc, une bande, c'est un groupe.",
+ "substitutions": [],
+ "duree_ms": 17448,
+ "reperes": [
+  {
+   "texte": "Pense",
+   "debut_ms": 104,
+   "duree_ms": 312
+  },
+  {
+   "texte": "à",
+   "debut_ms": 430,
+   "duree_ms": 68
+  },
+  {
+   "texte": "une",
+   "debut_ms": 512,
+   "duree_ms": 136
+  },
+  {
+   "texte": "équipe",
+   "debut_ms": 661,
+   "duree_ms": 299
+  },
+  {
+   "texte": "de",
+   "debut_ms": 974,
+   "duree_ms": 136
+  },
+  {
+   "texte": "football",
+   "debut_ms": 1123,
+   "duree_ms": 639
+  },
+  {
+   "texte": "Les",
+   "debut_ms": 2704,
+   "duree_ms": 217
+  },
+  {
+   "texte": "joueurs",
+   "debut_ms": 2935,
+   "duree_ms": 272
+  },
+  {
+   "texte": "entrent",
+   "debut_ms": 3220,
+   "duree_ms": 299
+  },
+  {
+   "texte": "sur",
+   "debut_ms": 3533,
+   "duree_ms": 136
+  },
+  {
+   "texte": "le",
+   "debut_ms": 3682,
+   "duree_ms": 82
+  },
+  {
+   "texte": "terrain",
+   "debut_ms": 3777,
+   "duree_ms": 299
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 4090,
+   "duree_ms": 476
+  },
+  {
+   "texte": "et",
+   "debut_ms": 4946,
+   "duree_ms": 54
+  },
+  {
+   "texte": "ils",
+   "debut_ms": 5014,
+   "duree_ms": 109
+  },
+  {
+   "texte": "sortent",
+   "debut_ms": 5136,
+   "duree_ms": 285
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 5435,
+   "duree_ms": 408
+  },
+  {
+   "texte": "à",
+   "debut_ms": 5856,
+   "duree_ms": 27
+  },
+  {
+   "texte": "la",
+   "debut_ms": 5897,
+   "duree_ms": 122
+  },
+  {
+   "texte": "fin",
+   "debut_ms": 6033,
+   "duree_ms": 190
+  },
+  {
+   "texte": "du",
+   "debut_ms": 6236,
+   "duree_ms": 109
+  },
+  {
+   "texte": "match",
+   "debut_ms": 6359,
+   "duree_ms": 503
+  },
+  {
+   "texte": "Une",
+   "debut_ms": 7812,
+   "duree_ms": 217
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 8043,
+   "duree_ms": 217
+  },
+  {
+   "texte": "de",
+   "debut_ms": 8274,
+   "duree_ms": 122
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 8410,
+   "duree_ms": 245
+  },
+  {
+   "texte": "fonctionne",
+   "debut_ms": 8668,
+   "duree_ms": 476
+  },
+  {
+   "texte": "comme",
+   "debut_ms": 9158,
+   "duree_ms": 245
+  },
+  {
+   "texte": "cette",
+   "debut_ms": 9416,
+   "duree_ms": 231
+  },
+  {
+   "texte": "équipe",
+   "debut_ms": 9660,
+   "duree_ms": 367
+  },
+  {
+   "texte": "ils",
+   "debut_ms": 10272,
+   "duree_ms": 163
+  },
+  {
+   "texte": "entrent",
+   "debut_ms": 10448,
+   "duree_ms": 272
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 10734,
+   "duree_ms": 394
+  },
+  {
+   "texte": "dans",
+   "debut_ms": 11141,
+   "duree_ms": 122
+  },
+  {
+   "texte": "l'élevage",
+   "debut_ms": 11277,
+   "duree_ms": 571
+  },
+  {
+   "texte": "et",
+   "debut_ms": 12215,
+   "duree_ms": 68
+  },
+  {
+   "texte": "ils",
+   "debut_ms": 12296,
+   "duree_ms": 122
+  },
+  {
+   "texte": "en",
+   "debut_ms": 12432,
+   "duree_ms": 149
+  },
+  {
+   "texte": "sortent",
+   "debut_ms": 12595,
+   "duree_ms": 285
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 12894,
+   "duree_ms": 571
+  },
+  {
+   "texte": "Donc",
+   "debut_ms": 14402,
+   "duree_ms": 448
+  },
+  {
+   "texte": "une",
+   "debut_ms": 15068,
+   "duree_ms": 109
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 15190,
+   "duree_ms": 353
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 15815,
+   "duree_ms": 136
+  },
+  {
+   "texte": "un",
+   "debut_ms": 15965,
+   "duree_ms": 149
+  },
+  {
+   "texte": "groupe",
+   "debut_ms": 16128,
+   "duree_ms": 367
+  }
+ ]
+}

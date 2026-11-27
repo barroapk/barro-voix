@@ -1,0 +1,147 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q1-n2",
+ "voix": "henri",
+ "version": 2,
+ "texte_affiche": "Tu as pensé au bâtiment. C'est logique, car la bande vit dans un bâtiment. Mais le mot bande désigne les poulets eux-mêmes, pas l'endroit où ils vivent.",
+ "texte_prononce": "Tu as pensé au bâtiment. C'est logique, car la bande vit dans un bâtiment. Mais le mot bande désigne les poulets eux-mêmes, pas l'endroit où ils vivent.",
+ "substitutions": [],
+ "duree_ms": 10416,
+ "reperes": [
+  {
+   "texte": "Tu",
+   "debut_ms": 104,
+   "duree_ms": 204
+  },
+  {
+   "texte": "as",
+   "debut_ms": 322,
+   "duree_ms": 82
+  },
+  {
+   "texte": "pensé",
+   "debut_ms": 417,
+   "duree_ms": 380
+  },
+  {
+   "texte": "au",
+   "debut_ms": 811,
+   "duree_ms": 68
+  },
+  {
+   "texte": "bâtiment",
+   "debut_ms": 892,
+   "duree_ms": 557
+  },
+  {
+   "texte": "C'est",
+   "debut_ms": 2405,
+   "duree_ms": 231
+  },
+  {
+   "texte": "logique",
+   "debut_ms": 2649,
+   "duree_ms": 503
+  },
+  {
+   "texte": "car",
+   "debut_ms": 3478,
+   "duree_ms": 177
+  },
+  {
+   "texte": "la",
+   "debut_ms": 3668,
+   "duree_ms": 95
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 3777,
+   "duree_ms": 258
+  },
+  {
+   "texte": "vit",
+   "debut_ms": 4049,
+   "duree_ms": 136
+  },
+  {
+   "texte": "dans",
+   "debut_ms": 4198,
+   "duree_ms": 122
+  },
+  {
+   "texte": "un",
+   "debut_ms": 4334,
+   "duree_ms": 136
+  },
+  {
+   "texte": "bâtiment",
+   "debut_ms": 4484,
+   "duree_ms": 543
+  },
+  {
+   "texte": "Mais",
+   "debut_ms": 5978,
+   "duree_ms": 204
+  },
+  {
+   "texte": "le",
+   "debut_ms": 6196,
+   "duree_ms": 95
+  },
+  {
+   "texte": "mot",
+   "debut_ms": 6304,
+   "duree_ms": 163
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 6481,
+   "duree_ms": 231
+  },
+  {
+   "texte": "désigne",
+   "debut_ms": 6726,
+   "duree_ms": 367
+  },
+  {
+   "texte": "les",
+   "debut_ms": 7106,
+   "duree_ms": 109
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 7228,
+   "duree_ms": 258
+  },
+  {
+   "texte": "eux-mêmes",
+   "debut_ms": 7500,
+   "duree_ms": 448
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 8274,
+   "duree_ms": 122
+  },
+  {
+   "texte": "l'endroit",
+   "debut_ms": 8410,
+   "duree_ms": 367
+  },
+  {
+   "texte": "où",
+   "debut_ms": 8791,
+   "duree_ms": 68
+  },
+  {
+   "texte": "ils",
+   "debut_ms": 8872,
+   "duree_ms": 122
+  },
+  {
+   "texte": "vivent",
+   "debut_ms": 9008,
+   "duree_ms": 462
+  }
+ ]
+}

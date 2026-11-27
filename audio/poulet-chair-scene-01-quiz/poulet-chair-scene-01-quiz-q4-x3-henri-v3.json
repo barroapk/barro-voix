@@ -1,0 +1,152 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q4-x3",
+ "voix": "henri",
+ "version": 3,
+ "texte_affiche": "Retiens le petit signe du tableau, celui qui ressemble à deux vagues. Il veut dire environ. Chaque fois que tu le vois, pense : à peu près, pas exactement.",
+ "texte_prononce": "Retiens le petit signe du tableau, celui qui ressemble à deux vagues. Il veut dire environ. Chaque fois que tu le vois, pense : à peu près, pas exactement.",
+ "substitutions": [],
+ "duree_ms": 11640,
+ "reperes": [
+  {
+   "texte": "Retiens",
+   "debut_ms": 104,
+   "duree_ms": 462
+  },
+  {
+   "texte": "le",
+   "debut_ms": 580,
+   "duree_ms": 95
+  },
+  {
+   "texte": "petit",
+   "debut_ms": 689,
+   "duree_ms": 299
+  },
+  {
+   "texte": "signe",
+   "debut_ms": 1001,
+   "duree_ms": 231
+  },
+  {
+   "texte": "du",
+   "debut_ms": 1246,
+   "duree_ms": 122
+  },
+  {
+   "texte": "tableau",
+   "debut_ms": 1382,
+   "duree_ms": 448
+  },
+  {
+   "texte": "celui",
+   "debut_ms": 2102,
+   "duree_ms": 312
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 2428,
+   "duree_ms": 177
+  },
+  {
+   "texte": "ressemble",
+   "debut_ms": 2618,
+   "duree_ms": 448
+  },
+  {
+   "texte": "à",
+   "debut_ms": 3080,
+   "duree_ms": 41
+  },
+  {
+   "texte": "deux",
+   "debut_ms": 3134,
+   "duree_ms": 163
+  },
+  {
+   "texte": "vagues",
+   "debut_ms": 3311,
+   "duree_ms": 462
+  },
+  {
+   "texte": "Il",
+   "debut_ms": 4728,
+   "duree_ms": 204
+  },
+  {
+   "texte": "veut",
+   "debut_ms": 4946,
+   "duree_ms": 136
+  },
+  {
+   "texte": "dire",
+   "debut_ms": 5095,
+   "duree_ms": 204
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 5312,
+   "duree_ms": 462
+  },
+  {
+   "texte": "Chaque",
+   "debut_ms": 6726,
+   "duree_ms": 353
+  },
+  {
+   "texte": "fois",
+   "debut_ms": 7092,
+   "duree_ms": 190
+  },
+  {
+   "texte": "que",
+   "debut_ms": 7296,
+   "duree_ms": 149
+  },
+  {
+   "texte": "tu",
+   "debut_ms": 7459,
+   "duree_ms": 136
+  },
+  {
+   "texte": "le",
+   "debut_ms": 7609,
+   "duree_ms": 95
+  },
+  {
+   "texte": "vois",
+   "debut_ms": 7717,
+   "duree_ms": 312
+  },
+  {
+   "texte": "pense",
+   "debut_ms": 8342,
+   "duree_ms": 421
+  },
+  {
+   "texte": "à",
+   "debut_ms": 8940,
+   "duree_ms": 41
+  },
+  {
+   "texte": "peu",
+   "debut_ms": 8995,
+   "duree_ms": 149
+  },
+  {
+   "texte": "près",
+   "debut_ms": 9158,
+   "duree_ms": 326
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 9783,
+   "duree_ms": 136
+  },
+  {
+   "texte": "exactement",
+   "debut_ms": 9932,
+   "duree_ms": 774
+  }
+ ]
+}

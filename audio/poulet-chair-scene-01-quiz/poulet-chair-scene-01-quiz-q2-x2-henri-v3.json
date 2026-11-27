@@ -1,0 +1,252 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q2-x2",
+ "voix": "henri",
+ "version": 3,
+ "texte_affiche": "Compare deux poulets du même âge. Le poulet de chair est déjà gros, et prêt pour la vente vers six semaines. Le poulet local, au même âge, est encore petit : il lui faut plusieurs mois. Cette différence ne vient pas de la chance. Elle vient de la souche.",
+ "texte_prononce": "Compare deux poulets du même âge. Le poulet de chair est déjà gros, et prêt pour la vente vers six semaines. Le poulet local, au même âge, est encore petit : il lui faut plusieurs mois. Cette différence ne vient pas de la chance. Elle vient de la souche.",
+ "substitutions": [],
+ "duree_ms": 18313,
+ "reperes": [
+  {
+   "texte": "Compare",
+   "debut_ms": 104,
+   "duree_ms": 421
+  },
+  {
+   "texte": "deux",
+   "debut_ms": 539,
+   "duree_ms": 163
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 716,
+   "duree_ms": 245
+  },
+  {
+   "texte": "du",
+   "debut_ms": 974,
+   "duree_ms": 109
+  },
+  {
+   "texte": "même",
+   "debut_ms": 1096,
+   "duree_ms": 204
+  },
+  {
+   "texte": "âge",
+   "debut_ms": 1314,
+   "duree_ms": 394
+  },
+  {
+   "texte": "Le",
+   "debut_ms": 2663,
+   "duree_ms": 231
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 2908,
+   "duree_ms": 245
+  },
+  {
+   "texte": "de",
+   "debut_ms": 3166,
+   "duree_ms": 149
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 3329,
+   "duree_ms": 245
+  },
+  {
+   "texte": "est",
+   "debut_ms": 3587,
+   "duree_ms": 41
+  },
+  {
+   "texte": "déjà",
+   "debut_ms": 3641,
+   "duree_ms": 326
+  },
+  {
+   "texte": "gros",
+   "debut_ms": 3981,
+   "duree_ms": 326
+  },
+  {
+   "texte": "et",
+   "debut_ms": 4647,
+   "duree_ms": 54
+  },
+  {
+   "texte": "prêt",
+   "debut_ms": 4715,
+   "duree_ms": 231
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 4959,
+   "duree_ms": 163
+  },
+  {
+   "texte": "la",
+   "debut_ms": 5136,
+   "duree_ms": 95
+  },
+  {
+   "texte": "vente",
+   "debut_ms": 5245,
+   "duree_ms": 245
+  },
+  {
+   "texte": "vers",
+   "debut_ms": 5503,
+   "duree_ms": 190
+  },
+  {
+   "texte": "six",
+   "debut_ms": 5707,
+   "duree_ms": 149
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 5870,
+   "duree_ms": 530
+  },
+  {
+   "texte": "Le",
+   "debut_ms": 7337,
+   "duree_ms": 231
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 7582,
+   "duree_ms": 231
+  },
+  {
+   "texte": "local",
+   "debut_ms": 7826,
+   "duree_ms": 503
+  },
+  {
+   "texte": "au",
+   "debut_ms": 8641,
+   "duree_ms": 54
+  },
+  {
+   "texte": "même",
+   "debut_ms": 8709,
+   "duree_ms": 217
+  },
+  {
+   "texte": "âge",
+   "debut_ms": 8940,
+   "duree_ms": 299
+  },
+  {
+   "texte": "est",
+   "debut_ms": 9579,
+   "duree_ms": 54
+  },
+  {
+   "texte": "encore",
+   "debut_ms": 9647,
+   "duree_ms": 408
+  },
+  {
+   "texte": "petit",
+   "debut_ms": 10068,
+   "duree_ms": 421
+  },
+  {
+   "texte": "il",
+   "debut_ms": 10734,
+   "duree_ms": 109
+  },
+  {
+   "texte": "lui",
+   "debut_ms": 10856,
+   "duree_ms": 149
+  },
+  {
+   "texte": "faut",
+   "debut_ms": 11019,
+   "duree_ms": 177
+  },
+  {
+   "texte": "plusieurs",
+   "debut_ms": 11209,
+   "duree_ms": 421
+  },
+  {
+   "texte": "mois",
+   "debut_ms": 11644,
+   "duree_ms": 340
+  },
+  {
+   "texte": "Cette",
+   "debut_ms": 12921,
+   "duree_ms": 285
+  },
+  {
+   "texte": "différence",
+   "debut_ms": 13220,
+   "duree_ms": 571
+  },
+  {
+   "texte": "ne",
+   "debut_ms": 13804,
+   "duree_ms": 149
+  },
+  {
+   "texte": "vient",
+   "debut_ms": 13967,
+   "duree_ms": 190
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 14171,
+   "duree_ms": 149
+  },
+  {
+   "texte": "de",
+   "debut_ms": 14334,
+   "duree_ms": 95
+  },
+  {
+   "texte": "la",
+   "debut_ms": 14443,
+   "duree_ms": 109
+  },
+  {
+   "texte": "chance",
+   "debut_ms": 14565,
+   "duree_ms": 584
+  },
+  {
+   "texte": "Elle",
+   "debut_ms": 16101,
+   "duree_ms": 217
+  },
+  {
+   "texte": "vient",
+   "debut_ms": 16332,
+   "duree_ms": 190
+  },
+  {
+   "texte": "de",
+   "debut_ms": 16535,
+   "duree_ms": 95
+  },
+  {
+   "texte": "la",
+   "debut_ms": 16644,
+   "duree_ms": 122
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 16780,
+   "duree_ms": 584
+  }
+ ]
+}

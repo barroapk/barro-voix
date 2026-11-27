@@ -1,0 +1,72 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "fin_faible-2",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Pas de souci, c'est comme ça qu'on apprend. Voyons la correction ensemble.",
+ "texte_prononce": "Pas de souci, c'est comme ça qu'on apprend. Voyons la correction ensemble.",
+ "substitutions": [],
+ "duree_ms": 5496,
+ "reperes": [
+  {
+   "texte": "Pas",
+   "debut_ms": 100,
+   "duree_ms": 162
+  },
+  {
+   "texte": "de",
+   "debut_ms": 275,
+   "duree_ms": 112
+  },
+  {
+   "texte": "souci",
+   "debut_ms": 400,
+   "duree_ms": 412
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 1112,
+   "duree_ms": 125
+  },
+  {
+   "texte": "comme",
+   "debut_ms": 1250,
+   "duree_ms": 225
+  },
+  {
+   "texte": "ça",
+   "debut_ms": 1488,
+   "duree_ms": 125
+  },
+  {
+   "texte": "qu'on",
+   "debut_ms": 1625,
+   "duree_ms": 125
+  },
+  {
+   "texte": "apprend",
+   "debut_ms": 1762,
+   "duree_ms": 425
+  },
+  {
+   "texte": "Voyons",
+   "debut_ms": 3062,
+   "duree_ms": 388
+  },
+  {
+   "texte": "la",
+   "debut_ms": 3462,
+   "duree_ms": 112
+  },
+  {
+   "texte": "correction",
+   "debut_ms": 3588,
+   "duree_ms": 462
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 4062,
+   "duree_ms": 550
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "fin_faible-1",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Ce n'est pas grave. On va revoir tout ça ensemble, pas à pas.",
+ "texte_prononce": "Ce n'est pas grave. On va revoir tout ça ensemble, pas à pas.",
+ "substitutions": [],
+ "duree_ms": 5064,
+ "reperes": [
+  {
+   "texte": "Ce",
+   "debut_ms": 100,
+   "duree_ms": 212
+  },
+  {
+   "texte": "n'est",
+   "debut_ms": 325,
+   "duree_ms": 112
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 450,
+   "duree_ms": 125
+  },
+  {
+   "texte": "grave",
+   "debut_ms": 588,
+   "duree_ms": 450
+  },
+  {
+   "texte": "On",
+   "debut_ms": 1900,
+   "duree_ms": 150
+  },
+  {
+   "texte": "va",
+   "debut_ms": 2062,
+   "duree_ms": 112
+  },
+  {
+   "texte": "revoir",
+   "debut_ms": 2188,
+   "duree_ms": 338
+  },
+  {
+   "texte": "tout",
+   "debut_ms": 2538,
+   "duree_ms": 175
+  },
+  {
+   "texte": "ça",
+   "debut_ms": 2725,
+   "duree_ms": 138
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 2875,
+   "duree_ms": 450
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 3625,
+   "duree_ms": 125
+  },
+  {
+   "texte": "à",
+   "debut_ms": 3762,
+   "duree_ms": 125
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 3900,
+   "duree_ms": 275
+  }
+ ]
+}
