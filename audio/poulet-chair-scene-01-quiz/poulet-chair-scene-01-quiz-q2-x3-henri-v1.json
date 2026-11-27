@@ -1,0 +1,107 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q2-x3",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Retiens ceci : poulet de chair égale croissance rapide. La souche, c'est le choix de départ qui donne cette vitesse.",
+ "texte_prononce": "Retiens ceci : poulet de chair égale croissance rapide. La souche, c'est le choix de départ qui donne cette vitesse.",
+ "substitutions": [],
+ "duree_ms": 7920,
+ "reperes": [
+  {
+   "texte": "Retiens",
+   "debut_ms": 100,
+   "duree_ms": 450
+  },
+  {
+   "texte": "ceci",
+   "debut_ms": 562,
+   "duree_ms": 400
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 1188,
+   "duree_ms": 212
+  },
+  {
+   "texte": "de",
+   "debut_ms": 1412,
+   "duree_ms": 150
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 1575,
+   "duree_ms": 212
+  },
+  {
+   "texte": "égale",
+   "debut_ms": 1800,
+   "duree_ms": 250
+  },
+  {
+   "texte": "croissance",
+   "debut_ms": 2062,
+   "duree_ms": 450
+  },
+  {
+   "texte": "rapide",
+   "debut_ms": 2525,
+   "duree_ms": 575
+  },
+  {
+   "texte": "La",
+   "debut_ms": 3962,
+   "duree_ms": 212
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 4188,
+   "duree_ms": 425
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 4888,
+   "duree_ms": 150
+  },
+  {
+   "texte": "le",
+   "debut_ms": 5050,
+   "duree_ms": 112
+  },
+  {
+   "texte": "choix",
+   "debut_ms": 5175,
+   "duree_ms": 175
+  },
+  {
+   "texte": "de",
+   "debut_ms": 5362,
+   "duree_ms": 100
+  },
+  {
+   "texte": "départ",
+   "debut_ms": 5475,
+   "duree_ms": 325
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 5812,
+   "duree_ms": 150
+  },
+  {
+   "texte": "donne",
+   "debut_ms": 5975,
+   "duree_ms": 188
+  },
+  {
+   "texte": "cette",
+   "debut_ms": 6175,
+   "duree_ms": 175
+  },
+  {
+   "texte": "vitesse",
+   "debut_ms": 6362,
+   "duree_ms": 662
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q1-x3",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Retiens cette image : une bande, c'est une équipe. Tous les poulets de l'équipe entrent ensemble et sortent ensemble.",
+ "texte_prononce": "Retiens cette image : une bande, c'est une équipe. Tous les poulets de l'équipe entrent ensemble et sortent ensemble.",
+ "substitutions": [],
+ "duree_ms": 7080,
+ "reperes": [
+  {
+   "texte": "Retiens",
+   "debut_ms": 100,
+   "duree_ms": 450
+  },
+  {
+   "texte": "cette",
+   "debut_ms": 562,
+   "duree_ms": 200
+  },
+  {
+   "texte": "image",
+   "debut_ms": 775,
+   "duree_ms": 400
+  },
+  {
+   "texte": "une",
+   "debut_ms": 1362,
+   "duree_ms": 100
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 1475,
+   "duree_ms": 325
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 2075,
+   "duree_ms": 125
+  },
+  {
+   "texte": "une",
+   "debut_ms": 2212,
+   "duree_ms": 175
+  },
+  {
+   "texte": "équipe",
+   "debut_ms": 2400,
+   "duree_ms": 450
+  },
+  {
+   "texte": "Tous",
+   "debut_ms": 3725,
+   "duree_ms": 150
+  },
+  {
+   "texte": "les",
+   "debut_ms": 3888,
+   "duree_ms": 112
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 4012,
+   "duree_ms": 238
+  },
+  {
+   "texte": "de",
+   "debut_ms": 4262,
+   "duree_ms": 88
+  },
+  {
+   "texte": "l'équipe",
+   "debut_ms": 4362,
+   "duree_ms": 350
+  },
+  {
+   "texte": "entrent",
+   "debut_ms": 4725,
+   "duree_ms": 200
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 4938,
+   "duree_ms": 375
+  },
+  {
+   "texte": "et",
+   "debut_ms": 5325,
+   "duree_ms": 50
+  },
+  {
+   "texte": "sortent",
+   "debut_ms": 5388,
+   "duree_ms": 262
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 5662,
+   "duree_ms": 550
+  }
+ ]
+}

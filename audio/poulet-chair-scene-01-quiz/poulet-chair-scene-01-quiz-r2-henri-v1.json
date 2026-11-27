@@ -1,0 +1,32 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "r2",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Presque ! Regardons ça ensemble.",
+ "texte_prononce": "Presque ! Regardons ça ensemble.",
+ "substitutions": [],
+ "duree_ms": 3696,
+ "reperes": [
+  {
+   "texte": "Presque",
+   "debut_ms": 100,
+   "duree_ms": 512
+  },
+  {
+   "texte": "Regardons",
+   "debut_ms": 1488,
+   "duree_ms": 575
+  },
+  {
+   "texte": "ça",
+   "debut_ms": 2075,
+   "duree_ms": 175
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 2262,
+   "duree_ms": 562
+  }
+ ]
+}

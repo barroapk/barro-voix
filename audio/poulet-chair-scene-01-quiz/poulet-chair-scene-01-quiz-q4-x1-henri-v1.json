@@ -1,0 +1,172 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q4-x1",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Je t'explique autrement. Quand tu dis qu'un trajet dure environ une heure, il peut durer un peu moins ou un peu plus. Six semaines, c'est pareil : un repère, pas une règle fixe.",
+ "texte_prononce": "Je t'explique autrement. Quand tu dis qu'un trajet dure environ une heure, il peut durer un peu moins ou un peu plus. Six semaines, c'est pareil : un repère, pas une règle fixe.",
+ "substitutions": [],
+ "duree_ms": 11520,
+ "reperes": [
+  {
+   "texte": "Je",
+   "debut_ms": 100,
+   "duree_ms": 212
+  },
+  {
+   "texte": "t'explique",
+   "debut_ms": 325,
+   "duree_ms": 450
+  },
+  {
+   "texte": "autrement",
+   "debut_ms": 788,
+   "duree_ms": 462
+  },
+  {
+   "texte": "Quand",
+   "debut_ms": 2112,
+   "duree_ms": 162
+  },
+  {
+   "texte": "tu",
+   "debut_ms": 2288,
+   "duree_ms": 138
+  },
+  {
+   "texte": "dis",
+   "debut_ms": 2438,
+   "duree_ms": 112
+  },
+  {
+   "texte": "qu'un",
+   "debut_ms": 2562,
+   "duree_ms": 150
+  },
+  {
+   "texte": "trajet",
+   "debut_ms": 2725,
+   "duree_ms": 325
+  },
+  {
+   "texte": "dure",
+   "debut_ms": 3062,
+   "duree_ms": 175
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 3250,
+   "duree_ms": 300
+  },
+  {
+   "texte": "une",
+   "debut_ms": 3562,
+   "duree_ms": 125
+  },
+  {
+   "texte": "heure",
+   "debut_ms": 3700,
+   "duree_ms": 262
+  },
+  {
+   "texte": "il",
+   "debut_ms": 4288,
+   "duree_ms": 112
+  },
+  {
+   "texte": "peut",
+   "debut_ms": 4412,
+   "duree_ms": 138
+  },
+  {
+   "texte": "durer",
+   "debut_ms": 4562,
+   "duree_ms": 275
+  },
+  {
+   "texte": "un",
+   "debut_ms": 4850,
+   "duree_ms": 75
+  },
+  {
+   "texte": "peu",
+   "debut_ms": 4938,
+   "duree_ms": 150
+  },
+  {
+   "texte": "moins",
+   "debut_ms": 5100,
+   "duree_ms": 188
+  },
+  {
+   "texte": "ou",
+   "debut_ms": 5300,
+   "duree_ms": 75
+  },
+  {
+   "texte": "un",
+   "debut_ms": 5388,
+   "duree_ms": 62
+  },
+  {
+   "texte": "peu",
+   "debut_ms": 5462,
+   "duree_ms": 138
+  },
+  {
+   "texte": "plus",
+   "debut_ms": 5612,
+   "duree_ms": 538
+  },
+  {
+   "texte": "Six",
+   "debut_ms": 7012,
+   "duree_ms": 238
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 7262,
+   "duree_ms": 412
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 8000,
+   "duree_ms": 138
+  },
+  {
+   "texte": "pareil",
+   "debut_ms": 8150,
+   "duree_ms": 375
+  },
+  {
+   "texte": "un",
+   "debut_ms": 8725,
+   "duree_ms": 38
+  },
+  {
+   "texte": "repère",
+   "debut_ms": 8775,
+   "duree_ms": 488
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 9538,
+   "duree_ms": 125
+  },
+  {
+   "texte": "une",
+   "debut_ms": 9675,
+   "duree_ms": 175
+  },
+  {
+   "texte": "règle",
+   "debut_ms": 9862,
+   "duree_ms": 262
+  },
+  {
+   "texte": "fixe",
+   "debut_ms": 10138,
+   "duree_ms": 500
+  }
+ ]
+}

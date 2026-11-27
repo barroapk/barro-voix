@@ -1,0 +1,182 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q1-x1",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Je t'explique autrement. Pense à une classe d'école : les élèves arrivent ensemble, avancent ensemble et finissent l'année ensemble. Une bande, c'est pareil pour les poulets : un groupe élevé ensemble, du début jusqu'à la vente.",
+ "texte_prononce": "Je t'explique autrement. Pense à une classe d'école : les élèves arrivent ensemble, avancent ensemble et finissent l'année ensemble. Une bande, c'est pareil pour les poulets : un groupe élevé ensemble, du début jusqu'à la vente.",
+ "substitutions": [],
+ "duree_ms": 13392,
+ "reperes": [
+  {
+   "texte": "Je",
+   "debut_ms": 100,
+   "duree_ms": 212
+  },
+  {
+   "texte": "t'explique",
+   "debut_ms": 325,
+   "duree_ms": 450
+  },
+  {
+   "texte": "autrement",
+   "debut_ms": 788,
+   "duree_ms": 462
+  },
+  {
+   "texte": "Pense",
+   "debut_ms": 2112,
+   "duree_ms": 262
+  },
+  {
+   "texte": "à",
+   "debut_ms": 2388,
+   "duree_ms": 50
+  },
+  {
+   "texte": "une",
+   "debut_ms": 2450,
+   "duree_ms": 112
+  },
+  {
+   "texte": "classe",
+   "debut_ms": 2575,
+   "duree_ms": 238
+  },
+  {
+   "texte": "d'école",
+   "debut_ms": 2825,
+   "duree_ms": 462
+  },
+  {
+   "texte": "les",
+   "debut_ms": 3488,
+   "duree_ms": 88
+  },
+  {
+   "texte": "élèves",
+   "debut_ms": 3588,
+   "duree_ms": 312
+  },
+  {
+   "texte": "arrivent",
+   "debut_ms": 3912,
+   "duree_ms": 238
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 4162,
+   "duree_ms": 425
+  },
+  {
+   "texte": "avancent",
+   "debut_ms": 4938,
+   "duree_ms": 338
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 5288,
+   "duree_ms": 400
+  },
+  {
+   "texte": "et",
+   "debut_ms": 5700,
+   "duree_ms": 50
+  },
+  {
+   "texte": "finissent",
+   "debut_ms": 5762,
+   "duree_ms": 350
+  },
+  {
+   "texte": "l'année",
+   "debut_ms": 6125,
+   "duree_ms": 250
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 6388,
+   "duree_ms": 550
+  },
+  {
+   "texte": "Une",
+   "debut_ms": 7800,
+   "duree_ms": 212
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 8025,
+   "duree_ms": 312
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 8650,
+   "duree_ms": 125
+  },
+  {
+   "texte": "pareil",
+   "debut_ms": 8788,
+   "duree_ms": 300
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 9100,
+   "duree_ms": 150
+  },
+  {
+   "texte": "les",
+   "debut_ms": 9262,
+   "duree_ms": 88
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 9362,
+   "duree_ms": 362
+  },
+  {
+   "texte": "un",
+   "debut_ms": 9938,
+   "duree_ms": 62
+  },
+  {
+   "texte": "groupe",
+   "debut_ms": 10012,
+   "duree_ms": 262
+  },
+  {
+   "texte": "élevé",
+   "debut_ms": 10288,
+   "duree_ms": 212
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 10512,
+   "duree_ms": 450
+  },
+  {
+   "texte": "du",
+   "debut_ms": 11225,
+   "duree_ms": 112
+  },
+  {
+   "texte": "début",
+   "debut_ms": 11350,
+   "duree_ms": 275
+  },
+  {
+   "texte": "jusqu'à",
+   "debut_ms": 11638,
+   "duree_ms": 300
+  },
+  {
+   "texte": "la",
+   "debut_ms": 11950,
+   "duree_ms": 100
+  },
+  {
+   "texte": "vente",
+   "debut_ms": 12062,
+   "duree_ms": 438
+  }
+ ]
+}

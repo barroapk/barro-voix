@@ -1,0 +1,52 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q2-e1",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Pourquoi choisit-on une souche de poulet de chair ?",
+ "texte_prononce": "Pourquoi choisit-on une souche de poulet de chair ?",
+ "substitutions": [],
+ "duree_ms": 3168,
+ "reperes": [
+  {
+   "texte": "Pourquoi",
+   "debut_ms": 100,
+   "duree_ms": 362
+  },
+  {
+   "texte": "choisit-on",
+   "debut_ms": 475,
+   "duree_ms": 475
+  },
+  {
+   "texte": "une",
+   "debut_ms": 962,
+   "duree_ms": 112
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 1088,
+   "duree_ms": 238
+  },
+  {
+   "texte": "de",
+   "debut_ms": 1338,
+   "duree_ms": 125
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 1475,
+   "duree_ms": 225
+  },
+  {
+   "texte": "de",
+   "debut_ms": 1712,
+   "duree_ms": 138
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 1862,
+   "duree_ms": 412
+  }
+ ]
+}

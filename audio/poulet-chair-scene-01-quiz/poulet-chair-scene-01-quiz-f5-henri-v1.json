@@ -1,0 +1,37 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "f5",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Parfait ! Tu as tout compris.",
+ "texte_prononce": "Parfait ! Tu as tout compris.",
+ "substitutions": [],
+ "duree_ms": 3240,
+ "reperes": [
+  {
+   "texte": "Parfait",
+   "debut_ms": 100,
+   "duree_ms": 500
+  },
+  {
+   "texte": "Tu",
+   "debut_ms": 1462,
+   "duree_ms": 188
+  },
+  {
+   "texte": "as",
+   "debut_ms": 1662,
+   "duree_ms": 75
+  },
+  {
+   "texte": "tout",
+   "debut_ms": 1750,
+   "duree_ms": 138
+  },
+  {
+   "texte": "compris",
+   "debut_ms": 1900,
+   "duree_ms": 475
+  }
+ ]
+}

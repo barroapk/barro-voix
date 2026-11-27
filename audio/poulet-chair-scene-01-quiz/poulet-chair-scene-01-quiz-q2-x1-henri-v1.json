@@ -1,0 +1,202 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q2-x1",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Je t'explique autrement. Imagine deux variétés de maïs : l'une pousse vite, l'autre lentement. Si tu veux récolter tôt, tu choisis celle qui pousse vite. Pour le poulet de chair, c'est pareil : on choisit une souche qui grandit vite.",
+ "texte_prononce": "Je t'explique autrement. Imagine deux variétés de maïs : l'une pousse vite, l'autre lentement. Si tu veux récolter tôt, tu choisis celle qui pousse vite. Pour le poulet de chair, c'est pareil : on choisit une souche qui grandit vite.",
+ "substitutions": [],
+ "duree_ms": 15120,
+ "reperes": [
+  {
+   "texte": "Je",
+   "debut_ms": 100,
+   "duree_ms": 212
+  },
+  {
+   "texte": "t'explique",
+   "debut_ms": 325,
+   "duree_ms": 450
+  },
+  {
+   "texte": "autrement",
+   "debut_ms": 788,
+   "duree_ms": 462
+  },
+  {
+   "texte": "Imagine",
+   "debut_ms": 2112,
+   "duree_ms": 488
+  },
+  {
+   "texte": "deux",
+   "debut_ms": 2612,
+   "duree_ms": 138
+  },
+  {
+   "texte": "variétés",
+   "debut_ms": 2762,
+   "duree_ms": 412
+  },
+  {
+   "texte": "de",
+   "debut_ms": 3188,
+   "duree_ms": 112
+  },
+  {
+   "texte": "maïs",
+   "debut_ms": 3312,
+   "duree_ms": 450
+  },
+  {
+   "texte": "l'une",
+   "debut_ms": 3925,
+   "duree_ms": 162
+  },
+  {
+   "texte": "pousse",
+   "debut_ms": 4100,
+   "duree_ms": 225
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 4338,
+   "duree_ms": 288
+  },
+  {
+   "texte": "l'autre",
+   "debut_ms": 4938,
+   "duree_ms": 288
+  },
+  {
+   "texte": "lentement",
+   "debut_ms": 5238,
+   "duree_ms": 462
+  },
+  {
+   "texte": "Si",
+   "debut_ms": 6562,
+   "duree_ms": 238
+  },
+  {
+   "texte": "tu",
+   "debut_ms": 6812,
+   "duree_ms": 125
+  },
+  {
+   "texte": "veux",
+   "debut_ms": 6950,
+   "duree_ms": 112
+  },
+  {
+   "texte": "récolter",
+   "debut_ms": 7075,
+   "duree_ms": 462
+  },
+  {
+   "texte": "tôt",
+   "debut_ms": 7550,
+   "duree_ms": 275
+  },
+  {
+   "texte": "tu",
+   "debut_ms": 8075,
+   "duree_ms": 138
+  },
+  {
+   "texte": "choisis",
+   "debut_ms": 8225,
+   "duree_ms": 338
+  },
+  {
+   "texte": "celle",
+   "debut_ms": 8575,
+   "duree_ms": 200
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 8788,
+   "duree_ms": 162
+  },
+  {
+   "texte": "pousse",
+   "debut_ms": 8962,
+   "duree_ms": 225
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 9200,
+   "duree_ms": 412
+  },
+  {
+   "texte": "Pour",
+   "debut_ms": 10488,
+   "duree_ms": 175
+  },
+  {
+   "texte": "le",
+   "debut_ms": 10675,
+   "duree_ms": 88
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 10775,
+   "duree_ms": 225
+  },
+  {
+   "texte": "de",
+   "debut_ms": 11012,
+   "duree_ms": 138
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 11162,
+   "duree_ms": 362
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 11800,
+   "duree_ms": 138
+  },
+  {
+   "texte": "pareil",
+   "debut_ms": 11950,
+   "duree_ms": 400
+  },
+  {
+   "texte": "on",
+   "debut_ms": 12512,
+   "duree_ms": 62
+  },
+  {
+   "texte": "choisit",
+   "debut_ms": 12588,
+   "duree_ms": 350
+  },
+  {
+   "texte": "une",
+   "debut_ms": 12950,
+   "duree_ms": 100
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 13062,
+   "duree_ms": 250
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 13325,
+   "duree_ms": 138
+  },
+  {
+   "texte": "grandit",
+   "debut_ms": 13475,
+   "duree_ms": 325
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 13812,
+   "duree_ms": 425
+  }
+ ]
+}

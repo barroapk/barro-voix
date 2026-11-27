@@ -1,0 +1,37 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "f7",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Bonne réponse, tu avances bien !",
+ "texte_prononce": "Bonne réponse, tu avances bien !",
+ "substitutions": [],
+ "duree_ms": 2856,
+ "reperes": [
+  {
+   "texte": "Bonne",
+   "debut_ms": 100,
+   "duree_ms": 312
+  },
+  {
+   "texte": "réponse",
+   "debut_ms": 425,
+   "duree_ms": 562
+  },
+  {
+   "texte": "tu",
+   "debut_ms": 1225,
+   "duree_ms": 150
+  },
+  {
+   "texte": "avances",
+   "debut_ms": 1388,
+   "duree_ms": 288
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 1688,
+   "duree_ms": 300
+  }
+ ]
+}

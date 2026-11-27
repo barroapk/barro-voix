@@ -1,0 +1,122 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q4-x2",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Prenons un exemple. Selon l'alimentation et la chaleur, certains éleveurs vendent à cinq semaines, d'autres à sept. Six semaines reste le repère.",
+ "texte_prononce": "Prenons un exemple. Selon l'alimentation et la chaleur, certains éleveurs vendent à cinq semaines, d'autres à sept. Six semaines reste le repère.",
+ "substitutions": [],
+ "duree_ms": 8784,
+ "reperes": [
+  {
+   "texte": "Prenons",
+   "debut_ms": 100,
+   "duree_ms": 338
+  },
+  {
+   "texte": "un",
+   "debut_ms": 450,
+   "duree_ms": 62
+  },
+  {
+   "texte": "exemple",
+   "debut_ms": 525,
+   "duree_ms": 600
+  },
+  {
+   "texte": "Selon",
+   "debut_ms": 2000,
+   "duree_ms": 325
+  },
+  {
+   "texte": "l'alimentation",
+   "debut_ms": 2338,
+   "duree_ms": 675
+  },
+  {
+   "texte": "et",
+   "debut_ms": 3025,
+   "duree_ms": 50
+  },
+  {
+   "texte": "la",
+   "debut_ms": 3088,
+   "duree_ms": 112
+  },
+  {
+   "texte": "chaleur",
+   "debut_ms": 3212,
+   "duree_ms": 475
+  },
+  {
+   "texte": "certains",
+   "debut_ms": 3975,
+   "duree_ms": 350
+  },
+  {
+   "texte": "éleveurs",
+   "debut_ms": 4338,
+   "duree_ms": 350
+  },
+  {
+   "texte": "vendent",
+   "debut_ms": 4700,
+   "duree_ms": 200
+  },
+  {
+   "texte": "à",
+   "debut_ms": 4912,
+   "duree_ms": 50
+  },
+  {
+   "texte": "cinq",
+   "debut_ms": 4975,
+   "duree_ms": 225
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 5212,
+   "duree_ms": 412
+  },
+  {
+   "texte": "d'autres",
+   "debut_ms": 5912,
+   "duree_ms": 275
+  },
+  {
+   "texte": "à",
+   "debut_ms": 6200,
+   "duree_ms": 50
+  },
+  {
+   "texte": "sept.",
+   "debut_ms": 6262,
+   "duree_ms": 212
+  },
+  {
+   "texte": "Six",
+   "debut_ms": 6488,
+   "duree_ms": 125
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 6625,
+   "duree_ms": 300
+  },
+  {
+   "texte": "reste",
+   "debut_ms": 6938,
+   "duree_ms": 275
+  },
+  {
+   "texte": "le",
+   "debut_ms": 7225,
+   "duree_ms": 75
+  },
+  {
+   "texte": "repère",
+   "debut_ms": 7312,
+   "duree_ms": 575
+  }
+ ]
+}

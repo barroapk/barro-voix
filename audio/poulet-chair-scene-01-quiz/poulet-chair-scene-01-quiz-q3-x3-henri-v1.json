@@ -1,0 +1,87 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q3-x3",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Souviens-toi de la frise du tableau : jour un, puis environ six semaines, puis la vente.",
+ "texte_prononce": "Souviens-toi de la frise du tableau : jour un, puis environ six semaines, puis la vente.",
+ "substitutions": [],
+ "duree_ms": 5472,
+ "reperes": [
+  {
+   "texte": "Souviens-toi",
+   "debut_ms": 100,
+   "duree_ms": 588
+  },
+  {
+   "texte": "de",
+   "debut_ms": 700,
+   "duree_ms": 88
+  },
+  {
+   "texte": "la",
+   "debut_ms": 800,
+   "duree_ms": 88
+  },
+  {
+   "texte": "frise",
+   "debut_ms": 900,
+   "duree_ms": 238
+  },
+  {
+   "texte": "du",
+   "debut_ms": 1150,
+   "duree_ms": 125
+  },
+  {
+   "texte": "tableau",
+   "debut_ms": 1288,
+   "duree_ms": 388
+  },
+  {
+   "texte": "jour",
+   "debut_ms": 1838,
+   "duree_ms": 200
+  },
+  {
+   "texte": "un",
+   "debut_ms": 2050,
+   "duree_ms": 100
+  },
+  {
+   "texte": "puis",
+   "debut_ms": 2400,
+   "duree_ms": 162
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 2575,
+   "duree_ms": 388
+  },
+  {
+   "texte": "six",
+   "debut_ms": 2975,
+   "duree_ms": 175
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 3162,
+   "duree_ms": 425
+  },
+  {
+   "texte": "puis",
+   "debut_ms": 3888,
+   "duree_ms": 125
+  },
+  {
+   "texte": "la",
+   "debut_ms": 4025,
+   "duree_ms": 100
+  },
+  {
+   "texte": "vente",
+   "debut_ms": 4138,
+   "duree_ms": 450
+  }
+ ]
+}
