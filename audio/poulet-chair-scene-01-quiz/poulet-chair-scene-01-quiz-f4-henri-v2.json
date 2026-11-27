@@ -1,0 +1,37 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "f4",
+ "voix": "henri",
+ "version": 2,
+ "texte_affiche": "C'est juste, continue comme ça !",
+ "texte_prononce": "C'est juste, continue comme ça !",
+ "substitutions": [],
+ "duree_ms": 2784,
+ "reperes": [
+  {
+   "texte": "C'est",
+   "debut_ms": 100,
+   "duree_ms": 250
+  },
+  {
+   "texte": "juste",
+   "debut_ms": 362,
+   "duree_ms": 325
+  },
+  {
+   "texte": "continue",
+   "debut_ms": 975,
+   "duree_ms": 400
+  },
+  {
+   "texte": "comme",
+   "debut_ms": 1388,
+   "duree_ms": 200
+  },
+  {
+   "texte": "ça",
+   "debut_ms": 1600,
+   "duree_ms": 312
+  }
+ ]
+}

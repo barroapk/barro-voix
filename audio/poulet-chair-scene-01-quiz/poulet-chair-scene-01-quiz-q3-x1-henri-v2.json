@@ -1,0 +1,247 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q3-x1",
+ "voix": "henri",
+ "version": 2,
+ "texte_affiche": "Comptons ensemble. Une semaine, c'est sept jours. Six semaines, c'est quarante-deux jours, à peu près un mois et demi. En un mois et demi, le petit poussin d'un jour devient un poulet prêt à être vendu. C'est très rapide, et c'est tout l'intérêt du poulet de chair.",
+ "texte_prononce": "Comptons ensemble. Une semaine, c'est sept jours. Six semaines, c'est quarante-deux jours, à peu près un mois et demi. En un mois et demi, le petit poussin d'un jour devient un poulet prêt à être vendu. C'est très rapide, et c'est tout l'intérêt du poulet de chair.",
+ "substitutions": [],
+ "duree_ms": 18720,
+ "reperes": [
+  {
+   "texte": "Comptons",
+   "debut_ms": 104,
+   "duree_ms": 380
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 498,
+   "duree_ms": 598
+  },
+  {
+   "texte": "Une",
+   "debut_ms": 2038,
+   "duree_ms": 217
+  },
+  {
+   "texte": "semaine",
+   "debut_ms": 2269,
+   "duree_ms": 462
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 3030,
+   "duree_ms": 149
+  },
+  {
+   "texte": "sept",
+   "debut_ms": 3193,
+   "duree_ms": 217
+  },
+  {
+   "texte": "jours",
+   "debut_ms": 3424,
+   "duree_ms": 503
+  },
+  {
+   "texte": "Six",
+   "debut_ms": 4864,
+   "duree_ms": 272
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 5149,
+   "duree_ms": 462
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 5951,
+   "duree_ms": 149
+  },
+  {
+   "texte": "quarante-deux",
+   "debut_ms": 6114,
+   "duree_ms": 462
+  },
+  {
+   "texte": "jours",
+   "debut_ms": 6590,
+   "duree_ms": 340
+  },
+  {
+   "texte": "à",
+   "debut_ms": 7174,
+   "duree_ms": 41
+  },
+  {
+   "texte": "peu",
+   "debut_ms": 7228,
+   "duree_ms": 163
+  },
+  {
+   "texte": "près",
+   "debut_ms": 7405,
+   "duree_ms": 217
+  },
+  {
+   "texte": "un",
+   "debut_ms": 7636,
+   "duree_ms": 95
+  },
+  {
+   "texte": "mois",
+   "debut_ms": 7745,
+   "duree_ms": 217
+  },
+  {
+   "texte": "et",
+   "debut_ms": 7976,
+   "duree_ms": 41
+  },
+  {
+   "texte": "demi",
+   "debut_ms": 8030,
+   "duree_ms": 408
+  },
+  {
+   "texte": "En",
+   "debut_ms": 9375,
+   "duree_ms": 163
+  },
+  {
+   "texte": "un",
+   "debut_ms": 9552,
+   "duree_ms": 136
+  },
+  {
+   "texte": "mois",
+   "debut_ms": 9701,
+   "duree_ms": 204
+  },
+  {
+   "texte": "et",
+   "debut_ms": 9918,
+   "duree_ms": 41
+  },
+  {
+   "texte": "demi",
+   "debut_ms": 9973,
+   "duree_ms": 367
+  },
+  {
+   "texte": "le",
+   "debut_ms": 10720,
+   "duree_ms": 122
+  },
+  {
+   "texte": "petit",
+   "debut_ms": 10856,
+   "duree_ms": 272
+  },
+  {
+   "texte": "poussin",
+   "debut_ms": 11141,
+   "duree_ms": 353
+  },
+  {
+   "texte": "d'un",
+   "debut_ms": 11508,
+   "duree_ms": 163
+  },
+  {
+   "texte": "jour",
+   "debut_ms": 11685,
+   "duree_ms": 217
+  },
+  {
+   "texte": "devient",
+   "debut_ms": 11916,
+   "duree_ms": 326
+  },
+  {
+   "texte": "un",
+   "debut_ms": 12255,
+   "duree_ms": 54
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 12323,
+   "duree_ms": 285
+  },
+  {
+   "texte": "prêt",
+   "debut_ms": 12622,
+   "duree_ms": 245
+  },
+  {
+   "texte": "à",
+   "debut_ms": 12880,
+   "duree_ms": 68
+  },
+  {
+   "texte": "être",
+   "debut_ms": 12962,
+   "duree_ms": 258
+  },
+  {
+   "texte": "vendu",
+   "debut_ms": 13234,
+   "duree_ms": 462
+  },
+  {
+   "texte": "C'est",
+   "debut_ms": 14647,
+   "duree_ms": 245
+  },
+  {
+   "texte": "très",
+   "debut_ms": 14905,
+   "duree_ms": 190
+  },
+  {
+   "texte": "rapide",
+   "debut_ms": 15109,
+   "duree_ms": 462
+  },
+  {
+   "texte": "et",
+   "debut_ms": 15910,
+   "duree_ms": 68
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 15992,
+   "duree_ms": 149
+  },
+  {
+   "texte": "tout",
+   "debut_ms": 16155,
+   "duree_ms": 163
+  },
+  {
+   "texte": "l'intérêt",
+   "debut_ms": 16332,
+   "duree_ms": 408
+  },
+  {
+   "texte": "du",
+   "debut_ms": 16753,
+   "duree_ms": 109
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 16875,
+   "duree_ms": 231
+  },
+  {
+   "texte": "de",
+   "debut_ms": 17120,
+   "duree_ms": 149
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 17283,
+   "duree_ms": 476
+  }
+ ]
+}

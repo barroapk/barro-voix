@@ -1,0 +1,32 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "f1",
+ "voix": "henri",
+ "version": 2,
+ "texte_affiche": "Bravo, c'est exactement ça !",
+ "texte_prononce": "Bravo, c'est exactement ça !",
+ "substitutions": [],
+ "duree_ms": 2712,
+ "reperes": [
+  {
+   "texte": "Bravo",
+   "debut_ms": 100,
+   "duree_ms": 500
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 838,
+   "duree_ms": 112
+  },
+  {
+   "texte": "exactement",
+   "debut_ms": 962,
+   "duree_ms": 538
+  },
+  {
+   "texte": "ça",
+   "debut_ms": 1512,
+   "duree_ms": 338
+  }
+ ]
+}

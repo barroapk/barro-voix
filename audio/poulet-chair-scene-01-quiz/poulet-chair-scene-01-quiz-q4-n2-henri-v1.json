@@ -1,0 +1,102 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q4-n2",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Six mois, c'est beaucoup trop long. Environ six semaines veut dire autour de six semaines, pas six mois.",
+ "texte_prononce": "Six mois, c'est beaucoup trop long. Environ six semaines veut dire autour de six semaines, pas six mois.",
+ "substitutions": [],
+ "duree_ms": 7416,
+ "reperes": [
+  {
+   "texte": "Six",
+   "debut_ms": 104,
+   "duree_ms": 272
+  },
+  {
+   "texte": "mois",
+   "debut_ms": 390,
+   "duree_ms": 272
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 947,
+   "duree_ms": 136
+  },
+  {
+   "texte": "beaucoup",
+   "debut_ms": 1096,
+   "duree_ms": 312
+  },
+  {
+   "texte": "trop",
+   "debut_ms": 1422,
+   "duree_ms": 204
+  },
+  {
+   "texte": "long",
+   "debut_ms": 1640,
+   "duree_ms": 258
+  },
+  {
+   "texte": "Environ",
+   "debut_ms": 2840,
+   "duree_ms": 476
+  },
+  {
+   "texte": "six",
+   "debut_ms": 3329,
+   "duree_ms": 204
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 3546,
+   "duree_ms": 367
+  },
+  {
+   "texte": "veut",
+   "debut_ms": 3927,
+   "duree_ms": 149
+  },
+  {
+   "texte": "dire",
+   "debut_ms": 4090,
+   "duree_ms": 204
+  },
+  {
+   "texte": "autour",
+   "debut_ms": 4307,
+   "duree_ms": 285
+  },
+  {
+   "texte": "de",
+   "debut_ms": 4606,
+   "duree_ms": 149
+  },
+  {
+   "texte": "six",
+   "debut_ms": 4769,
+   "duree_ms": 177
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 4959,
+   "duree_ms": 462
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 5761,
+   "duree_ms": 149
+  },
+  {
+   "texte": "six",
+   "debut_ms": 5924,
+   "duree_ms": 177
+  },
+  {
+   "texte": "mois",
+   "debut_ms": 6114,
+   "duree_ms": 353
+  }
+ ]
+}

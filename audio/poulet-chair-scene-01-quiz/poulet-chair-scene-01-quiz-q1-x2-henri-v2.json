@@ -1,0 +1,242 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q1-x2",
+ "voix": "henri",
+ "version": 2,
+ "texte_affiche": "Imagine un éleveur à Koudougou. Lundi matin, il reçoit cinq cents poussins. Il les nourrit ensemble, les surveille ensemble, et six semaines plus tard, il les vend ensemble. Ces cinq cents poulets, c'est sa bande. Quand ils partent, il nettoie, puis il accueille une nouvelle bande.",
+ "texte_prononce": "Imagine un éleveur à Koudougou. Lundi matin, il reçoit cinq cents poussins. Il les nourrit ensemble, les surveille ensemble, et six semaines plus tard, il les vend ensemble. Ces cinq cents poulets, c'est sa bande. Quand ils partent, il nettoie, puis il accueille une nouvelle bande.",
+ "substitutions": [],
+ "duree_ms": 20016,
+ "reperes": [
+  {
+   "texte": "Imagine",
+   "debut_ms": 104,
+   "duree_ms": 543
+  },
+  {
+   "texte": "un",
+   "debut_ms": 661,
+   "duree_ms": 54
+  },
+  {
+   "texte": "éleveur",
+   "debut_ms": 729,
+   "duree_ms": 408
+  },
+  {
+   "texte": "à",
+   "debut_ms": 1151,
+   "duree_ms": 54
+  },
+  {
+   "texte": "Koudougou",
+   "debut_ms": 1218,
+   "duree_ms": 598
+  },
+  {
+   "texte": "Lundi",
+   "debut_ms": 2758,
+   "duree_ms": 394
+  },
+  {
+   "texte": "matin",
+   "debut_ms": 3166,
+   "duree_ms": 448
+  },
+  {
+   "texte": "il",
+   "debut_ms": 3927,
+   "duree_ms": 163
+  },
+  {
+   "texte": "reçoit",
+   "debut_ms": 4103,
+   "duree_ms": 353
+  },
+  {
+   "texte": "cinq",
+   "debut_ms": 4470,
+   "duree_ms": 190
+  },
+  {
+   "texte": "cents",
+   "debut_ms": 4674,
+   "duree_ms": 177
+  },
+  {
+   "texte": "poussins",
+   "debut_ms": 4864,
+   "duree_ms": 462
+  },
+  {
+   "texte": "Il",
+   "debut_ms": 6277,
+   "duree_ms": 204
+  },
+  {
+   "texte": "les",
+   "debut_ms": 6495,
+   "duree_ms": 82
+  },
+  {
+   "texte": "nourrit",
+   "debut_ms": 6590,
+   "duree_ms": 285
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 6889,
+   "duree_ms": 489
+  },
+  {
+   "texte": "les",
+   "debut_ms": 7758,
+   "duree_ms": 122
+  },
+  {
+   "texte": "surveille",
+   "debut_ms": 7894,
+   "duree_ms": 380
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 8288,
+   "duree_ms": 462
+  },
+  {
+   "texte": "et",
+   "debut_ms": 9130,
+   "duree_ms": 68
+  },
+  {
+   "texte": "six",
+   "debut_ms": 9212,
+   "duree_ms": 204
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 9429,
+   "duree_ms": 326
+  },
+  {
+   "texte": "plus",
+   "debut_ms": 9769,
+   "duree_ms": 204
+  },
+  {
+   "texte": "tard",
+   "debut_ms": 9986,
+   "duree_ms": 353
+  },
+  {
+   "texte": "il",
+   "debut_ms": 10666,
+   "duree_ms": 95
+  },
+  {
+   "texte": "les",
+   "debut_ms": 10774,
+   "duree_ms": 82
+  },
+  {
+   "texte": "vend",
+   "debut_ms": 10870,
+   "duree_ms": 149
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 11033,
+   "duree_ms": 557
+  },
+  {
+   "texte": "Ces",
+   "debut_ms": 12527,
+   "duree_ms": 258
+  },
+  {
+   "texte": "cinq",
+   "debut_ms": 12799,
+   "duree_ms": 190
+  },
+  {
+   "texte": "cents",
+   "debut_ms": 13003,
+   "duree_ms": 177
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 13193,
+   "duree_ms": 394
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 13872,
+   "duree_ms": 163
+  },
+  {
+   "texte": "sa",
+   "debut_ms": 14049,
+   "duree_ms": 149
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 14212,
+   "duree_ms": 462
+  },
+  {
+   "texte": "Quand",
+   "debut_ms": 15625,
+   "duree_ms": 177
+  },
+  {
+   "texte": "ils",
+   "debut_ms": 15815,
+   "duree_ms": 217
+  },
+  {
+   "texte": "partent",
+   "debut_ms": 16046,
+   "duree_ms": 299
+  },
+  {
+   "texte": "il",
+   "debut_ms": 16671,
+   "duree_ms": 82
+  },
+  {
+   "texte": "nettoie",
+   "debut_ms": 16766,
+   "duree_ms": 462
+  },
+  {
+   "texte": "puis",
+   "debut_ms": 17541,
+   "duree_ms": 163
+  },
+  {
+   "texte": "il",
+   "debut_ms": 17717,
+   "duree_ms": 109
+  },
+  {
+   "texte": "accueille",
+   "debut_ms": 17840,
+   "duree_ms": 312
+  },
+  {
+   "texte": "une",
+   "debut_ms": 18166,
+   "duree_ms": 82
+  },
+  {
+   "texte": "nouvelle",
+   "debut_ms": 18261,
+   "duree_ms": 326
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 18601,
+   "duree_ms": 462
+  }
+ ]
+}

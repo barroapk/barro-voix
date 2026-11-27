@@ -1,0 +1,112 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q3-n2",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Un an, c'est beaucoup trop long pour un poulet de chair. À cet âge, il aurait été vendu depuis longtemps.",
+ "texte_prononce": "Un an, c'est beaucoup trop long pour un poulet de chair. À cet âge, il aurait été vendu depuis longtemps.",
+ "substitutions": [],
+ "duree_ms": 7680,
+ "reperes": [
+  {
+   "texte": "Un",
+   "debut_ms": 104,
+   "duree_ms": 190
+  },
+  {
+   "texte": "an",
+   "debut_ms": 308,
+   "duree_ms": 245
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 892,
+   "duree_ms": 122
+  },
+  {
+   "texte": "beaucoup",
+   "debut_ms": 1028,
+   "duree_ms": 326
+  },
+  {
+   "texte": "trop",
+   "debut_ms": 1368,
+   "duree_ms": 204
+  },
+  {
+   "texte": "long",
+   "debut_ms": 1585,
+   "duree_ms": 149
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 1748,
+   "duree_ms": 204
+  },
+  {
+   "texte": "un",
+   "debut_ms": 1966,
+   "duree_ms": 54
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 2034,
+   "duree_ms": 245
+  },
+  {
+   "texte": "de",
+   "debut_ms": 2292,
+   "duree_ms": 149
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 2455,
+   "duree_ms": 476
+  },
+  {
+   "texte": "À",
+   "debut_ms": 3886,
+   "duree_ms": 163
+  },
+  {
+   "texte": "cet",
+   "debut_ms": 4062,
+   "duree_ms": 258
+  },
+  {
+   "texte": "âge",
+   "debut_ms": 4334,
+   "duree_ms": 340
+  },
+  {
+   "texte": "il",
+   "debut_ms": 5041,
+   "duree_ms": 136
+  },
+  {
+   "texte": "aurait",
+   "debut_ms": 5190,
+   "duree_ms": 149
+  },
+  {
+   "texte": "été",
+   "debut_ms": 5353,
+   "duree_ms": 285
+  },
+  {
+   "texte": "vendu",
+   "debut_ms": 5652,
+   "duree_ms": 285
+  },
+  {
+   "texte": "depuis",
+   "debut_ms": 5951,
+   "duree_ms": 285
+  },
+  {
+   "texte": "longtemps",
+   "debut_ms": 6250,
+   "duree_ms": 462
+  }
+ ]
+}

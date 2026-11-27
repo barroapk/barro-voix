@@ -1,0 +1,57 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q3-e1",
+ "voix": "henri",
+ "version": 2,
+ "texte_affiche": "Vers quel âge vend-on souvent un poulet de chair ?",
+ "texte_prononce": "Vers quel âge vend-on souvent un poulet de chair ?",
+ "substitutions": [],
+ "duree_ms": 3000,
+ "reperes": [
+  {
+   "texte": "Vers",
+   "debut_ms": 100,
+   "duree_ms": 275
+  },
+  {
+   "texte": "quel",
+   "debut_ms": 388,
+   "duree_ms": 175
+  },
+  {
+   "texte": "âge",
+   "debut_ms": 575,
+   "duree_ms": 112
+  },
+  {
+   "texte": "vend-on",
+   "debut_ms": 700,
+   "duree_ms": 225
+  },
+  {
+   "texte": "souvent",
+   "debut_ms": 938,
+   "duree_ms": 312
+  },
+  {
+   "texte": "un",
+   "debut_ms": 1262,
+   "duree_ms": 50
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 1325,
+   "duree_ms": 238
+  },
+  {
+   "texte": "de",
+   "debut_ms": 1575,
+   "duree_ms": 138
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 1725,
+   "duree_ms": 400
+  }
+ ]
+}
