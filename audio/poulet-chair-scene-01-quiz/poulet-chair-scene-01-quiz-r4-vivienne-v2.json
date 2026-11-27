@@ -1,0 +1,52 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "r4",
+ "voix": "vivienne",
+ "version": 2,
+ "texte_affiche": "Ce n'est pas ça, mais je vais t'aider.",
+ "texte_prononce": "Ce n'est pas ça, mais je vais t'aider.",
+ "substitutions": [],
+ "duree_ms": 2112,
+ "reperes": [
+  {
+   "texte": "Ce",
+   "debut_ms": 50,
+   "duree_ms": 188
+  },
+  {
+   "texte": "n'est",
+   "debut_ms": 238,
+   "duree_ms": 100
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 338,
+   "duree_ms": 150
+  },
+  {
+   "texte": "ça",
+   "debut_ms": 488,
+   "duree_ms": 288
+  },
+  {
+   "texte": "mais",
+   "debut_ms": 1075,
+   "duree_ms": 75
+  },
+  {
+   "texte": "je",
+   "debut_ms": 1150,
+   "duree_ms": 100
+  },
+  {
+   "texte": "vais",
+   "debut_ms": 1250,
+   "duree_ms": 100
+  },
+  {
+   "texte": "t'aider",
+   "debut_ms": 1350,
+   "duree_ms": 425
+  }
+ ]
+}

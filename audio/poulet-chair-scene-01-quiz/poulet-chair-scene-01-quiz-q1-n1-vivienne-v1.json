@@ -1,0 +1,152 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q1-n1",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Tu as pensé à une race. Mais une race, c'est le type de poulet, par exemple le poulet de chair. La bande, elle, c'est un groupe de poulets.",
+ "texte_prononce": "Tu as pensé à une race. Mais une race, c'est le type de poulet, par exemple le poulet de chair. La bande, elle, c'est un groupe de poulets.",
+ "substitutions": [],
+ "duree_ms": 8688,
+ "reperes": [
+  {
+   "texte": "Tu",
+   "debut_ms": 95,
+   "duree_ms": 95
+  },
+  {
+   "texte": "as",
+   "debut_ms": 190,
+   "duree_ms": 41
+  },
+  {
+   "texte": "pensé",
+   "debut_ms": 231,
+   "duree_ms": 353
+  },
+  {
+   "texte": "à",
+   "debut_ms": 584,
+   "duree_ms": 41
+  },
+  {
+   "texte": "une",
+   "debut_ms": 625,
+   "duree_ms": 122
+  },
+  {
+   "texte": "race",
+   "debut_ms": 747,
+   "duree_ms": 530
+  },
+  {
+   "texte": "Mais",
+   "debut_ms": 1640,
+   "duree_ms": 204
+  },
+  {
+   "texte": "une",
+   "debut_ms": 1843,
+   "duree_ms": 136
+  },
+  {
+   "texte": "race",
+   "debut_ms": 1979,
+   "duree_ms": 476
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 2672,
+   "duree_ms": 149
+  },
+  {
+   "texte": "le",
+   "debut_ms": 2822,
+   "duree_ms": 109
+  },
+  {
+   "texte": "type",
+   "debut_ms": 2930,
+   "duree_ms": 217
+  },
+  {
+   "texte": "de",
+   "debut_ms": 3148,
+   "duree_ms": 109
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 3257,
+   "duree_ms": 394
+  },
+  {
+   "texte": "par",
+   "debut_ms": 3936,
+   "duree_ms": 149
+  },
+  {
+   "texte": "exemple",
+   "debut_ms": 4085,
+   "duree_ms": 448
+  },
+  {
+   "texte": "le",
+   "debut_ms": 4534,
+   "duree_ms": 109
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 4642,
+   "duree_ms": 245
+  },
+  {
+   "texte": "de",
+   "debut_ms": 4887,
+   "duree_ms": 136
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 5023,
+   "duree_ms": 503
+  },
+  {
+   "texte": "La",
+   "debut_ms": 5938,
+   "duree_ms": 149
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 6087,
+   "duree_ms": 367
+  },
+  {
+   "texte": "elle",
+   "debut_ms": 6671,
+   "duree_ms": 285
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 7228,
+   "duree_ms": 136
+  },
+  {
+   "texte": "un",
+   "debut_ms": 7364,
+   "duree_ms": 163
+  },
+  {
+   "texte": "groupe",
+   "debut_ms": 7527,
+   "duree_ms": 245
+  },
+  {
+   "texte": "de",
+   "debut_ms": 7772,
+   "duree_ms": 95
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 7867,
+   "duree_ms": 435
+  }
+ ]
+}

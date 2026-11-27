@@ -1,0 +1,47 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "i2",
+ "voix": "vivienne",
+ "version": 2,
+ "texte_affiche": "Voyons ensemble ce que tu as retenu.",
+ "texte_prononce": "Voyons ensemble ce que tu as retenu.",
+ "substitutions": [],
+ "duree_ms": 2112,
+ "reperes": [
+  {
+   "texte": "Voyons",
+   "debut_ms": 88,
+   "duree_ms": 312
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 400,
+   "duree_ms": 500
+  },
+  {
+   "texte": "ce",
+   "debut_ms": 900,
+   "duree_ms": 100
+  },
+  {
+   "texte": "que",
+   "debut_ms": 1000,
+   "duree_ms": 100
+  },
+  {
+   "texte": "tu",
+   "debut_ms": 1100,
+   "duree_ms": 125
+  },
+  {
+   "texte": "as",
+   "debut_ms": 1225,
+   "duree_ms": 38
+  },
+  {
+   "texte": "retenu",
+   "debut_ms": 1262,
+   "duree_ms": 488
+  }
+ ]
+}

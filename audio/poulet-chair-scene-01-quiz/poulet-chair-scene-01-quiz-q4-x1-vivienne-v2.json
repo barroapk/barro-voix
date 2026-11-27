@@ -1,0 +1,222 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q4-x1",
+ "voix": "vivienne",
+ "version": 2,
+ "texte_affiche": "Quand on te dit que le marché est à environ dix minutes de marche, tu peux arriver en huit minutes, ou en douze. Personne ne compte les secondes. Environ six semaines, c'est pareil : c'est un repère pour s'organiser, pas une règle fixe.",
+ "texte_prononce": "Quand on te dit que le marché est à environ dix minutes de marche, tu peux arriver en huit minutes, ou en douze. Personne ne compte les secondes. Environ six semaines, c'est pareil : c'est un repère pour s'organiser, pas une règle fixe.",
+ "substitutions": [],
+ "duree_ms": 13056,
+ "reperes": [
+  {
+   "texte": "Quand",
+   "debut_ms": 51,
+   "duree_ms": 149
+  },
+  {
+   "texte": "on",
+   "debut_ms": 201,
+   "duree_ms": 122
+  },
+  {
+   "texte": "te",
+   "debut_ms": 323,
+   "duree_ms": 136
+  },
+  {
+   "texte": "dit",
+   "debut_ms": 459,
+   "duree_ms": 122
+  },
+  {
+   "texte": "que",
+   "debut_ms": 581,
+   "duree_ms": 109
+  },
+  {
+   "texte": "le",
+   "debut_ms": 690,
+   "duree_ms": 68
+  },
+  {
+   "texte": "marché",
+   "debut_ms": 758,
+   "duree_ms": 394
+  },
+  {
+   "texte": "est",
+   "debut_ms": 1152,
+   "duree_ms": 54
+  },
+  {
+   "texte": "à",
+   "debut_ms": 1206,
+   "duree_ms": 122
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 1328,
+   "duree_ms": 408
+  },
+  {
+   "texte": "dix",
+   "debut_ms": 1736,
+   "duree_ms": 149
+  },
+  {
+   "texte": "minutes",
+   "debut_ms": 1885,
+   "duree_ms": 245
+  },
+  {
+   "texte": "de",
+   "debut_ms": 2130,
+   "duree_ms": 122
+  },
+  {
+   "texte": "marche",
+   "debut_ms": 2252,
+   "duree_ms": 448
+  },
+  {
+   "texte": "tu",
+   "debut_ms": 2986,
+   "duree_ms": 122
+  },
+  {
+   "texte": "peux",
+   "debut_ms": 3108,
+   "duree_ms": 109
+  },
+  {
+   "texte": "arriver",
+   "debut_ms": 3217,
+   "duree_ms": 353
+  },
+  {
+   "texte": "en",
+   "debut_ms": 3570,
+   "duree_ms": 95
+  },
+  {
+   "texte": "huit",
+   "debut_ms": 3665,
+   "duree_ms": 136
+  },
+  {
+   "texte": "minutes",
+   "debut_ms": 3801,
+   "duree_ms": 448
+  },
+  {
+   "texte": "ou",
+   "debut_ms": 4562,
+   "duree_ms": 27
+  },
+  {
+   "texte": "en",
+   "debut_ms": 4589,
+   "duree_ms": 136
+  },
+  {
+   "texte": "douze",
+   "debut_ms": 4725,
+   "duree_ms": 462
+  },
+  {
+   "texte": "Personne",
+   "debut_ms": 5555,
+   "duree_ms": 448
+  },
+  {
+   "texte": "ne",
+   "debut_ms": 6003,
+   "duree_ms": 109
+  },
+  {
+   "texte": "compte",
+   "debut_ms": 6112,
+   "duree_ms": 258
+  },
+  {
+   "texte": "les",
+   "debut_ms": 6370,
+   "duree_ms": 109
+  },
+  {
+   "texte": "secondes",
+   "debut_ms": 6479,
+   "duree_ms": 598
+  },
+  {
+   "texte": "Environ",
+   "debut_ms": 7486,
+   "duree_ms": 367
+  },
+  {
+   "texte": "six",
+   "debut_ms": 7853,
+   "duree_ms": 190
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 8043,
+   "duree_ms": 489
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 8750,
+   "duree_ms": 149
+  },
+  {
+   "texte": "pareil",
+   "debut_ms": 8899,
+   "duree_ms": 516
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 9851,
+   "duree_ms": 109
+  },
+  {
+   "texte": "un",
+   "debut_ms": 9959,
+   "duree_ms": 122
+  },
+  {
+   "texte": "repère",
+   "debut_ms": 10082,
+   "duree_ms": 367
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 10448,
+   "duree_ms": 177
+  },
+  {
+   "texte": "s'organiser",
+   "debut_ms": 10625,
+   "duree_ms": 693
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 11590,
+   "duree_ms": 122
+  },
+  {
+   "texte": "une",
+   "debut_ms": 11712,
+   "duree_ms": 136
+  },
+  {
+   "texte": "règle",
+   "debut_ms": 11848,
+   "duree_ms": 285
+  },
+  {
+   "texte": "fixe",
+   "debut_ms": 12133,
+   "duree_ms": 557
+  }
+ ]
+}

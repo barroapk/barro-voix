@@ -1,0 +1,192 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q2-x3",
+ "voix": "vivienne",
+ "version": 2,
+ "texte_affiche": "Retiens une idée simple : on ne choisit pas une souche au hasard. On la choisit pour ce qu'elle sait bien faire. La pondeuse sait bien pondre. Le poulet de chair, lui, sait bien grandir, et vite.",
+ "texte_prononce": "Retiens une idée simple : on ne choisit pas une souche au hasard. On la choisit pour ce qu'elle sait bien faire. La pondeuse sait bien pondre. Le poulet de chair, lui, sait bien grandir, et vite.",
+ "substitutions": [],
+ "duree_ms": 11880,
+ "reperes": [
+  {
+   "texte": "Retiens",
+   "debut_ms": 68,
+   "duree_ms": 408
+  },
+  {
+   "texte": "une",
+   "debut_ms": 476,
+   "duree_ms": 109
+  },
+  {
+   "texte": "idée",
+   "debut_ms": 584,
+   "duree_ms": 190
+  },
+  {
+   "texte": "simple",
+   "debut_ms": 774,
+   "duree_ms": 448
+  },
+  {
+   "texte": "on",
+   "debut_ms": 1630,
+   "duree_ms": 27
+  },
+  {
+   "texte": "ne",
+   "debut_ms": 1658,
+   "duree_ms": 109
+  },
+  {
+   "texte": "choisit",
+   "debut_ms": 1766,
+   "duree_ms": 285
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 2052,
+   "duree_ms": 136
+  },
+  {
+   "texte": "une",
+   "debut_ms": 2188,
+   "duree_ms": 122
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 2310,
+   "duree_ms": 272
+  },
+  {
+   "texte": "au",
+   "debut_ms": 2582,
+   "duree_ms": 68
+  },
+  {
+   "texte": "hasard",
+   "debut_ms": 2649,
+   "duree_ms": 557
+  },
+  {
+   "texte": "On",
+   "debut_ms": 3569,
+   "duree_ms": 163
+  },
+  {
+   "texte": "la",
+   "debut_ms": 3732,
+   "duree_ms": 109
+  },
+  {
+   "texte": "choisit",
+   "debut_ms": 3841,
+   "duree_ms": 448
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 4289,
+   "duree_ms": 190
+  },
+  {
+   "texte": "ce",
+   "debut_ms": 4479,
+   "duree_ms": 95
+  },
+  {
+   "texte": "qu'elle",
+   "debut_ms": 4574,
+   "duree_ms": 163
+  },
+  {
+   "texte": "sait",
+   "debut_ms": 4738,
+   "duree_ms": 122
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 4860,
+   "duree_ms": 190
+  },
+  {
+   "texte": "faire",
+   "debut_ms": 5050,
+   "duree_ms": 503
+  },
+  {
+   "texte": "La",
+   "debut_ms": 5922,
+   "duree_ms": 177
+  },
+  {
+   "texte": "pondeuse",
+   "debut_ms": 6098,
+   "duree_ms": 448
+  },
+  {
+   "texte": "sait",
+   "debut_ms": 6547,
+   "duree_ms": 136
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 6683,
+   "duree_ms": 204
+  },
+  {
+   "texte": "pondre",
+   "debut_ms": 6886,
+   "duree_ms": 516
+  },
+  {
+   "texte": "Le",
+   "debut_ms": 7812,
+   "duree_ms": 136
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 7948,
+   "duree_ms": 245
+  },
+  {
+   "texte": "de",
+   "debut_ms": 8193,
+   "duree_ms": 122
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 8315,
+   "duree_ms": 435
+  },
+  {
+   "texte": "lui",
+   "debut_ms": 9158,
+   "duree_ms": 272
+  },
+  {
+   "texte": "sait",
+   "debut_ms": 9796,
+   "duree_ms": 136
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 9932,
+   "duree_ms": 204
+  },
+  {
+   "texte": "grandir",
+   "debut_ms": 10136,
+   "duree_ms": 584
+  },
+  {
+   "texte": "et",
+   "debut_ms": 10938,
+   "duree_ms": 41
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 10978,
+   "duree_ms": 516
+  }
+ ]
+}

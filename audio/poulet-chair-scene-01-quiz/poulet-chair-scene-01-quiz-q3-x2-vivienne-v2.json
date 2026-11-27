@@ -1,0 +1,167 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q3-x2",
+ "voix": "vivienne",
+ "version": 2,
+ "texte_affiche": "Prends un calendrier. Si tes poussins arrivent au début du mois de janvier, tu pourras les vendre vers la mi-février. Pas en juin, pas l'année suivante : seulement six semaines plus tard.",
+ "texte_prononce": "Prends un calendrier. Si tes poussins arrivent au début du mois de janvier, tu pourras les vendre vers la mi-février. Pas en juin, pas l'année suivante : seulement six semaines plus tard.",
+ "substitutions": [],
+ "duree_ms": 10128,
+ "reperes": [
+  {
+   "texte": "Prends",
+   "debut_ms": 54,
+   "duree_ms": 231
+  },
+  {
+   "texte": "un",
+   "debut_ms": 285,
+   "duree_ms": 41
+  },
+  {
+   "texte": "calendrier",
+   "debut_ms": 326,
+   "duree_ms": 788
+  },
+  {
+   "texte": "Si",
+   "debut_ms": 1492,
+   "duree_ms": 217
+  },
+  {
+   "texte": "tes",
+   "debut_ms": 1710,
+   "duree_ms": 109
+  },
+  {
+   "texte": "poussins",
+   "debut_ms": 1818,
+   "duree_ms": 380
+  },
+  {
+   "texte": "arrivent",
+   "debut_ms": 2199,
+   "duree_ms": 299
+  },
+  {
+   "texte": "au",
+   "debut_ms": 2498,
+   "duree_ms": 41
+  },
+  {
+   "texte": "début",
+   "debut_ms": 2539,
+   "duree_ms": 285
+  },
+  {
+   "texte": "du",
+   "debut_ms": 2824,
+   "duree_ms": 95
+  },
+  {
+   "texte": "mois",
+   "debut_ms": 2919,
+   "duree_ms": 109
+  },
+  {
+   "texte": "de",
+   "debut_ms": 3028,
+   "duree_ms": 95
+  },
+  {
+   "texte": "janvier",
+   "debut_ms": 3123,
+   "duree_ms": 516
+  },
+  {
+   "texte": "tu",
+   "debut_ms": 3938,
+   "duree_ms": 122
+  },
+  {
+   "texte": "pourras",
+   "debut_ms": 4060,
+   "duree_ms": 245
+  },
+  {
+   "texte": "les",
+   "debut_ms": 4305,
+   "duree_ms": 95
+  },
+  {
+   "texte": "vendre",
+   "debut_ms": 4400,
+   "duree_ms": 353
+  },
+  {
+   "texte": "vers",
+   "debut_ms": 4753,
+   "duree_ms": 136
+  },
+  {
+   "texte": "la",
+   "debut_ms": 4889,
+   "duree_ms": 68
+  },
+  {
+   "texte": "mi-février",
+   "debut_ms": 4957,
+   "duree_ms": 761
+  },
+  {
+   "texte": "Pas",
+   "debut_ms": 6084,
+   "duree_ms": 149
+  },
+  {
+   "texte": "en",
+   "debut_ms": 6233,
+   "duree_ms": 136
+  },
+  {
+   "texte": "juin",
+   "debut_ms": 6369,
+   "duree_ms": 394
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 7021,
+   "duree_ms": 95
+  },
+  {
+   "texte": "l'année",
+   "debut_ms": 7116,
+   "duree_ms": 245
+  },
+  {
+   "texte": "suivante",
+   "debut_ms": 7361,
+   "duree_ms": 611
+  },
+  {
+   "texte": "seulement",
+   "debut_ms": 8298,
+   "duree_ms": 394
+  },
+  {
+   "texte": "six",
+   "debut_ms": 8692,
+   "duree_ms": 177
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 8869,
+   "duree_ms": 258
+  },
+  {
+   "texte": "plus",
+   "debut_ms": 9127,
+   "duree_ms": 136
+  },
+  {
+   "texte": "tard",
+   "debut_ms": 9263,
+   "duree_ms": 462
+  }
+ ]
+}
