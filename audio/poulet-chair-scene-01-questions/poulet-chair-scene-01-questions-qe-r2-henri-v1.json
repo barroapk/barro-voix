@@ -1,0 +1,202 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "qe-r2",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Pense au calendrier de l'année. Une bande, puis un nettoyage, puis une autre bande, et ainsi de suite. En tout, un éleveur bien organisé fait souvent entre cinq et sept bandes par an. Six, c'est un bon repère.",
+ "texte_prononce": "Pense au calendrier de l'année. Une bande, puis un nettoyage, puis une autre bande, et ainsi de suite. En tout, un éleveur bien organisé fait souvent entre cinq et sept bandes par an. Six, c'est un bon repère.",
+ "substitutions": [],
+ "duree_ms": 15912,
+ "reperes": [
+  {
+   "texte": "Pense",
+   "debut_ms": 104,
+   "duree_ms": 312
+  },
+  {
+   "texte": "au",
+   "debut_ms": 430,
+   "duree_ms": 68
+  },
+  {
+   "texte": "calendrier",
+   "debut_ms": 512,
+   "duree_ms": 571
+  },
+  {
+   "texte": "de",
+   "debut_ms": 1096,
+   "duree_ms": 109
+  },
+  {
+   "texte": "l'année",
+   "debut_ms": 1218,
+   "duree_ms": 380
+  },
+  {
+   "texte": "Une",
+   "debut_ms": 2554,
+   "duree_ms": 231
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 2799,
+   "duree_ms": 380
+  },
+  {
+   "texte": "puis",
+   "debut_ms": 3465,
+   "duree_ms": 190
+  },
+  {
+   "texte": "un",
+   "debut_ms": 3668,
+   "duree_ms": 54
+  },
+  {
+   "texte": "nettoyage",
+   "debut_ms": 3736,
+   "duree_ms": 747
+  },
+  {
+   "texte": "puis",
+   "debut_ms": 4755,
+   "duree_ms": 163
+  },
+  {
+   "texte": "une",
+   "debut_ms": 4932,
+   "duree_ms": 177
+  },
+  {
+   "texte": "autre",
+   "debut_ms": 5122,
+   "duree_ms": 231
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 5367,
+   "duree_ms": 340
+  },
+  {
+   "texte": "et",
+   "debut_ms": 6019,
+   "duree_ms": 68
+  },
+  {
+   "texte": "ainsi",
+   "debut_ms": 6101,
+   "duree_ms": 272
+  },
+  {
+   "texte": "de",
+   "debut_ms": 6386,
+   "duree_ms": 136
+  },
+  {
+   "texte": "suite",
+   "debut_ms": 6535,
+   "duree_ms": 476
+  },
+  {
+   "texte": "En",
+   "debut_ms": 7962,
+   "duree_ms": 190
+  },
+  {
+   "texte": "tout",
+   "debut_ms": 8166,
+   "duree_ms": 285
+  },
+  {
+   "texte": "un",
+   "debut_ms": 8818,
+   "duree_ms": 68
+  },
+  {
+   "texte": "éleveur",
+   "debut_ms": 8899,
+   "duree_ms": 367
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 9280,
+   "duree_ms": 204
+  },
+  {
+   "texte": "organisé",
+   "debut_ms": 9497,
+   "duree_ms": 625
+  },
+  {
+   "texte": "fait",
+   "debut_ms": 10136,
+   "duree_ms": 163
+  },
+  {
+   "texte": "souvent",
+   "debut_ms": 10312,
+   "duree_ms": 299
+  },
+  {
+   "texte": "entre",
+   "debut_ms": 10625,
+   "duree_ms": 245
+  },
+  {
+   "texte": "cinq",
+   "debut_ms": 10883,
+   "duree_ms": 245
+  },
+  {
+   "texte": "et",
+   "debut_ms": 11141,
+   "duree_ms": 68
+  },
+  {
+   "texte": "sept",
+   "debut_ms": 11223,
+   "duree_ms": 217
+  },
+  {
+   "texte": "bandes",
+   "debut_ms": 11454,
+   "duree_ms": 231
+  },
+  {
+   "texte": "par",
+   "debut_ms": 11698,
+   "duree_ms": 177
+  },
+  {
+   "texte": "an",
+   "debut_ms": 11889,
+   "duree_ms": 177
+  },
+  {
+   "texte": "Six",
+   "debut_ms": 13016,
+   "duree_ms": 516
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 13804,
+   "duree_ms": 163
+  },
+  {
+   "texte": "un",
+   "debut_ms": 13981,
+   "duree_ms": 163
+  },
+  {
+   "texte": "bon",
+   "debut_ms": 14158,
+   "duree_ms": 163
+  },
+  {
+   "texte": "repère",
+   "debut_ms": 14334,
+   "duree_ms": 611
+  }
+ ]
+}

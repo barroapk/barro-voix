@@ -1,0 +1,52 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "o2",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Parfait, on continue là où on s'était arrêtés.",
+ "texte_prononce": "Parfait, on continue là où on s'était arrêtés.",
+ "substitutions": [],
+ "duree_ms": 3384,
+ "reperes": [
+  {
+   "texte": "Parfait",
+   "debut_ms": 100,
+   "duree_ms": 462
+  },
+  {
+   "texte": "on",
+   "debut_ms": 900,
+   "duree_ms": 62
+  },
+  {
+   "texte": "continue",
+   "debut_ms": 975,
+   "duree_ms": 412
+  },
+  {
+   "texte": "là",
+   "debut_ms": 1400,
+   "duree_ms": 112
+  },
+  {
+   "texte": "où",
+   "debut_ms": 1525,
+   "duree_ms": 50
+  },
+  {
+   "texte": "on",
+   "debut_ms": 1588,
+   "duree_ms": 88
+  },
+  {
+   "texte": "s'était",
+   "debut_ms": 1688,
+   "duree_ms": 250
+  },
+  {
+   "texte": "arrêtés",
+   "debut_ms": 1950,
+   "duree_ms": 562
+  }
+ ]
+}

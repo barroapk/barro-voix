@@ -1,0 +1,37 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "o1",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Très bien. Reprenons le cours.",
+ "texte_prononce": "Très bien. Reprenons le cours.",
+ "substitutions": [],
+ "duree_ms": 3528,
+ "reperes": [
+  {
+   "texte": "Très",
+   "debut_ms": 100,
+   "duree_ms": 225
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 338,
+   "duree_ms": 288
+  },
+  {
+   "texte": "Reprenons",
+   "debut_ms": 1488,
+   "duree_ms": 525
+  },
+  {
+   "texte": "le",
+   "debut_ms": 2025,
+   "duree_ms": 112
+  },
+  {
+   "texte": "cours",
+   "debut_ms": 2150,
+   "duree_ms": 500
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "b1",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Bonne question !",
+ "texte_prononce": "Bonne question !",
+ "substitutions": [],
+ "duree_ms": 1872,
+ "reperes": [
+  {
+   "texte": "Bonne",
+   "debut_ms": 100,
+   "duree_ms": 300
+  },
+  {
+   "texte": "question",
+   "debut_ms": 412,
+   "duree_ms": 525
+  }
+ ]
+}

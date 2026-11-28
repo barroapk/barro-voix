@@ -1,0 +1,237 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "qe-r1",
+ "voix": "henri",
+ "version": 1,
+ "texte_affiche": "Fais le calcul avec moi. Une bande dure environ six semaines. Ajoute environ deux semaines pour nettoyer et préparer le bâtiment. Cela fait à peu près huit semaines par bande. Dans une année, il y a cinquante-deux semaines : on peut donc faire environ six bandes.",
+ "texte_prononce": "Fais le calcul avec moi. Une bande dure environ six semaines. Ajoute environ deux semaines pour nettoyer et préparer le bâtiment. Cela fait à peu près huit semaines par bande. Dans une année, il y a cinquante-deux semaines : on peut donc faire environ six bandes.",
+ "substitutions": [],
+ "duree_ms": 18144,
+ "reperes": [
+  {
+   "texte": "Fais",
+   "debut_ms": 104,
+   "duree_ms": 231
+  },
+  {
+   "texte": "le",
+   "debut_ms": 349,
+   "duree_ms": 95
+  },
+  {
+   "texte": "calcul",
+   "debut_ms": 458,
+   "duree_ms": 435
+  },
+  {
+   "texte": "avec",
+   "debut_ms": 906,
+   "duree_ms": 245
+  },
+  {
+   "texte": "moi",
+   "debut_ms": 1164,
+   "duree_ms": 380
+  },
+  {
+   "texte": "Une",
+   "debut_ms": 2486,
+   "duree_ms": 231
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 2731,
+   "duree_ms": 231
+  },
+  {
+   "texte": "dure",
+   "debut_ms": 2976,
+   "duree_ms": 190
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 3179,
+   "duree_ms": 353
+  },
+  {
+   "texte": "six",
+   "debut_ms": 3546,
+   "duree_ms": 204
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 3764,
+   "duree_ms": 543
+  },
+  {
+   "texte": "Ajoute",
+   "debut_ms": 5245,
+   "duree_ms": 448
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 5707,
+   "duree_ms": 353
+  },
+  {
+   "texte": "deux",
+   "debut_ms": 6073,
+   "duree_ms": 163
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 6250,
+   "duree_ms": 380
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 6644,
+   "duree_ms": 190
+  },
+  {
+   "texte": "nettoyer",
+   "debut_ms": 6848,
+   "duree_ms": 489
+  },
+  {
+   "texte": "et",
+   "debut_ms": 7351,
+   "duree_ms": 68
+  },
+  {
+   "texte": "préparer",
+   "debut_ms": 7432,
+   "duree_ms": 476
+  },
+  {
+   "texte": "le",
+   "debut_ms": 7921,
+   "duree_ms": 109
+  },
+  {
+   "texte": "bâtiment",
+   "debut_ms": 8043,
+   "duree_ms": 543
+  },
+  {
+   "texte": "Cela",
+   "debut_ms": 9524,
+   "duree_ms": 367
+  },
+  {
+   "texte": "fait",
+   "debut_ms": 9905,
+   "duree_ms": 190
+  },
+  {
+   "texte": "à",
+   "debut_ms": 10109,
+   "duree_ms": 109
+  },
+  {
+   "texte": "peu",
+   "debut_ms": 10231,
+   "duree_ms": 163
+  },
+  {
+   "texte": "près",
+   "debut_ms": 10408,
+   "duree_ms": 190
+  },
+  {
+   "texte": "huit",
+   "debut_ms": 10611,
+   "duree_ms": 163
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 10788,
+   "duree_ms": 340
+  },
+  {
+   "texte": "par",
+   "debut_ms": 11141,
+   "duree_ms": 204
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 11359,
+   "duree_ms": 462
+  },
+  {
+   "texte": "Dans",
+   "debut_ms": 12772,
+   "duree_ms": 245
+  },
+  {
+   "texte": "une",
+   "debut_ms": 13030,
+   "duree_ms": 190
+  },
+  {
+   "texte": "année",
+   "debut_ms": 13234,
+   "duree_ms": 326
+  },
+  {
+   "texte": "il",
+   "debut_ms": 13913,
+   "duree_ms": 95
+  },
+  {
+   "texte": "y",
+   "debut_ms": 14022,
+   "duree_ms": 68
+  },
+  {
+   "texte": "a",
+   "debut_ms": 14103,
+   "duree_ms": 54
+  },
+  {
+   "texte": "cinquante-deux",
+   "debut_ms": 14171,
+   "duree_ms": 571
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 14755,
+   "duree_ms": 448
+  },
+  {
+   "texte": "on",
+   "debut_ms": 15435,
+   "duree_ms": 82
+  },
+  {
+   "texte": "peut",
+   "debut_ms": 15530,
+   "duree_ms": 163
+  },
+  {
+   "texte": "donc",
+   "debut_ms": 15707,
+   "duree_ms": 245
+  },
+  {
+   "texte": "faire",
+   "debut_ms": 15965,
+   "duree_ms": 204
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 16182,
+   "duree_ms": 340
+  },
+  {
+   "texte": "six",
+   "debut_ms": 16535,
+   "duree_ms": 190
+  },
+  {
+   "texte": "bandes",
+   "debut_ms": 16739,
+   "duree_ms": 448
+  }
+ ]
+}
