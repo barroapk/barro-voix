@@ -1,0 +1,77 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q3-e2",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Au bout de combien de temps un poulet de chair est-il souvent vendu ?",
+ "texte_prononce": "Au bout de combien de temps un poulet de chair est-il souvent vendu ?",
+ "substitutions": [],
+ "duree_ms": 3508,
+ "reperes": [
+  {
+   "texte": "Au",
+   "debut_ms": 0,
+   "duree_ms": 128
+  },
+  {
+   "texte": "bout",
+   "debut_ms": 163,
+   "duree_ms": 127
+  },
+  {
+   "texte": "de",
+   "debut_ms": 313,
+   "duree_ms": 70
+  },
+  {
+   "texte": "combien",
+   "debut_ms": 430,
+   "duree_ms": 301
+  },
+  {
+   "texte": "de",
+   "debut_ms": 766,
+   "duree_ms": 70
+  },
+  {
+   "texte": "temps",
+   "debut_ms": 906,
+   "duree_ms": 220
+  },
+  {
+   "texte": "un",
+   "debut_ms": 1173,
+   "duree_ms": 58
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 1289,
+   "duree_ms": 244
+  },
+  {
+   "texte": "de",
+   "debut_ms": 1567,
+   "duree_ms": 82
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 1707,
+   "duree_ms": 197
+  },
+  {
+   "texte": "est-il",
+   "debut_ms": 1962,
+   "duree_ms": 209
+  },
+  {
+   "texte": "souvent",
+   "debut_ms": 2229,
+   "duree_ms": 279
+  },
+  {
+   "texte": "vendu",
+   "debut_ms": 2543,
+   "duree_ms": 325
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "fin_moyen-1",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "C'est bien ! Regardons ensemble les petites erreurs.",
+ "texte_prononce": "C'est bien ! Regardons ensemble les petites erreurs.",
+ "substitutions": [],
+ "duree_ms": 3090,
+ "reperes": [
+  {
+   "texte": "C'est",
+   "debut_ms": 0,
+   "duree_ms": 221
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 244,
+   "duree_ms": 220
+  },
+  {
+   "texte": "Regardons",
+   "debut_ms": 708,
+   "duree_ms": 441
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 1207,
+   "duree_ms": 326
+  },
+  {
+   "texte": "les",
+   "debut_ms": 1579,
+   "duree_ms": 93
+  },
+  {
+   "texte": "petites",
+   "debut_ms": 1695,
+   "duree_ms": 325
+  },
+  {
+   "texte": "erreurs",
+   "debut_ms": 2090,
+   "duree_ms": 650
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "b3",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Je t'explique tout de suite.",
+ "texte_prononce": "Je t'explique tout de suite.",
+ "substitutions": [],
+ "duree_ms": 1604,
+ "reperes": [
+  {
+   "texte": "Je",
+   "debut_ms": 0,
+   "duree_ms": 174
+  },
+  {
+   "texte": "t'explique",
+   "debut_ms": 221,
+   "duree_ms": 325
+  },
+  {
+   "texte": "tout",
+   "debut_ms": 569,
+   "duree_ms": 93
+  },
+  {
+   "texte": "de",
+   "debut_ms": 685,
+   "duree_ms": 70
+  },
+  {
+   "texte": "suite",
+   "debut_ms": 789,
+   "duree_ms": 465
+  }
+ ]
+}

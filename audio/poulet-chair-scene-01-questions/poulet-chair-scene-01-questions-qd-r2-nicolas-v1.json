@@ -1,0 +1,122 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "qd-r2",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Environ veut dire à peu près. Six semaines, c'est le repère moyen. Certains éleveurs vendent un peu avant, d'autres un peu après.",
+ "texte_prononce": "Environ veut dire à peu près. Six semaines, c'est le repère moyen. Certains éleveurs vendent un peu avant, d'autres un peu après.",
+ "substitutions": [],
+ "duree_ms": 7455,
+ "reperes": [
+  {
+   "texte": "Environ",
+   "debut_ms": 0,
+   "duree_ms": 441
+  },
+  {
+   "texte": "veut",
+   "debut_ms": 499,
+   "duree_ms": 116
+  },
+  {
+   "texte": "dire",
+   "debut_ms": 639,
+   "duree_ms": 255
+  },
+  {
+   "texte": "à",
+   "debut_ms": 998,
+   "duree_ms": 82
+  },
+  {
+   "texte": "peu",
+   "debut_ms": 1184,
+   "duree_ms": 105
+  },
+  {
+   "texte": "près",
+   "debut_ms": 1324,
+   "duree_ms": 383
+  },
+  {
+   "texte": "Six",
+   "debut_ms": 1846,
+   "duree_ms": 244
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 2113,
+   "duree_ms": 406
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 2659,
+   "duree_ms": 151
+  },
+  {
+   "texte": "le",
+   "debut_ms": 2833,
+   "duree_ms": 58
+  },
+  {
+   "texte": "repère",
+   "debut_ms": 2937,
+   "duree_ms": 349
+  },
+  {
+   "texte": "moyen",
+   "debut_ms": 3320,
+   "duree_ms": 430
+  },
+  {
+   "texte": "Certains",
+   "debut_ms": 3936,
+   "duree_ms": 336
+  },
+  {
+   "texte": "éleveurs",
+   "debut_ms": 4331,
+   "duree_ms": 336
+  },
+  {
+   "texte": "vendent",
+   "debut_ms": 4690,
+   "duree_ms": 279
+  },
+  {
+   "texte": "un",
+   "debut_ms": 5027,
+   "duree_ms": 47
+  },
+  {
+   "texte": "peu",
+   "debut_ms": 5108,
+   "duree_ms": 151
+  },
+  {
+   "texte": "avant",
+   "debut_ms": 5306,
+   "duree_ms": 360
+  },
+  {
+   "texte": "d'autres",
+   "debut_ms": 5770,
+   "duree_ms": 360
+  },
+  {
+   "texte": "un",
+   "debut_ms": 6188,
+   "duree_ms": 93
+  },
+  {
+   "texte": "peu",
+   "debut_ms": 6327,
+   "duree_ms": 140
+  },
+  {
+   "texte": "après",
+   "debut_ms": 6513,
+   "duree_ms": 592
+  }
+ ]
+}

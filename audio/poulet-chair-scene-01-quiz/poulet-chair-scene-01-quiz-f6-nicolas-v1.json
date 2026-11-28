@@ -1,0 +1,27 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "f6",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Oui, bien joué !",
+ "texte_prononce": "Oui, bien joué !",
+ "substitutions": [],
+ "duree_ms": 1465,
+ "reperes": [
+  {
+   "texte": "Oui",
+   "debut_ms": 0,
+   "duree_ms": 290
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 325,
+   "duree_ms": 209
+  },
+  {
+   "texte": "joué",
+   "debut_ms": 580,
+   "duree_ms": 221
+  }
+ ]
+}

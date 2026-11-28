@@ -1,0 +1,152 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "qd-r1",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Parce que la durée change d'un élevage à l'autre. La chaleur, l'alimentation, ou le poids que veut le client peuvent avancer ou retarder la vente d'environ une semaine.",
+ "texte_prononce": "Parce que la durée change d'un élevage à l'autre. La chaleur, l'alimentation, ou le poids que veut le client peuvent avancer ou retarder la vente d'environ une semaine.",
+ "substitutions": [],
+ "duree_ms": 9499,
+ "reperes": [
+  {
+   "texte": "Parce",
+   "debut_ms": 0,
+   "duree_ms": 267
+  },
+  {
+   "texte": "que",
+   "debut_ms": 290,
+   "duree_ms": 93
+  },
+  {
+   "texte": "la",
+   "debut_ms": 418,
+   "duree_ms": 81
+  },
+  {
+   "texte": "durée",
+   "debut_ms": 546,
+   "duree_ms": 313
+  },
+  {
+   "texte": "change",
+   "debut_ms": 882,
+   "duree_ms": 360
+  },
+  {
+   "texte": "d'un",
+   "debut_ms": 1265,
+   "duree_ms": 128
+  },
+  {
+   "texte": "élevage",
+   "debut_ms": 1451,
+   "duree_ms": 325
+  },
+  {
+   "texte": "à",
+   "debut_ms": 1800,
+   "duree_ms": 23
+  },
+  {
+   "texte": "l'autre",
+   "debut_ms": 1858,
+   "duree_ms": 394
+  },
+  {
+   "texte": "La",
+   "debut_ms": 2392,
+   "duree_ms": 139
+  },
+  {
+   "texte": "chaleur",
+   "debut_ms": 2566,
+   "duree_ms": 476
+  },
+  {
+   "texte": "l'alimentation",
+   "debut_ms": 3065,
+   "duree_ms": 987
+  },
+  {
+   "texte": "ou",
+   "debut_ms": 4087,
+   "duree_ms": 151
+  },
+  {
+   "texte": "le",
+   "debut_ms": 4284,
+   "duree_ms": 70
+  },
+  {
+   "texte": "poids",
+   "debut_ms": 4447,
+   "duree_ms": 348
+  },
+  {
+   "texte": "que",
+   "debut_ms": 4830,
+   "duree_ms": 116
+  },
+  {
+   "texte": "veut",
+   "debut_ms": 4992,
+   "duree_ms": 140
+  },
+  {
+   "texte": "le",
+   "debut_ms": 5155,
+   "duree_ms": 69
+  },
+  {
+   "texte": "client",
+   "debut_ms": 5271,
+   "duree_ms": 569
+  },
+  {
+   "texte": "peuvent",
+   "debut_ms": 6002,
+   "duree_ms": 279
+  },
+  {
+   "texte": "avancer",
+   "debut_ms": 6362,
+   "duree_ms": 558
+  },
+  {
+   "texte": "ou",
+   "debut_ms": 7001,
+   "duree_ms": 46
+  },
+  {
+   "texte": "retarder",
+   "debut_ms": 7105,
+   "duree_ms": 430
+  },
+  {
+   "texte": "la",
+   "debut_ms": 7558,
+   "duree_ms": 58
+  },
+  {
+   "texte": "vente",
+   "debut_ms": 7697,
+   "duree_ms": 209
+  },
+  {
+   "texte": "d'environ",
+   "debut_ms": 7930,
+   "duree_ms": 371
+  },
+  {
+   "texte": "une",
+   "debut_ms": 8348,
+   "duree_ms": 104
+  },
+  {
+   "texte": "semaine",
+   "debut_ms": 8475,
+   "duree_ms": 674
+  }
+ ]
+}

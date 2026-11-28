@@ -1,0 +1,217 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "qa-r1",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Une souche, c'est une famille de poulets qu'on a sélectionnés, génération après génération, pour une qualité précise. Pour le poulet de chair, cette qualité, c'est de grandir vite. C'est comme une variété de mangue, choisie parce qu'elle donne de gros fruits.",
+ "texte_prononce": "Une souche, c'est une famille de poulets qu'on a sélectionnés, génération après génération, pour une qualité précise. Pour le poulet de chair, cette qualité, c'est de grandir vite. C'est comme une variété de mangue, choisie parce qu'elle donne de gros fruits.",
+ "substitutions": [],
+ "duree_ms": 13910,
+ "reperes": [
+  {
+   "texte": "Une",
+   "debut_ms": 0,
+   "duree_ms": 174
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 209,
+   "duree_ms": 418
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 662,
+   "duree_ms": 209
+  },
+  {
+   "texte": "une",
+   "debut_ms": 975,
+   "duree_ms": 93
+  },
+  {
+   "texte": "famille",
+   "debut_ms": 1103,
+   "duree_ms": 325
+  },
+  {
+   "texte": "de",
+   "debut_ms": 1451,
+   "duree_ms": 82
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 1579,
+   "duree_ms": 360
+  },
+  {
+   "texte": "qu'on",
+   "debut_ms": 1962,
+   "duree_ms": 116
+  },
+  {
+   "texte": "a",
+   "debut_ms": 2171,
+   "duree_ms": 23
+  },
+  {
+   "texte": "sélectionnés",
+   "debut_ms": 2252,
+   "duree_ms": 709
+  },
+  {
+   "texte": "génération",
+   "debut_ms": 3053,
+   "duree_ms": 604
+  },
+  {
+   "texte": "après",
+   "debut_ms": 3704,
+   "duree_ms": 232
+  },
+  {
+   "texte": "génération",
+   "debut_ms": 3959,
+   "duree_ms": 697
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 4841,
+   "duree_ms": 151
+  },
+  {
+   "texte": "une",
+   "debut_ms": 5074,
+   "duree_ms": 92
+  },
+  {
+   "texte": "qualité",
+   "debut_ms": 5190,
+   "duree_ms": 371
+  },
+  {
+   "texte": "précise",
+   "debut_ms": 5608,
+   "duree_ms": 719
+  },
+  {
+   "texte": "Pour",
+   "debut_ms": 6490,
+   "duree_ms": 139
+  },
+  {
+   "texte": "le",
+   "debut_ms": 6664,
+   "duree_ms": 70
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 6780,
+   "duree_ms": 256
+  },
+  {
+   "texte": "de",
+   "debut_ms": 7070,
+   "duree_ms": 82
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 7198,
+   "duree_ms": 476
+  },
+  {
+   "texte": "cette",
+   "debut_ms": 7755,
+   "duree_ms": 221
+  },
+  {
+   "texte": "qualité",
+   "debut_ms": 7999,
+   "duree_ms": 569
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 8615,
+   "duree_ms": 151
+  },
+  {
+   "texte": "de",
+   "debut_ms": 8789,
+   "duree_ms": 69
+  },
+  {
+   "texte": "grandir",
+   "debut_ms": 8905,
+   "duree_ms": 383
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 9392,
+   "duree_ms": 465
+  },
+  {
+   "texte": "C'est",
+   "debut_ms": 10043,
+   "duree_ms": 197
+  },
+  {
+   "texte": "comme",
+   "debut_ms": 10263,
+   "duree_ms": 279
+  },
+  {
+   "texte": "une",
+   "debut_ms": 10600,
+   "duree_ms": 174
+  },
+  {
+   "texte": "variété",
+   "debut_ms": 10797,
+   "duree_ms": 418
+  },
+  {
+   "texte": "de",
+   "debut_ms": 11250,
+   "duree_ms": 81
+  },
+  {
+   "texte": "mangue",
+   "debut_ms": 11413,
+   "duree_ms": 290
+  },
+  {
+   "texte": "choisie",
+   "debut_ms": 11749,
+   "duree_ms": 349
+  },
+  {
+   "texte": "parce",
+   "debut_ms": 12121,
+   "duree_ms": 162
+  },
+  {
+   "texte": "qu'elle",
+   "debut_ms": 12307,
+   "duree_ms": 174
+  },
+  {
+   "texte": "donne",
+   "debut_ms": 12516,
+   "duree_ms": 220
+  },
+  {
+   "texte": "de",
+   "debut_ms": 12771,
+   "duree_ms": 81
+  },
+  {
+   "texte": "gros",
+   "debut_ms": 12899,
+   "duree_ms": 151
+  },
+  {
+   "texte": "fruits",
+   "debut_ms": 13084,
+   "duree_ms": 476
+  }
+ ]
+}

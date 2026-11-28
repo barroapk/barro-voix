@@ -1,0 +1,32 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "f3",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "C'est excellent, bonne réponse !",
+ "texte_prononce": "C'est excellent, bonne réponse !",
+ "substitutions": [],
+ "duree_ms": 2068,
+ "reperes": [
+  {
+   "texte": "C'est",
+   "debut_ms": 0,
+   "duree_ms": 232
+  },
+  {
+   "texte": "excellent",
+   "debut_ms": 290,
+   "duree_ms": 407
+  },
+  {
+   "texte": "bonne",
+   "debut_ms": 720,
+   "duree_ms": 186
+  },
+  {
+   "texte": "réponse",
+   "debut_ms": 940,
+   "duree_ms": 442
+  }
+ ]
+}

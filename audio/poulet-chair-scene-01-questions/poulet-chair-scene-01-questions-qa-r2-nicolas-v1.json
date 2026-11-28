@@ -1,0 +1,212 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "qa-r2",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Imagine que tu veux des mangues bien sucrées. Tu ne plantes pas n'importe quel manguier : tu choisis une variété connue pour ça. Les éleveurs font pareil avec les poulets : la souche de chair, c'est la variété choisie pour grandir vite.",
+ "texte_prononce": "Imagine que tu veux des mangues bien sucrées. Tu ne plantes pas n'importe quel manguier : tu choisis une variété connue pour ça. Les éleveurs font pareil avec les poulets : la souche de chair, c'est la variété choisie pour grandir vite.",
+ "substitutions": [],
+ "duree_ms": 13539,
+ "reperes": [
+  {
+   "texte": "Imagine",
+   "debut_ms": 0,
+   "duree_ms": 546
+  },
+  {
+   "texte": "que",
+   "debut_ms": 569,
+   "duree_ms": 104
+  },
+  {
+   "texte": "tu",
+   "debut_ms": 720,
+   "duree_ms": 93
+  },
+  {
+   "texte": "veux",
+   "debut_ms": 871,
+   "duree_ms": 116
+  },
+  {
+   "texte": "des",
+   "debut_ms": 1033,
+   "duree_ms": 93
+  },
+  {
+   "texte": "mangues",
+   "debut_ms": 1161,
+   "duree_ms": 337
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 1556,
+   "duree_ms": 197
+  },
+  {
+   "texte": "sucrées",
+   "debut_ms": 1788,
+   "duree_ms": 476
+  },
+  {
+   "texte": "Tu",
+   "debut_ms": 2403,
+   "duree_ms": 140
+  },
+  {
+   "texte": "ne",
+   "debut_ms": 2577,
+   "duree_ms": 47
+  },
+  {
+   "texte": "plantes",
+   "debut_ms": 2647,
+   "duree_ms": 244
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 2914,
+   "duree_ms": 209
+  },
+  {
+   "texte": "n'importe",
+   "debut_ms": 3216,
+   "duree_ms": 383
+  },
+  {
+   "texte": "quel",
+   "debut_ms": 3622,
+   "duree_ms": 151
+  },
+  {
+   "texte": "manguier",
+   "debut_ms": 3855,
+   "duree_ms": 383
+  },
+  {
+   "texte": "tu",
+   "debut_ms": 4563,
+   "duree_ms": 151
+  },
+  {
+   "texte": "choisis",
+   "debut_ms": 4748,
+   "duree_ms": 337
+  },
+  {
+   "texte": "une",
+   "debut_ms": 5143,
+   "duree_ms": 93
+  },
+  {
+   "texte": "variété",
+   "debut_ms": 5259,
+   "duree_ms": 407
+  },
+  {
+   "texte": "connue",
+   "debut_ms": 5724,
+   "duree_ms": 267
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 6014,
+   "duree_ms": 128
+  },
+  {
+   "texte": "ça",
+   "debut_ms": 6200,
+   "duree_ms": 302
+  },
+  {
+   "texte": "Les",
+   "debut_ms": 6687,
+   "duree_ms": 174
+  },
+  {
+   "texte": "éleveurs",
+   "debut_ms": 6943,
+   "duree_ms": 325
+  },
+  {
+   "texte": "font",
+   "debut_ms": 7291,
+   "duree_ms": 151
+  },
+  {
+   "texte": "pareil",
+   "debut_ms": 7465,
+   "duree_ms": 325
+  },
+  {
+   "texte": "avec",
+   "debut_ms": 7825,
+   "duree_ms": 186
+  },
+  {
+   "texte": "les",
+   "debut_ms": 8057,
+   "duree_ms": 82
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 8162,
+   "duree_ms": 360
+  },
+  {
+   "texte": "la",
+   "debut_ms": 8731,
+   "duree_ms": 81
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 8870,
+   "duree_ms": 232
+  },
+  {
+   "texte": "de",
+   "debut_ms": 9137,
+   "duree_ms": 81
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 9265,
+   "duree_ms": 499
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 9926,
+   "duree_ms": 186
+  },
+  {
+   "texte": "la",
+   "debut_ms": 10135,
+   "duree_ms": 58
+  },
+  {
+   "texte": "variété",
+   "debut_ms": 10251,
+   "duree_ms": 384
+  },
+  {
+   "texte": "choisie",
+   "debut_ms": 10669,
+   "duree_ms": 534
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 11389,
+   "duree_ms": 209
+  },
+  {
+   "texte": "grandir",
+   "debut_ms": 11656,
+   "duree_ms": 616
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 12457,
+   "duree_ms": 732
+  }
+ ]
+}

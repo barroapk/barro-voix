@@ -1,0 +1,102 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q3-n1",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Six mois, c'est plutôt le temps d'un poulet local. Le poulet de chair, lui, va beaucoup plus vite.",
+ "texte_prononce": "Six mois, c'est plutôt le temps d'un poulet local. Le poulet de chair, lui, va beaucoup plus vite.",
+ "substitutions": [],
+ "duree_ms": 6016,
+ "reperes": [
+  {
+   "texte": "Six",
+   "debut_ms": 0,
+   "duree_ms": 244
+  },
+  {
+   "texte": "mois",
+   "debut_ms": 267,
+   "duree_ms": 360
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 731,
+   "duree_ms": 209
+  },
+  {
+   "texte": "plutôt",
+   "debut_ms": 964,
+   "duree_ms": 290
+  },
+  {
+   "texte": "le",
+   "debut_ms": 1277,
+   "duree_ms": 58
+  },
+  {
+   "texte": "temps",
+   "debut_ms": 1382,
+   "duree_ms": 174
+  },
+  {
+   "texte": "d'un",
+   "debut_ms": 1579,
+   "duree_ms": 104
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 1730,
+   "duree_ms": 255
+  },
+  {
+   "texte": "local",
+   "debut_ms": 2020,
+   "duree_ms": 627
+  },
+  {
+   "texte": "Le",
+   "debut_ms": 2949,
+   "duree_ms": 139
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 3135,
+   "duree_ms": 255
+  },
+  {
+   "texte": "de",
+   "debut_ms": 3413,
+   "duree_ms": 82
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 3541,
+   "duree_ms": 314
+  },
+  {
+   "texte": "lui",
+   "debut_ms": 3889,
+   "duree_ms": 383
+  },
+  {
+   "texte": "va",
+   "debut_ms": 4400,
+   "duree_ms": 116
+  },
+  {
+   "texte": "beaucoup",
+   "debut_ms": 4574,
+   "duree_ms": 279
+  },
+  {
+   "texte": "plus",
+   "debut_ms": 4876,
+   "duree_ms": 140
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 5039,
+   "duree_ms": 627
+  }
+ ]
+}

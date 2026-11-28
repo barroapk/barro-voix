@@ -1,0 +1,37 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "f8",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "C'est exact ! Tu progresses vite.",
+ "texte_prononce": "C'est exact ! Tu progresses vite.",
+ "substitutions": [],
+ "duree_ms": 2626,
+ "reperes": [
+  {
+   "texte": "C'est",
+   "debut_ms": 0,
+   "duree_ms": 232
+  },
+  {
+   "texte": "exact",
+   "debut_ms": 302,
+   "duree_ms": 406
+  },
+  {
+   "texte": "Tu",
+   "debut_ms": 1103,
+   "duree_ms": 139
+  },
+  {
+   "texte": "progresses",
+   "debut_ms": 1289,
+   "duree_ms": 371
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 1683,
+   "duree_ms": 593
+  }
+ ]
+}

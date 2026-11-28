@@ -1,0 +1,52 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "z1",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Le quiz est terminé. Bravo pour tes efforts !",
+ "texte_prononce": "Le quiz est terminé. Bravo pour tes efforts !",
+ "substitutions": [],
+ "duree_ms": 2579,
+ "reperes": [
+  {
+   "texte": "Le",
+   "debut_ms": 0,
+   "duree_ms": 186
+  },
+  {
+   "texte": "quiz",
+   "debut_ms": 221,
+   "duree_ms": 174
+  },
+  {
+   "texte": "est",
+   "debut_ms": 441,
+   "duree_ms": 70
+  },
+  {
+   "texte": "terminé",
+   "debut_ms": 534,
+   "duree_ms": 372
+  },
+  {
+   "texte": "Bravo",
+   "debut_ms": 952,
+   "duree_ms": 232
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 1219,
+   "duree_ms": 105
+  },
+  {
+   "texte": "tes",
+   "debut_ms": 1370,
+   "duree_ms": 104
+  },
+  {
+   "texte": "efforts",
+   "debut_ms": 1533,
+   "duree_ms": 383
+  }
+ ]
+}

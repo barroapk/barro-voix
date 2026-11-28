@@ -1,0 +1,127 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q4-n1",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Tu as fait le calcul : six fois sept, quarante-deux. Bien vu ! Mais le mot environ change tout : ce n'est pas un nombre exact.",
+ "texte_prononce": "Tu as fait le calcul : six fois sept, quarante-deux. Bien vu ! Mais le mot environ change tout : ce n'est pas un nombre exact.",
+ "substitutions": [],
+ "duree_ms": 8059,
+ "reperes": [
+  {
+   "texte": "Tu",
+   "debut_ms": 0,
+   "duree_ms": 163
+  },
+  {
+   "texte": "as",
+   "debut_ms": 209,
+   "duree_ms": 46
+  },
+  {
+   "texte": "fait",
+   "debut_ms": 290,
+   "duree_ms": 105
+  },
+  {
+   "texte": "le",
+   "debut_ms": 418,
+   "duree_ms": 70
+  },
+  {
+   "texte": "calcul",
+   "debut_ms": 522,
+   "duree_ms": 430
+  },
+  {
+   "texte": "six",
+   "debut_ms": 1428,
+   "duree_ms": 221
+  },
+  {
+   "texte": "fois",
+   "debut_ms": 1672,
+   "duree_ms": 162
+  },
+  {
+   "texte": "sept",
+   "debut_ms": 1858,
+   "duree_ms": 360
+  },
+  {
+   "texte": "quarante-deux",
+   "debut_ms": 2276,
+   "duree_ms": 685
+  },
+  {
+   "texte": "Bien",
+   "debut_ms": 3123,
+   "duree_ms": 290
+  },
+  {
+   "texte": "vu",
+   "debut_ms": 3460,
+   "duree_ms": 162
+  },
+  {
+   "texte": "Mais",
+   "debut_ms": 3994,
+   "duree_ms": 174
+  },
+  {
+   "texte": "le",
+   "debut_ms": 4203,
+   "duree_ms": 58
+  },
+  {
+   "texte": "mot",
+   "debut_ms": 4319,
+   "duree_ms": 174
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 4516,
+   "duree_ms": 372
+  },
+  {
+   "texte": "change",
+   "debut_ms": 4946,
+   "duree_ms": 232
+  },
+  {
+   "texte": "tout",
+   "debut_ms": 5213,
+   "duree_ms": 313
+  },
+  {
+   "texte": "ce",
+   "debut_ms": 5759,
+   "duree_ms": 58
+  },
+  {
+   "texte": "n'est",
+   "debut_ms": 5851,
+   "duree_ms": 117
+  },
+  {
+   "texte": "pas",
+   "debut_ms": 6002,
+   "duree_ms": 198
+  },
+  {
+   "texte": "un",
+   "debut_ms": 6235,
+   "duree_ms": 58
+  },
+  {
+   "texte": "nombre",
+   "debut_ms": 6316,
+   "duree_ms": 302
+  },
+  {
+   "texte": "exact",
+   "debut_ms": 6745,
+   "duree_ms": 964
+  }
+ ]
+}

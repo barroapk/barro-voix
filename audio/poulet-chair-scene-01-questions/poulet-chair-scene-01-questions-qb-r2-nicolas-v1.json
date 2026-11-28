@@ -1,0 +1,192 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "qb-r2",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Pense à une graine de qualité. Si tu la plantes dans une bonne terre, et que tu l'arroses bien, elle pousse vite. Le poulet de chair, c'est pareil : une bonne souche, bien nourrie, et bien logée.",
+ "texte_prononce": "Pense à une graine de qualité. Si tu la plantes dans une bonne terre, et que tu l'arroses bien, elle pousse vite. Le poulet de chair, c'est pareil : une bonne souche, bien nourrie, et bien logée.",
+ "substitutions": [],
+ "duree_ms": 10242,
+ "reperes": [
+  {
+   "texte": "Pense",
+   "debut_ms": 0,
+   "duree_ms": 302
+  },
+  {
+   "texte": "à",
+   "debut_ms": 325,
+   "duree_ms": 23
+  },
+  {
+   "texte": "une",
+   "debut_ms": 406,
+   "duree_ms": 82
+  },
+  {
+   "texte": "graine",
+   "debut_ms": 511,
+   "duree_ms": 197
+  },
+  {
+   "texte": "de",
+   "debut_ms": 731,
+   "duree_ms": 70
+  },
+  {
+   "texte": "qualité",
+   "debut_ms": 848,
+   "duree_ms": 650
+  },
+  {
+   "texte": "Si",
+   "debut_ms": 1683,
+   "duree_ms": 140
+  },
+  {
+   "texte": "tu",
+   "debut_ms": 1858,
+   "duree_ms": 81
+  },
+  {
+   "texte": "la",
+   "debut_ms": 1997,
+   "duree_ms": 70
+  },
+  {
+   "texte": "plantes",
+   "debut_ms": 2113,
+   "duree_ms": 244
+  },
+  {
+   "texte": "dans",
+   "debut_ms": 2380,
+   "duree_ms": 116
+  },
+  {
+   "texte": "une",
+   "debut_ms": 2589,
+   "duree_ms": 70
+  },
+  {
+   "texte": "bonne",
+   "debut_ms": 2694,
+   "duree_ms": 208
+  },
+  {
+   "texte": "terre",
+   "debut_ms": 2926,
+   "duree_ms": 325
+  },
+  {
+   "texte": "et",
+   "debut_ms": 3297,
+   "duree_ms": 93
+  },
+  {
+   "texte": "que",
+   "debut_ms": 3437,
+   "duree_ms": 92
+  },
+  {
+   "texte": "tu",
+   "debut_ms": 3564,
+   "duree_ms": 93
+  },
+  {
+   "texte": "l'arroses",
+   "debut_ms": 3704,
+   "duree_ms": 673
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 4458,
+   "duree_ms": 302
+  },
+  {
+   "texte": "elle",
+   "debut_ms": 4946,
+   "duree_ms": 162
+  },
+  {
+   "texte": "pousse",
+   "debut_ms": 5132,
+   "duree_ms": 197
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 5352,
+   "duree_ms": 383
+  },
+  {
+   "texte": "Le",
+   "debut_ms": 5898,
+   "duree_ms": 128
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 6072,
+   "duree_ms": 221
+  },
+  {
+   "texte": "de",
+   "debut_ms": 6327,
+   "duree_ms": 70
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 6455,
+   "duree_ms": 198
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 6676,
+   "duree_ms": 127
+  },
+  {
+   "texte": "pareil",
+   "debut_ms": 6827,
+   "duree_ms": 371
+  },
+  {
+   "texte": "une",
+   "debut_ms": 7419,
+   "duree_ms": 162
+  },
+  {
+   "texte": "bonne",
+   "debut_ms": 7605,
+   "duree_ms": 197
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 7825,
+   "duree_ms": 372
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 8255,
+   "duree_ms": 185
+  },
+  {
+   "texte": "nourrie",
+   "debut_ms": 8464,
+   "duree_ms": 348
+  },
+  {
+   "texte": "et",
+   "debut_ms": 8847,
+   "duree_ms": 128
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 9009,
+   "duree_ms": 174
+  },
+  {
+   "texte": "logée",
+   "debut_ms": 9207,
+   "duree_ms": 685
+  }
+ ]
+}

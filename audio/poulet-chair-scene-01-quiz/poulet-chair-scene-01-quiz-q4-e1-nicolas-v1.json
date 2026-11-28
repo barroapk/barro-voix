@@ -1,0 +1,42 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q4-e1",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Que veut dire : environ six semaines ?",
+ "texte_prononce": "Que veut dire : environ six semaines ?",
+ "substitutions": [],
+ "duree_ms": 2393,
+ "reperes": [
+  {
+   "texte": "Que",
+   "debut_ms": 0,
+   "duree_ms": 174
+  },
+  {
+   "texte": "veut",
+   "debut_ms": 209,
+   "duree_ms": 128
+  },
+  {
+   "texte": "dire",
+   "debut_ms": 360,
+   "duree_ms": 220
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 801,
+   "duree_ms": 337
+  },
+  {
+   "texte": "six",
+   "debut_ms": 1196,
+   "duree_ms": 151
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 1370,
+   "duree_ms": 395
+  }
+ ]
+}

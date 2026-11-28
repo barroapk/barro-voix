@@ -1,0 +1,62 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q2-e2",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Quelle qualité recherche-t-on dans une souche de poulet de chair ?",
+ "texte_prononce": "Quelle qualité recherche-t-on dans une souche de poulet de chair ?",
+ "substitutions": [],
+ "duree_ms": 3833,
+ "reperes": [
+  {
+   "texte": "Quelle",
+   "debut_ms": 0,
+   "duree_ms": 255
+  },
+  {
+   "texte": "qualité",
+   "debut_ms": 279,
+   "duree_ms": 348
+  },
+  {
+   "texte": "recherche-t-on",
+   "debut_ms": 685,
+   "duree_ms": 662
+  },
+  {
+   "texte": "dans",
+   "debut_ms": 1498,
+   "duree_ms": 209
+  },
+  {
+   "texte": "une",
+   "debut_ms": 1800,
+   "duree_ms": 104
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 1927,
+   "duree_ms": 256
+  },
+  {
+   "texte": "de",
+   "debut_ms": 2218,
+   "duree_ms": 81
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 2357,
+   "duree_ms": 255
+  },
+  {
+   "texte": "de",
+   "debut_ms": 2635,
+   "duree_ms": 93
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 2786,
+   "duree_ms": 337
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "qc-r2",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Pense à une salle de classe à la fin de l'année. On la nettoie, on la prépare, puis une nouvelle classe arrive. Pour l'élevage, c'est pareil : on nettoie bien avant d'accueillir la bande suivante, pour éviter les maladies.",
+ "texte_prononce": "Pense à une salle de classe à la fin de l'année. On la nettoie, on la prépare, puis une nouvelle classe arrive. Pour l'élevage, c'est pareil : on nettoie bien avant d'accueillir la bande suivante, pour éviter les maladies.",
+ "substitutions": [],
+ "duree_ms": 12796,
+ "reperes": [
+  {
+   "texte": "Pense",
+   "debut_ms": 0,
+   "duree_ms": 337
+  },
+  {
+   "texte": "à",
+   "debut_ms": 360,
+   "duree_ms": 23
+  },
+  {
+   "texte": "une",
+   "debut_ms": 441,
+   "duree_ms": 93
+  },
+  {
+   "texte": "salle",
+   "debut_ms": 557,
+   "duree_ms": 209
+  },
+  {
+   "texte": "de",
+   "debut_ms": 801,
+   "duree_ms": 70
+  },
+  {
+   "texte": "classe",
+   "debut_ms": 917,
+   "duree_ms": 337
+  },
+  {
+   "texte": "à",
+   "debut_ms": 1277,
+   "duree_ms": 23
+  },
+  {
+   "texte": "la",
+   "debut_ms": 1335,
+   "duree_ms": 58
+  },
+  {
+   "texte": "fin",
+   "debut_ms": 1474,
+   "duree_ms": 140
+  },
+  {
+   "texte": "de",
+   "debut_ms": 1649,
+   "duree_ms": 58
+  },
+  {
+   "texte": "l'année",
+   "debut_ms": 1753,
+   "duree_ms": 406
+  },
+  {
+   "texte": "On",
+   "debut_ms": 2392,
+   "duree_ms": 127
+  },
+  {
+   "texte": "la",
+   "debut_ms": 2554,
+   "duree_ms": 58
+  },
+  {
+   "texte": "nettoie",
+   "debut_ms": 2670,
+   "duree_ms": 523
+  },
+  {
+   "texte": "on",
+   "debut_ms": 3297,
+   "duree_ms": 128
+  },
+  {
+   "texte": "la",
+   "debut_ms": 3460,
+   "duree_ms": 58
+  },
+  {
+   "texte": "prépare",
+   "debut_ms": 3564,
+   "duree_ms": 674
+  },
+  {
+   "texte": "puis",
+   "debut_ms": 4377,
+   "duree_ms": 209
+  },
+  {
+   "texte": "une",
+   "debut_ms": 4667,
+   "duree_ms": 81
+  },
+  {
+   "texte": "nouvelle",
+   "debut_ms": 4772,
+   "duree_ms": 302
+  },
+  {
+   "texte": "classe",
+   "debut_ms": 5097,
+   "duree_ms": 313
+  },
+  {
+   "texte": "arrive",
+   "debut_ms": 5433,
+   "duree_ms": 569
+  },
+  {
+   "texte": "Pour",
+   "debut_ms": 6130,
+   "duree_ms": 163
+  },
+  {
+   "texte": "l'élevage",
+   "debut_ms": 6327,
+   "duree_ms": 593
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 6943,
+   "duree_ms": 151
+  },
+  {
+   "texte": "pareil",
+   "debut_ms": 7117,
+   "duree_ms": 383
+  },
+  {
+   "texte": "on",
+   "debut_ms": 7883,
+   "duree_ms": 128
+  },
+  {
+   "texte": "nettoie",
+   "debut_ms": 8046,
+   "duree_ms": 336
+  },
+  {
+   "texte": "bien",
+   "debut_ms": 8417,
+   "duree_ms": 372
+  },
+  {
+   "texte": "avant",
+   "debut_ms": 8928,
+   "duree_ms": 302
+  },
+  {
+   "texte": "d'accueillir",
+   "debut_ms": 9253,
+   "duree_ms": 523
+  },
+  {
+   "texte": "la",
+   "debut_ms": 9822,
+   "duree_ms": 70
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 9950,
+   "duree_ms": 197
+  },
+  {
+   "texte": "suivante",
+   "debut_ms": 10170,
+   "duree_ms": 558
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 10890,
+   "duree_ms": 163
+  },
+  {
+   "texte": "éviter",
+   "debut_ms": 11134,
+   "duree_ms": 325
+  },
+  {
+   "texte": "les",
+   "debut_ms": 11482,
+   "duree_ms": 93
+  },
+  {
+   "texte": "maladies",
+   "debut_ms": 11610,
+   "duree_ms": 836
+  }
+ ]
+}

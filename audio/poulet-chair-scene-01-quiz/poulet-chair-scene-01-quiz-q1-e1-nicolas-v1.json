@@ -1,0 +1,52 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q1-e1",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Qu'est-ce qu'une bande, dans un élevage de poulets ?",
+ "texte_prononce": "Qu'est-ce qu'une bande, dans un élevage de poulets ?",
+ "substitutions": [],
+ "duree_ms": 2858,
+ "reperes": [
+  {
+   "texte": "Qu'est-ce",
+   "debut_ms": 0,
+   "duree_ms": 302
+  },
+  {
+   "texte": "qu'une",
+   "debut_ms": 325,
+   "duree_ms": 197
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 557,
+   "duree_ms": 407
+  },
+  {
+   "texte": "dans",
+   "debut_ms": 1207,
+   "duree_ms": 163
+  },
+  {
+   "texte": "un",
+   "debut_ms": 1440,
+   "duree_ms": 46
+  },
+  {
+   "texte": "élevage",
+   "debut_ms": 1556,
+   "duree_ms": 267
+  },
+  {
+   "texte": "de",
+   "debut_ms": 1858,
+   "duree_ms": 58
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 1962,
+   "duree_ms": 337
+  }
+ ]
+}

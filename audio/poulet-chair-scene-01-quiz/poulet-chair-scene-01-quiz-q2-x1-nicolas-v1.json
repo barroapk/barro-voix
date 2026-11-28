@@ -1,0 +1,257 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "q2-x1",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Pense au maïs. Un paysan peut semer une variété qui pousse vite, ou une autre qui met beaucoup plus de temps. S'il veut récolter tôt, il choisit la variété rapide. L'éleveur fait exactement le même choix : il prend la souche qui grandit vite. C'est ça, le poulet de chair.",
+ "texte_prononce": "Pense au maïs. Un paysan peut semer une variété qui pousse vite, ou une autre qui met beaucoup plus de temps. S'il veut récolter tôt, il choisit la variété rapide. L'éleveur fait exactement le même choix : il prend la souche qui grandit vite. C'est ça, le poulet de chair.",
+ "substitutions": [],
+ "duree_ms": 16279,
+ "reperes": [
+  {
+   "texte": "Pense",
+   "debut_ms": 0,
+   "duree_ms": 395
+  },
+  {
+   "texte": "au",
+   "debut_ms": 418,
+   "duree_ms": 46
+  },
+  {
+   "texte": "maïs",
+   "debut_ms": 511,
+   "duree_ms": 708
+  },
+  {
+   "texte": "Un",
+   "debut_ms": 1405,
+   "duree_ms": 139
+  },
+  {
+   "texte": "paysan",
+   "debut_ms": 1591,
+   "duree_ms": 336
+  },
+  {
+   "texte": "peut",
+   "debut_ms": 1985,
+   "duree_ms": 140
+  },
+  {
+   "texte": "semer",
+   "debut_ms": 2148,
+   "duree_ms": 302
+  },
+  {
+   "texte": "une",
+   "debut_ms": 2485,
+   "duree_ms": 81
+  },
+  {
+   "texte": "variété",
+   "debut_ms": 2589,
+   "duree_ms": 406
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 3053,
+   "duree_ms": 93
+  },
+  {
+   "texte": "pousse",
+   "debut_ms": 3193,
+   "duree_ms": 197
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 3425,
+   "duree_ms": 406
+  },
+  {
+   "texte": "ou",
+   "debut_ms": 3959,
+   "duree_ms": 139
+  },
+  {
+   "texte": "une",
+   "debut_ms": 4180,
+   "duree_ms": 92
+  },
+  {
+   "texte": "autre",
+   "debut_ms": 4296,
+   "duree_ms": 209
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 4551,
+   "duree_ms": 81
+  },
+  {
+   "texte": "met",
+   "debut_ms": 4679,
+   "duree_ms": 104
+  },
+  {
+   "texte": "beaucoup",
+   "debut_ms": 4830,
+   "duree_ms": 267
+  },
+  {
+   "texte": "plus",
+   "debut_ms": 5120,
+   "duree_ms": 163
+  },
+  {
+   "texte": "de",
+   "debut_ms": 5329,
+   "duree_ms": 81
+  },
+  {
+   "texte": "temps",
+   "debut_ms": 5468,
+   "duree_ms": 337
+  },
+  {
+   "texte": "S'il",
+   "debut_ms": 5991,
+   "duree_ms": 174
+  },
+  {
+   "texte": "veut",
+   "debut_ms": 6211,
+   "duree_ms": 128
+  },
+  {
+   "texte": "récolter",
+   "debut_ms": 6362,
+   "duree_ms": 430
+  },
+  {
+   "texte": "tôt",
+   "debut_ms": 6838,
+   "duree_ms": 349
+  },
+  {
+   "texte": "il",
+   "debut_ms": 7372,
+   "duree_ms": 116
+  },
+  {
+   "texte": "choisit",
+   "debut_ms": 7523,
+   "duree_ms": 534
+  },
+  {
+   "texte": "la",
+   "debut_ms": 8150,
+   "duree_ms": 116
+  },
+  {
+   "texte": "variété",
+   "debut_ms": 8348,
+   "duree_ms": 371
+  },
+  {
+   "texte": "rapide",
+   "debut_ms": 8766,
+   "duree_ms": 615
+  },
+  {
+   "texte": "L'éleveur",
+   "debut_ms": 9613,
+   "duree_ms": 418
+  },
+  {
+   "texte": "fait",
+   "debut_ms": 10089,
+   "duree_ms": 139
+  },
+  {
+   "texte": "exactement",
+   "debut_ms": 10286,
+   "duree_ms": 546
+  },
+  {
+   "texte": "le",
+   "debut_ms": 10855,
+   "duree_ms": 58
+  },
+  {
+   "texte": "même",
+   "debut_ms": 10960,
+   "duree_ms": 162
+  },
+  {
+   "texte": "choix",
+   "debut_ms": 11146,
+   "duree_ms": 348
+  },
+  {
+   "texte": "il",
+   "debut_ms": 11749,
+   "duree_ms": 116
+  },
+  {
+   "texte": "prend",
+   "debut_ms": 11912,
+   "duree_ms": 162
+  },
+  {
+   "texte": "la",
+   "debut_ms": 12098,
+   "duree_ms": 69
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 12249,
+   "duree_ms": 371
+  },
+  {
+   "texte": "qui",
+   "debut_ms": 12748,
+   "duree_ms": 127
+  },
+  {
+   "texte": "grandit",
+   "debut_ms": 12922,
+   "duree_ms": 302
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 13247,
+   "duree_ms": 499
+  },
+  {
+   "texte": "C'est",
+   "debut_ms": 13909,
+   "duree_ms": 197
+  },
+  {
+   "texte": "ça",
+   "debut_ms": 14141,
+   "duree_ms": 348
+  },
+  {
+   "texte": "le",
+   "debut_ms": 14756,
+   "duree_ms": 105
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 14919,
+   "duree_ms": 232
+  },
+  {
+   "texte": "de",
+   "debut_ms": 15186,
+   "duree_ms": 69
+  },
+  {
+   "texte": "chair",
+   "debut_ms": 15314,
+   "duree_ms": 615
+  }
+ ]
+}

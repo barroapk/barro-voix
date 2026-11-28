@@ -1,0 +1,117 @@
+{
+ "scene": "poulet-chair-scene-01",
+ "segment": "v5",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Regarde : au départ, c'est un petit poussin d'un jour. Et en six semaines environ, il est déjà prêt pour la vente.",
+ "texte_prononce": "Regarde : au départ, c'est un petit poussin d'un jour. Et en six semaines environ, il est déjà prêt pour la vente.",
+ "substitutions": [],
+ "duree_ms": 6434,
+ "reperes": [
+  {
+   "texte": "Regarde",
+   "debut_ms": 0,
+   "duree_ms": 499
+  },
+  {
+   "texte": "au",
+   "debut_ms": 673,
+   "duree_ms": 128
+  },
+  {
+   "texte": "départ",
+   "debut_ms": 836,
+   "duree_ms": 604
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 1509,
+   "duree_ms": 174
+  },
+  {
+   "texte": "un",
+   "debut_ms": 1741,
+   "duree_ms": 47
+  },
+  {
+   "texte": "petit",
+   "debut_ms": 1823,
+   "duree_ms": 244
+  },
+  {
+   "texte": "poussin",
+   "debut_ms": 2090,
+   "duree_ms": 302
+  },
+  {
+   "texte": "d'un",
+   "debut_ms": 2415,
+   "duree_ms": 104
+  },
+  {
+   "texte": "jour",
+   "debut_ms": 2566,
+   "duree_ms": 406
+  },
+  {
+   "texte": "Et",
+   "debut_ms": 3100,
+   "duree_ms": 116
+  },
+  {
+   "texte": "en",
+   "debut_ms": 3251,
+   "duree_ms": 58
+  },
+  {
+   "texte": "six",
+   "debut_ms": 3367,
+   "duree_ms": 174
+  },
+  {
+   "texte": "semaines",
+   "debut_ms": 3564,
+   "duree_ms": 337
+  },
+  {
+   "texte": "environ",
+   "debut_ms": 3959,
+   "duree_ms": 383
+  },
+  {
+   "texte": "il",
+   "debut_ms": 4470,
+   "duree_ms": 139
+  },
+  {
+   "texte": "est",
+   "debut_ms": 4679,
+   "duree_ms": 69
+  },
+  {
+   "texte": "déjà",
+   "debut_ms": 4772,
+   "duree_ms": 244
+  },
+  {
+   "texte": "prêt",
+   "debut_ms": 5062,
+   "duree_ms": 186
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 5283,
+   "duree_ms": 116
+  },
+  {
+   "texte": "la",
+   "debut_ms": 5433,
+   "duree_ms": 59
+  },
+  {
+   "texte": "vente",
+   "debut_ms": 5550,
+   "duree_ms": 534
+  }
+ ]
+}

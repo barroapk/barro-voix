@@ -1,0 +1,112 @@
+{
+ "scene": "poulet-chair-scene-01",
+ "segment": "v3",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "C'est un poulet d'une souche spéciale. Une souche, c'est un type de poulet choisi pour une qualité précise : grandir vite.",
+ "texte_prononce": "C'est un poulet d'une souche spéciale. Une souche, c'est un type de poulet choisi pour une qualité précise : grandir vite.",
+ "substitutions": [],
+ "duree_ms": 7177,
+ "reperes": [
+  {
+   "texte": "C'est",
+   "debut_ms": 0,
+   "duree_ms": 209
+  },
+  {
+   "texte": "un",
+   "debut_ms": 279,
+   "duree_ms": 46
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 372,
+   "duree_ms": 243
+  },
+  {
+   "texte": "d'une",
+   "debut_ms": 639,
+   "duree_ms": 220
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 906,
+   "duree_ms": 255
+  },
+  {
+   "texte": "spéciale",
+   "debut_ms": 1277,
+   "duree_ms": 720
+  },
+  {
+   "texte": "Une",
+   "debut_ms": 2171,
+   "duree_ms": 197
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 2392,
+   "duree_ms": 360
+  },
+  {
+   "texte": "c'est",
+   "debut_ms": 2798,
+   "duree_ms": 197
+  },
+  {
+   "texte": "un",
+   "debut_ms": 3065,
+   "duree_ms": 46
+  },
+  {
+   "texte": "type",
+   "debut_ms": 3146,
+   "duree_ms": 186
+  },
+  {
+   "texte": "de",
+   "debut_ms": 3355,
+   "duree_ms": 70
+  },
+  {
+   "texte": "poulet",
+   "debut_ms": 3471,
+   "duree_ms": 233
+  },
+  {
+   "texte": "choisi",
+   "debut_ms": 3727,
+   "duree_ms": 371
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 4180,
+   "duree_ms": 139
+  },
+  {
+   "texte": "une",
+   "debut_ms": 4377,
+   "duree_ms": 93
+  },
+  {
+   "texte": "qualité",
+   "debut_ms": 4493,
+   "duree_ms": 325
+  },
+  {
+   "texte": "précise",
+   "debut_ms": 4853,
+   "duree_ms": 522
+  },
+  {
+   "texte": "grandir",
+   "debut_ms": 5689,
+   "duree_ms": 371
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 6153,
+   "duree_ms": 674
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "i1",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Petit quiz, pour vérifier que tout est clair !",
+ "texte_prononce": "Petit quiz, pour vérifier que tout est clair !",
+ "substitutions": [],
+ "duree_ms": 2951,
+ "reperes": [
+  {
+   "texte": "Petit",
+   "debut_ms": 0,
+   "duree_ms": 348
+  },
+  {
+   "texte": "quiz",
+   "debut_ms": 383,
+   "duree_ms": 441
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 952,
+   "duree_ms": 151
+  },
+  {
+   "texte": "vérifier",
+   "debut_ms": 1138,
+   "duree_ms": 348
+  },
+  {
+   "texte": "que",
+   "debut_ms": 1509,
+   "duree_ms": 93
+  },
+  {
+   "texte": "tout",
+   "debut_ms": 1637,
+   "duree_ms": 128
+  },
+  {
+   "texte": "est",
+   "debut_ms": 1823,
+   "duree_ms": 69
+  },
+  {
+   "texte": "clair",
+   "debut_ms": 1927,
+   "duree_ms": 302
+  }
+ ]
+}

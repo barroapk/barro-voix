@@ -1,0 +1,52 @@
+{
+ "scene": "poulet-chair-scene-01-quiz",
+ "segment": "fin_parfait-2",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "C'est un sans-faute ! Je suis content de toi.",
+ "texte_prononce": "C'est un sans-faute ! Je suis content de toi.",
+ "substitutions": [],
+ "duree_ms": 2765,
+ "reperes": [
+  {
+   "texte": "C'est",
+   "debut_ms": 0,
+   "duree_ms": 221
+  },
+  {
+   "texte": "un",
+   "debut_ms": 290,
+   "duree_ms": 58
+  },
+  {
+   "texte": "sans-faute",
+   "debut_ms": 395,
+   "duree_ms": 464
+  },
+  {
+   "texte": "Je",
+   "debut_ms": 1138,
+   "duree_ms": 104
+  },
+  {
+   "texte": "suis",
+   "debut_ms": 1289,
+   "duree_ms": 127
+  },
+  {
+   "texte": "content",
+   "debut_ms": 1440,
+   "duree_ms": 267
+  },
+  {
+   "texte": "de",
+   "debut_ms": 1730,
+   "duree_ms": 58
+  },
+  {
+   "texte": "toi",
+   "debut_ms": 1846,
+   "duree_ms": 569
+  }
+ ]
+}

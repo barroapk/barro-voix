@@ -1,0 +1,152 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "qc-r1",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Après la vente, le bâtiment est vide. L'éleveur le nettoie, le désinfecte, puis le laisse reposer quelques jours. Ensuite, il accueille une nouvelle bande de poussins d'un jour.",
+ "texte_prononce": "Après la vente, le bâtiment est vide. L'éleveur le nettoie, le désinfecte, puis le laisse reposer quelques jours. Ensuite, il accueille une nouvelle bande de poussins d'un jour.",
+ "substitutions": [],
+ "duree_ms": 9963,
+ "reperes": [
+  {
+   "texte": "Après",
+   "debut_ms": 0,
+   "duree_ms": 348
+  },
+  {
+   "texte": "la",
+   "debut_ms": 372,
+   "duree_ms": 58
+  },
+  {
+   "texte": "vente",
+   "debut_ms": 488,
+   "duree_ms": 325
+  },
+  {
+   "texte": "le",
+   "debut_ms": 848,
+   "duree_ms": 69
+  },
+  {
+   "texte": "bâtiment",
+   "debut_ms": 964,
+   "duree_ms": 429
+  },
+  {
+   "texte": "est",
+   "debut_ms": 1428,
+   "duree_ms": 70
+  },
+  {
+   "texte": "vide",
+   "debut_ms": 1591,
+   "duree_ms": 383
+  },
+  {
+   "texte": "L'éleveur",
+   "debut_ms": 2159,
+   "duree_ms": 418
+  },
+  {
+   "texte": "le",
+   "debut_ms": 2612,
+   "duree_ms": 58
+  },
+  {
+   "texte": "nettoie",
+   "debut_ms": 2717,
+   "duree_ms": 499
+  },
+  {
+   "texte": "le",
+   "debut_ms": 3344,
+   "duree_ms": 93
+  },
+  {
+   "texte": "désinfecte",
+   "debut_ms": 3483,
+   "duree_ms": 708
+  },
+  {
+   "texte": "puis",
+   "debut_ms": 4354,
+   "duree_ms": 174
+  },
+  {
+   "texte": "le",
+   "debut_ms": 4551,
+   "duree_ms": 70
+  },
+  {
+   "texte": "laisse",
+   "debut_ms": 4667,
+   "duree_ms": 198
+  },
+  {
+   "texte": "reposer",
+   "debut_ms": 4899,
+   "duree_ms": 511
+  },
+  {
+   "texte": "quelques",
+   "debut_ms": 5457,
+   "duree_ms": 325
+  },
+  {
+   "texte": "jours",
+   "debut_ms": 5805,
+   "duree_ms": 430
+  },
+  {
+   "texte": "Ensuite",
+   "debut_ms": 6281,
+   "duree_ms": 557
+  },
+  {
+   "texte": "il",
+   "debut_ms": 6873,
+   "duree_ms": 139
+  },
+  {
+   "texte": "accueille",
+   "debut_ms": 7070,
+   "duree_ms": 337
+  },
+  {
+   "texte": "une",
+   "debut_ms": 7500,
+   "duree_ms": 174
+  },
+  {
+   "texte": "nouvelle",
+   "debut_ms": 7709,
+   "duree_ms": 302
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 8046,
+   "duree_ms": 255
+  },
+  {
+   "texte": "de",
+   "debut_ms": 8324,
+   "duree_ms": 82
+  },
+  {
+   "texte": "poussins",
+   "debut_ms": 8452,
+   "duree_ms": 337
+  },
+  {
+   "texte": "d'un",
+   "debut_ms": 8812,
+   "duree_ms": 116
+  },
+  {
+   "texte": "jour",
+   "debut_ms": 8975,
+   "duree_ms": 638
+  }
+ ]
+}

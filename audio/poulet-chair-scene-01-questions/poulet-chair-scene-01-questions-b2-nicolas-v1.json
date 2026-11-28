@@ -1,0 +1,42 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "b2",
+ "voix": "nicolas",
+ "version": 1,
+ "texte_affiche": "Ah, très bonne question. Regardons ça.",
+ "texte_prononce": "Ah, très bonne question. Regardons ça.",
+ "substitutions": [],
+ "duree_ms": 2533,
+ "reperes": [
+  {
+   "texte": "Ah",
+   "debut_ms": 0,
+   "duree_ms": 290
+  },
+  {
+   "texte": "très",
+   "debut_ms": 325,
+   "duree_ms": 197
+  },
+  {
+   "texte": "bonne",
+   "debut_ms": 546,
+   "duree_ms": 185
+  },
+  {
+   "texte": "question",
+   "debut_ms": 766,
+   "duree_ms": 360
+  },
+  {
+   "texte": "Regardons",
+   "debut_ms": 1149,
+   "duree_ms": 407
+  },
+  {
+   "texte": "ça",
+   "debut_ms": 1579,
+   "duree_ms": 604
+  }
+ ]
+}
