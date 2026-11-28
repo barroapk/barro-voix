@@ -3210,5 +3210,170 @@
   "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-o2-henri-v1.json",
   "duree_ms": 3384,
   "date": "2026-11-28T08:18:54.210442+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "qa-r1",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qa-r1-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qa-r1-vivienne-v1.json",
+  "duree_ms": 14616,
+  "date": "2026-11-28T08:19:49.240501+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "qa-r2",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qa-r2-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qa-r2-vivienne-v1.json",
+  "duree_ms": 12576,
+  "date": "2026-11-28T08:19:57.439541+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "qb-r1",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qb-r1-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qb-r1-vivienne-v1.json",
+  "duree_ms": 14616,
+  "date": "2026-11-28T08:20:09.158354+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "qb-r2",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qb-r2-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qb-r2-vivienne-v1.json",
+  "duree_ms": 11664,
+  "date": "2026-11-28T08:20:12.883227+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "qc-r1",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qc-r1-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qc-r1-vivienne-v1.json",
+  "duree_ms": 10584,
+  "date": "2026-11-28T08:20:21.709409+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "qc-r2",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qc-r2-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qc-r2-vivienne-v1.json",
+  "duree_ms": 12240,
+  "date": "2026-11-28T08:20:28.321927+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "qd-r1",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qd-r1-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qd-r1-vivienne-v1.json",
+  "duree_ms": 9168,
+  "date": "2026-11-28T08:20:32.946083+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "qd-r2",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qd-r2-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qd-r2-vivienne-v1.json",
+  "duree_ms": 7920,
+  "date": "2026-11-28T08:20:37.704716+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "qe-r1",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qe-r1-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qe-r1-vivienne-v1.json",
+  "duree_ms": 14712,
+  "date": "2026-11-28T08:20:45.057405+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "qe-r2",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qe-r2-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-qe-r2-vivienne-v1.json",
+  "duree_ms": 13104,
+  "date": "2026-11-28T08:20:53.554520+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "b1",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-b1-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-b1-vivienne-v1.json",
+  "duree_ms": 1872,
+  "date": "2026-11-28T08:20:54.753099+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "b2",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-b2-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-b2-vivienne-v1.json",
+  "duree_ms": 3096,
+  "date": "2026-11-28T08:20:56.721981+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "b3",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-b3-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-b3-vivienne-v1.json",
+  "duree_ms": 1872,
+  "date": "2026-11-28T08:20:58.942434+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "o1",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-o1-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-o1-vivienne-v1.json",
+  "duree_ms": 2352,
+  "date": "2026-11-28T08:21:01.912268+00:00"
+ },
+ {
+  "scene": "poulet-chair-scene-01-questions",
+  "segment": "o2",
+  "voix": "vivienne",
+  "version": 1,
+  "actif": true,
+  "audio": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-o2-vivienne-v1.mp3",
+  "reperes": "https://cdn.jsdelivr.net/gh/barroapk/barro-voix@main/audio/poulet-chair-scene-01-questions/poulet-chair-scene-01-questions-o2-vivienne-v1.json",
+  "duree_ms": 2688,
+  "date": "2026-11-28T08:21:04.209254+00:00"
  }
 ]

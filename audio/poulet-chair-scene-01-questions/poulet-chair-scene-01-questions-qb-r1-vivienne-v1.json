@@ -1,0 +1,212 @@
+{
+ "scene": "poulet-chair-scene-01-questions",
+ "segment": "qb-r1",
+ "voix": "vivienne",
+ "version": 1,
+ "texte_affiche": "Il y a deux raisons. D'abord la souche : ces poulets ont été sélectionnés pendant des années pour grandir vite. Ensuite l'élevage : une alimentation adaptée, de l'eau propre, et un bon logement. Sans ces soins, même une bonne souche grandit mal.",
+ "texte_prononce": "Il y a deux raisons. D'abord la souche : ces poulets ont été sélectionnés pendant des années pour grandir vite. Ensuite l'élevage : une alimentation adaptée, de l'eau propre, et un bon logement. Sans ces soins, même une bonne souche grandit mal.",
+ "substitutions": [],
+ "duree_ms": 14616,
+ "reperes": [
+  {
+   "texte": "Il",
+   "debut_ms": 68,
+   "duree_ms": 136
+  },
+  {
+   "texte": "y",
+   "debut_ms": 204,
+   "duree_ms": 68
+  },
+  {
+   "texte": "a",
+   "debut_ms": 272,
+   "duree_ms": 41
+  },
+  {
+   "texte": "deux",
+   "debut_ms": 312,
+   "duree_ms": 149
+  },
+  {
+   "texte": "raisons",
+   "debut_ms": 462,
+   "duree_ms": 489
+  },
+  {
+   "texte": "D'abord",
+   "debut_ms": 1359,
+   "duree_ms": 367
+  },
+  {
+   "texte": "la",
+   "debut_ms": 1726,
+   "duree_ms": 122
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 1848,
+   "duree_ms": 489
+  },
+  {
+   "texte": "ces",
+   "debut_ms": 2812,
+   "duree_ms": 136
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 2948,
+   "duree_ms": 272
+  },
+  {
+   "texte": "ont",
+   "debut_ms": 3220,
+   "duree_ms": 68
+  },
+  {
+   "texte": "été",
+   "debut_ms": 3288,
+   "duree_ms": 258
+  },
+  {
+   "texte": "sélectionnés",
+   "debut_ms": 3546,
+   "duree_ms": 625
+  },
+  {
+   "texte": "pendant",
+   "debut_ms": 4171,
+   "duree_ms": 272
+  },
+  {
+   "texte": "des",
+   "debut_ms": 4443,
+   "duree_ms": 95
+  },
+  {
+   "texte": "années",
+   "debut_ms": 4538,
+   "duree_ms": 326
+  },
+  {
+   "texte": "pour",
+   "debut_ms": 4864,
+   "duree_ms": 204
+  },
+  {
+   "texte": "grandir",
+   "debut_ms": 5068,
+   "duree_ms": 408
+  },
+  {
+   "texte": "vite",
+   "debut_ms": 5476,
+   "duree_ms": 462
+  },
+  {
+   "texte": "Ensuite",
+   "debut_ms": 6372,
+   "duree_ms": 367
+  },
+  {
+   "texte": "l'élevage",
+   "debut_ms": 6739,
+   "duree_ms": 557
+  },
+  {
+   "texte": "une",
+   "debut_ms": 7690,
+   "duree_ms": 82
+  },
+  {
+   "texte": "alimentation",
+   "debut_ms": 7772,
+   "duree_ms": 611
+  },
+  {
+   "texte": "adaptée",
+   "debut_ms": 8383,
+   "duree_ms": 611
+  },
+  {
+   "texte": "de",
+   "debut_ms": 9266,
+   "duree_ms": 82
+  },
+  {
+   "texte": "l'eau",
+   "debut_ms": 9348,
+   "duree_ms": 109
+  },
+  {
+   "texte": "propre",
+   "debut_ms": 9457,
+   "duree_ms": 476
+  },
+  {
+   "texte": "et",
+   "debut_ms": 10217,
+   "duree_ms": 54
+  },
+  {
+   "texte": "un",
+   "debut_ms": 10272,
+   "duree_ms": 95
+  },
+  {
+   "texte": "bon",
+   "debut_ms": 10367,
+   "duree_ms": 149
+  },
+  {
+   "texte": "logement",
+   "debut_ms": 10516,
+   "duree_ms": 503
+  },
+  {
+   "texte": "Sans",
+   "debut_ms": 11384,
+   "duree_ms": 245
+  },
+  {
+   "texte": "ces",
+   "debut_ms": 11628,
+   "duree_ms": 163
+  },
+  {
+   "texte": "soins",
+   "debut_ms": 11791,
+   "duree_ms": 380
+  },
+  {
+   "texte": "même",
+   "debut_ms": 12593,
+   "duree_ms": 177
+  },
+  {
+   "texte": "une",
+   "debut_ms": 12770,
+   "duree_ms": 109
+  },
+  {
+   "texte": "bonne",
+   "debut_ms": 12878,
+   "duree_ms": 217
+  },
+  {
+   "texte": "souche",
+   "debut_ms": 13096,
+   "duree_ms": 340
+  },
+  {
+   "texte": "grandit",
+   "debut_ms": 13435,
+   "duree_ms": 353
+  },
+  {
+   "texte": "mal",
+   "debut_ms": 13789,
+   "duree_ms": 462
+  }
+ ]
+}
