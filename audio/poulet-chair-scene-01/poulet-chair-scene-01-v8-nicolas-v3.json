@@ -1,0 +1,137 @@
+{
+ "scene": "poulet-chair-scene-01",
+ "segment": "v8",
+ "voix": "nicolas",
+ "version": 3,
+ "texte_affiche": "Une dernière chose. Les poulets élevés ensemble forment une bande. Dans la prochaine leçon, nous verrons combien de bandes on peut élever en une année.",
+ "texte_prononce": "Une dernière chose. Les poulets élevés ensemble forment une bande. Dans la prochaine leçon, nous verrons combien de bandes on peut élever en une année.",
+ "substitutions": [],
+ "duree_ms": 9595,
+ "reperes": [
+  {
+   "texte": "Une",
+   "debut_ms": 0,
+   "duree_ms": 197
+  },
+  {
+   "texte": "dernière",
+   "debut_ms": 221,
+   "duree_ms": 325
+  },
+  {
+   "texte": "chose",
+   "debut_ms": 569,
+   "duree_ms": 371
+  },
+  {
+   "texte": "Les",
+   "debut_ms": 1184,
+   "duree_ms": 151
+  },
+  {
+   "texte": "poulets",
+   "debut_ms": 1370,
+   "duree_ms": 279
+  },
+  {
+   "texte": "élevés",
+   "debut_ms": 1718,
+   "duree_ms": 244
+  },
+  {
+   "texte": "ensemble",
+   "debut_ms": 1985,
+   "duree_ms": 430
+  },
+  {
+   "texte": "forment",
+   "debut_ms": 2473,
+   "duree_ms": 279
+  },
+  {
+   "texte": "une",
+   "debut_ms": 2833,
+   "duree_ms": 93
+  },
+  {
+   "texte": "bande",
+   "debut_ms": 2949,
+   "duree_ms": 360
+  },
+  {
+   "texte": "Dans",
+   "debut_ms": 3483,
+   "duree_ms": 163
+  },
+  {
+   "texte": "la",
+   "debut_ms": 3669,
+   "duree_ms": 58
+  },
+  {
+   "texte": "prochaine",
+   "debut_ms": 3785,
+   "duree_ms": 325
+  },
+  {
+   "texte": "leçon",
+   "debut_ms": 4133,
+   "duree_ms": 372
+  },
+  {
+   "texte": "nous",
+   "debut_ms": 4551,
+   "duree_ms": 116
+  },
+  {
+   "texte": "verrons",
+   "debut_ms": 4690,
+   "duree_ms": 256
+  },
+  {
+   "texte": "combien",
+   "debut_ms": 4969,
+   "duree_ms": 302
+  },
+  {
+   "texte": "de",
+   "debut_ms": 5317,
+   "duree_ms": 58
+  },
+  {
+   "texte": "bandes",
+   "debut_ms": 5433,
+   "duree_ms": 233
+  },
+  {
+   "texte": "on",
+   "debut_ms": 5700,
+   "duree_ms": 70
+  },
+  {
+   "texte": "peut",
+   "debut_ms": 5828,
+   "duree_ms": 163
+  },
+  {
+   "texte": "élever",
+   "debut_ms": 6026,
+   "duree_ms": 301
+  },
+  {
+   "texte": "en",
+   "debut_ms": 6385,
+   "duree_ms": 128
+  },
+  {
+   "texte": "une",
+   "debut_ms": 6606,
+   "duree_ms": 116
+  },
+  {
+   "texte": "année",
+   "debut_ms": 6745,
+   "duree_ms": 500
+  }
+ ]
+}
